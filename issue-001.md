@@ -26,7 +26,7 @@ A test post got lost and found its way onto mainnet Politeia.
 
 #### Two Communications Proposals
 
-As [explained by dustorf](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154023798936000RPDxl:decred.org) in the new [Proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org) channel, Wachsman and Ditto were invited to pitch proposals to the Decred community on Politeia - following a short-listing process and some initial discussions.
+As [explained by dustorf](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154023798936000RPDxl:decred.org) in the new [Proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org) channel, Wachsman and Ditto were invited to pitch proposals to the Decred community on Politeia - following a short-listing process and some initial discussions. Much of the discussion in the proposals channel thus far has concerned these two proposals.
 
 **[Wachsman Communications Proposal for Decred](https://proposals.decred.org/proposals/bc8776180b5ea8f5d19e7d08e9fcc35f0d1e3d16974963e3e5ded65139e7b092) - submitted Oct 19 by tomcurranlevett**
 
@@ -47,3 +47,5 @@ This is the first issue of what is intended to be a weekly update on Politeia ha
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
 
 Content for this edition was authored by richard-red
+
+Also available on [reddit](https://www.reddit.com/r/decred/comments/9qnye8/politeia_digest_issue_1_a_short_weekly_update_on/) and [medium](https://medium.com/@richardred/politeia-digest-issue-1-oct-23rd-2018-78c23d7026f1).
