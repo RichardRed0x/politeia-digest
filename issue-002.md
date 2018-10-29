@@ -10,19 +10,23 @@ jy-p [confirmed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15408340182
 
 **[Decred Open Source Research](https://proposals.decred.org/proposals/c68bb790ba0843980bb9695de4628995e75e0d1f36c992951db49eca7b3b4bcd) - submitted Oct 16 by richard-red - voting opened Oct 29 - 37 comments (+10)**
 
-This proposal has not been revised in the last week, new comments mostly concern ideas for research and responses from the proposal owner.
+This proposal has not been revised in the last week, new comments include a variety of ideas for research and theories about how research could help steer various aspects of the Decred project.
+Early in the vote the proposal is seeing strong support with nearly 85% yes votes.
 
 **[Change language: PoS Mining to PoS Voting, Stakepool to Voting Service Provider](https://proposals.decred.org/proposals/522652954ea7998f3fca95b9c4ca8907820eb785877dcf7fba92307131818c75) - submitted Oct 19 by richard-red - voting opened Oct 29  - 19 comments  (+0)**
 
-Literally nothing happened with this proposal, aside from the opening of voting.
+There have been no additional comments this week, last week comments were largely voices of support.
+Early in the vote the proposal is seeing very strong support with nearly 98% yes votes.
 
 **[Wachsman Communications Proposal for Decred](https://proposals.decred.org/proposals/bc8776180b5ea8f5d19e7d08e9fcc35f0d1e3d16974963e3e5ded65139e7b092) - submitted Oct 19 by tomcurranlevett - voting opened Oct 29 - 68 comments (+30)**
 
 This proposal was updated five times, with the most recent update made on Oct 25th. Significant edits include a reduction in the out-clause period from 90 days to 30, and a clarification that Wachsman would accept payments 100% in DCR (equivalent to $20k/month). Other edits added updated lists of press coverage and a list of satisfied clients. tomcurrenlevett [joined](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154043111539249iVAnl:decred.org) the #proposals channel on slack (as @tcl) and engaged in some real-time discussion with the community - subjects included the team that would staff the Decred account and potential conflict of interest with other clients.
+Early in the vote the proposal is seeing weak support with just over 27% yes votes.
 
 **[Ditto Communications Proposal for Decred](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50) - submitted Oct 22 by blainr - voting opened Oct 29 - 40 comments (+23)**
 
-This proposal was updated twice, with the most recent update made on Oct 24th. These edits included a reduction in the out-clause period from 90 days to 30, a change to payment terms from $20k in USD and $10k equivalent in DCR to $30k in DCR, subsequently dropped to $25k in DCR. @liz from Ditto [joined](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154044500839351wDVHK:decred.org) the #proposals channel on Slack around 4 hours after tomcurrenlevett, and also engaged in some real-time discussion with the community - subjects included differentiation from Wachsman and whether/why Ditto's service is worth $5k/month more. Of note, @liz clarified (later added as a comment on the proposal by blainr) that the monthly fee could be reduced if Decred opted not to take some of the services that Ditto were offering. 
+This proposal was updated twice, with the most recent update made on Oct 24th. These edits included a reduction in the out-clause period from 90 days to 30, a change to payment terms from $20k in USD and $10k equivalent in DCR to $30k in DCR, subsequently dropped to $25k in DCR. @liz from Ditto [joined](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154044500839351wDVHK:decred.org) the #proposals channel on Slack around 4 hours after tomcurrenlevett, and also engaged in some real-time discussion with the community - subjects included differentiation from Wachsman and whether/why Ditto's service is worth $5k/month more. Of note, @liz clarified (later added as a comment on the proposal by blainr) that the monthly fee could be reduced if Decred opted not to take some of the services that Ditto were offering.
+Early in the vote the proposal is seeing strong support with just over 81% yes votes.
 
 ### General Politeia Discussions
 
