@@ -40,7 +40,7 @@ Politeia is under active development, and will be for the foreseeable future. To
 
 The proposals site was updated this week to add buttons linking to the underlying data for proposals on GitHub ([example](https://github.com/decred-proposals/mainnet/tree/master/c68bb790ba0843980bb9695de4628995e75e0d1f36c992951db49eca7b3b4bcd/1)). Those links take you to the latest version of the proposal, within the payload folder there is an index.md file with the body text of that version of the proposal. Within the plugins/decred/ folder there are records of all the comments and up/down votes on proposals.decred.org (comments.journal), and all of the ticket votes (ballot.journal - if voting is open).
 
-![](img/issue002/github-navigation-arrows.png)
+![](img/issue002/github-navigation.png)
 
 You can also navigate up one level to browse all of the previous versions of the proposal, within their respective payload directories. Interface for browsing proposal versions and diffs on proposals.decred.org is coming soon.
 
