@@ -48,6 +48,6 @@ You can also navigate up one level to browse all of the previous versions of the
 
 Content for this edition was authored by richard-red, with language tweaks by oregonisaac
 
-Also available on [reddit](https://www.reddit.com/r/decred/comments/9qnye8/politeia_digest_issue_1_a_short_weekly_update_on/) and [medium](https://medium.com/@richardred/politeia-digest-issue-2-d3579bb2ea7c).
+Also available on [reddit](https://www.reddit.com/r/decred/comments/9sruhn/politeia_digest_2_oct_2330th_2018/) and [medium](https://medium.com/@richardred/politeia-digest-issue-2-d3579bb2ea7c).
 
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
