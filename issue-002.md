@@ -8,7 +8,7 @@ jy-p [confirmed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15408340182
 
 ### Proposals open for voting
 
-![Snapshot of proposals open for voting, taken 17:37 UTC Oct 30th](../img/issue002/issue-2-snapshot.png)
+![Snapshot of proposals open for voting, taken 17:37 UTC Oct 30th](img/issue002/issue-2-snapshot.png)
 
 **[Decred Open Source Research](https://proposals.decred.org/proposals/c68bb790ba0843980bb9695de4628995e75e0d1f36c992951db49eca7b3b4bcd) - submitted Oct 16 by richard-red - voting opened Oct 29 - 38 comments (+11)**
 
@@ -40,7 +40,7 @@ Politeia is under active development, and will be for the foreseeable future. To
 
 The proposals site was updated this week to add buttons linking to the underlying data for proposals on GitHub ([example](https://github.com/decred-proposals/mainnet/tree/master/c68bb790ba0843980bb9695de4628995e75e0d1f36c992951db49eca7b3b4bcd/1)). Those links take you to the latest version of the proposal, within the payload folder there is an index.md file with the body text of that version of the proposal. Within the plugins/decred/ folder there are records of all the comments and up/down votes on proposals.decred.org (comments.journal), and all of the ticket votes (ballot.journal - if voting is open).
 
-![](../img/issue002/github-navigation-arrows.png)
+![](img/issue002/github-navigation-arrows.png)
 
 You can also navigate up one level to browse all of the previous versions of the proposal, within their respective payload directories. Interface for browsing proposal versions and diffs on proposals.decred.org is coming soon.
 
