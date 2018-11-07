@@ -6,7 +6,7 @@
 
 **[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit - 11 comments**
 
-Easyrabbit has already listed DCR and is offering a "premium listing" for 30DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express scepticism about this offer.
+Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express scepticism about this offer.
 
 **[Sweepstakes](https://proposals.decred.org/proposals/517ac6598031e17e3e301d41e73a62e4a7c10ee6dafb3dc65fbdd32f550971b0) - submitted Nov 5th by geraldoneto - 8 comments**
 
@@ -20,7 +20,7 @@ The votes that concluded this week all had the same start block. The ticket pool
 
 11,854 Yes votes, 1,287 No votes (90.2% Yes) - voter participation of 32%, support from 28.8% of tickets.
 
-#Research channels have been created on [Matrix](https://matrix.to/#/!vGasNHFXqjoEWUBTIi:decred.org) and Slack platforms and they have been bridged. Discussions of how to get this program up and running have started. Another Politeia proposal for collecting and discussing research questions and methods will be submitted soon.
+#research channels have been created on [Matrix](https://matrix.to/#/!vGasNHFXqjoEWUBTIi:decred.org) and Slack platforms and they have been bridged. Discussions of how to get this program up and running have started. Another Politeia proposal for collecting and discussing research questions and methods will be submitted soon.
 
 **[Change language: PoS Mining to PoS Voting, Stakepool to Voting Service Provider](https://proposals.decred.org/proposals/522652954ea7998f3fca95b9c4ca8907820eb785877dcf7fba92307131818c75) - voting closed Nov 5  - 19 comments  (+0)**
 
@@ -30,7 +30,7 @@ Next step: The [pull request](https://github.com/decred/dcrdocs/pull/590) to mak
 
 **[Ditto Communications Proposal for Decred](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50) - voting closed Nov 5 -  47 comments (+3)**
 
-13,206 Yes votes, 7985 No votes (62.3% Yes) - voter participation of 51.6%, support from 32.1% of tickets.
+13,206 Yes votes, 7,985 No votes (62.3% Yes) - voter participation of 51.6%, support from 32.1% of tickets.
 
 Next step: @dustorf will have a meeting with Ditto representatives to kick things off and report back about how Ditto will communicate with the project and community going forward.
 
@@ -42,7 +42,7 @@ Next step: @dustorf will have a meeting with Ditto representatives to kick thing
 
 ### Politeia Discussions
 
-Much of the discussion in the #Proposals channel this week has been about the ongoing votes. After a few days, the Ditto proposal became the most closely watched, as it bounced above and below the critical 60% threshold.
+Much of the discussion in the #proposals channel this week has been about the ongoing votes. After a few days, the Ditto proposal became the most closely watched, as it bounced above and below the critical 60% threshold.
 
 The details of how Politeia stores data have been discussed. There are no timestamps recorded in the repository for individual ticket votes, but these are journaled and added in hourly commits, so it is possible to know which hour a ticket voted in based on this data. The lack of timestamps in the data is a measure to protect the privacy of people who vote with large blocks of tickets at once without using the vote trickling options CLI offers. 
 
@@ -50,12 +50,19 @@ The details of how Politeia stores data have been discussed. There are no timest
 
 ![Chart showing votes over time for the PR proposals, and a table of other stats - by @snr01](img/issue003/snr01-pr-infographic.png)
 
-The chart indicates that there were short intervals where significant blocks of tickets voted, typically for one proposal and against another. 
+The chart indicates that there were short intervals where significant blocks of tickets voted, typically for one proposal and against another. The most significant instance was on the 3rd day of the voting period, when in a single hour 4,713 tickets voted Yes on Ditto and 4,716 voted No on Wachsman. That could be one large Decred holder voting their tickets at once, or several who happened to vote in the same hour. 
 
-Analysis of the tickets indicates that almost every ticket that votes on the Wachsman proposal also voted on the Ditto proposal (98%), whereas 39% of the tickets that voted on Ditto did not vote on Wachsman. 
+Analysis of the tickets indicates that almost every ticket that voted on the Wachsman proposal also voted on the Ditto proposal (98%), whereas 39% of the tickets that voted on Ditto did not vote on Wachsman. The divergence in voting rates happened after that big block of votes on day 3. It is likely a reaction to the big block of votes making it seem unlikely that the Wachsman proposal would pass.
 
-Of the 12,937 tickets that voted on both proposals, 61.2% voted for one and against the other, 22.6% voted Yes on both, and 16.2% votes No on both.
+The Ditto proposal's approval rate steadily decreased after this, and was at less than the required 60% for much of the last few days, until a late surge in Yes votes pushed it over the line.
+
+Of the 12,937 tickets that voted on both proposals, 61.2% voted for one and against the other, 22.6% voted Yes on both, and 16.2% voted No on both. There are significant groups within the community who wanted neither firm to be hired, and who were happy with either/both.
+
+Work on a more efficient way of re-formatting the data to make it amenable to analysis was also discussed in the channel.
 
 ### Documentation for Politeia data
 
-A [pull request](https://github.com/decred/dcrdocs/pull/679) is open to add a page about navigating Politeia data to the docs site. 
+A [pull request](https://github.com/decred/dcrdocs/pull/679) is open to add a page about navigating Politeia data to the docs site.
+
+
+
