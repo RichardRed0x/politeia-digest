@@ -1,5 +1,7 @@
 ## Politeia Digest #3 - Oct 31st-Nov 6th 2018
 
+![Snapshot taken 2300 UTC Nov 6th](img/issue003/issue-3-snapshot.png)
+
 ### New Proposals
 
 **[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit - 11 comments**
@@ -46,7 +48,7 @@ The details of how Politeia stores data have been discussed. There are no timest
 
 @snr01 produced charts from the ticket voting data showing number of Yes and No votes per commit (hour) for the Ditto and Wachsman proposals. The final version is included below.
 
-![Chart showing votes over time for the PR proposals, and a table of other stats - by @snr01](/img/issue003/snr01-pr-infographic.png)
+![Chart showing votes over time for the PR proposals, and a table of other stats - by @snr01](img/issue003/snr01-pr-infographic.png)
 
 The chart indicates that there were short intervals where significant blocks of tickets voted, typically for one proposal and against another. 
 
