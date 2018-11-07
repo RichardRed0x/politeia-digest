@@ -6,11 +6,11 @@
 
 **[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit - 11 comments**
 
-Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express scepticism about this offer.
+Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express skepticism about this offer.
 
 **[Sweepstakes](https://proposals.decred.org/proposals/517ac6598031e17e3e301d41e73a62e4a7c10ee6dafb3dc65fbdd32f550971b0) - submitted Nov 5th by geraldoneto - 8 comments**
 
-This proposal describes a raffle system and some example configurations, but does not propose a specific plan for building it. Comments criticise the proposal for lack of detail, and express doubt that building such a system is worthwhile.
+This proposal describes a raffle system and some example configurations, but does not propose a specific plan for building it. Comments criticize the proposal for lack of detail, and express doubt that building such a system is worthwhile.
 
 ### Approved proposals
 
@@ -64,5 +64,13 @@ Work on a more efficient way of re-formatting the data to make it amenable to an
 
 A [pull request](https://github.com/decred/dcrdocs/pull/679) is open to add a page about navigating Politeia data to the docs site.
 
+Data stored in the repository is attributed to users through their Politeia public key. Each user's public key(s) can be retrieved through an API call, and used to identify all of their proposals, comments and comment up/down votes. More on this next week. 
 
+## About this issue
+
+Content for this edition was authored by @richard-red, with feedback from @bee. Chart and data provided by @snr01
+
+Also available on [medium](https://medium.com/@richardred/politeia-digest-issue-3-oct-31-nov-6-2018-44308c973fde).
+
+If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
 
