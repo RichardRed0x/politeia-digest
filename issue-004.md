@@ -14,9 +14,11 @@ This proposal suggests that Decred adopts ProgPoW and espouses ASIC-resistance. 
 
 This proposal was updated to a second version with "input from commenters,the edit adds bonuses for milestones and a list of initial contractors that can reasonably drive the work to completion." Voting has been authorized to start and will probably be open by the time you read this.
 
+*Recap: This proposal is about formalizing Decred's process for approving new contributors to be paid for their work. A Decred Contractor Clearance (DCC) would be required for every person whose work is being charged to the Treasury. The process of granting and revoking DCCs requires the agreement of at least 3 established contributors in the relevant subdomain. Mechanisms for escalating issues to an all-contractor vote, and ultimately a stakeholder vote, were also described.*
+
 **[Sweepstakes](https://proposals.decred.org/proposals/517ac6598031e17e3e301d41e73a62e4a7c10ee6dafb3dc65fbdd32f550971b0) - submitted Nov 5th by geraldoneto - 17 comments (+9)** 
 
-So far the proposal owner has not responded to comments on the proposal. New comments this week express no support for the proposal, questioning both the rationale for Decred to do something like this and the practicalities of making it happen. 
+So far the proposal owner has not responded to comments on the proposal. New comments this week express no support for the proposal, questioning both the rationale for Decred to do something like this and the practicalities of making it happen.
 
 ### Politeia Discussions and Development
 
