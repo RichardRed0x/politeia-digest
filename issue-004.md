@@ -59,6 +59,6 @@ A [pull request](https://github.com/decred/dcrdocs/pull/679) to add a page about
 
 Content for this edition was authored by @richard-red with contributions from @bee
 
-Also available on [medium](https://medium.com/@richardred/politeia-digest-issue-3-oct-31-nov-6-2018-44308c973fde).
+Also available on [medium](https://medium.com/politeia-digest/politeia-digest-issue-4-nov-7-nov-13-2018-685e18e7491a).
 
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
