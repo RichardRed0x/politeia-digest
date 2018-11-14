@@ -1,6 +1,16 @@
 ## Politeia Digest #4 - Nov 7th-Nov 13th 2018
 
-![Snapshot taken 23:30 Nov 13 2018 UTC](img/issue004/004-snapshot.png)
+![Snapshot taken 15:25 UTC Nov 14 2018](img/issue004/004-snapshot.png)
+
+### Proposal open for voting
+
+**[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4) - updated Nov 13th by jy-p, voting started Nov 14th - 40 comments (+2)**
+
+This proposal was updated to a second version and the start of voting was authorized late on Nov 13th,  @jy-p commented:  "I have updated this proposal with input from commenters, added bonuses for milestones, and added a list of initial contractors that can reasonably drive this work to completion."
+
+Voting opened on Nov 14th at 14:21.
+
+*Recap: This proposal is about formalizing Decred's process for approving new contributors to be paid for their work. A Decred Contractor Clearance (DCC) would be required for every person whose work is being charged to the Treasury. The process of granting and revoking DCCs requires the agreement of at least 3 established contributors in the relevant subdomain. Mechanisms for escalating issues to an all-contractor vote, and ultimately a stakeholder vote, were also described.*
 
 ### New Proposals
 
@@ -10,30 +20,26 @@ This proposal suggests that Decred adopts ProgPoW and espouses ASIC-resistance. 
 
 ### Proposals under discussion
 
-**[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4) - updated Nov 13th by jy-p - 39 comments (+1)**
-
-This proposal was updated to a second version with "input from commenters, the edit adds bonuses for milestones and a list of initial contractors that can reasonably drive the work to completion." Voting has been authorized to start and will probably be open by the time you read this.
-
-*Recap: This proposal is about formalizing Decred's process for approving new contributors to be paid for their work. A Decred Contractor Clearance (DCC) would be required for every person whose work is being charged to the Treasury. The process of granting and revoking DCCs requires the agreement of at least 3 established contributors in the relevant subdomain. Mechanisms for escalating issues to an all-contractor vote, and ultimately a stakeholder vote, were also described.*
-
 **[Sweepstakes](https://proposals.decred.org/proposals/517ac6598031e17e3e301d41e73a62e4a7c10ee6dafb3dc65fbdd32f550971b0) - submitted Nov 5th by geraldoneto - 17 comments (+9)** 
 
 So far the proposal owner has not responded to comments on the proposal. New comments this week express no support for the proposal, questioning both the rationale for Decred to do something like this and the practicalities of making it happen.
 
 ### Politeia Discussions and Development
 
+The proposals.decred.org GUI has been updated to show the quorum and approval requirements on each proposal that has opened voting.
+
 The subject of **sub-standard proposals** and the extent to which they clutter the proposals site has been discussed in some depth this week. 
 
 There are a couple of issues with these: 
 
-1. If the proposal owner never authorizes the start of voting, they occupy space on Politeia tabs like [pre-voting] and [all proposals] for an extended period of time.
+1. If the proposal owner does not authorize the start of voting, they occupy space on Politeia tabs like [pre-voting] and [all proposals] for an extended period of time.
 2. The cycle for a proposal submission and vote is quite long, and so every proposal will occupy a significant amount of voter attention by virtue of appearing in high-visibility locations for ~2-3 weeks and requiring votes to determine the outcome.
 
-Both can be abused for promotion.
+The visibility afforded to each proposal, and low cost to submit a proposal, could lead to more proposals with the primary aim of promoting their subject and only secondary consideration given to whether it is an appropriate decision to run past all of Decred's stakeholders.
 
 The first is an immediate problem with relatively straightforward solutions. There are issues discussing two approaches: [allow admins to force the start of a vote after N days](https://github.com/decred/politeia/issues/590), and [timeout and deprecate untouched proposals](https://github.com/decred/politeia/issues/479), where proposals that remain inactive for some time can be deprecated by given a deprecated status by admins and would disappear from the lists where proposals are displayed.
 
-The second is a potential problem and not yet pressing with a total of 9 proposals. There was a discussion/ideation session in #governance that has some perspectives worth sharing here.
+The second is a potential problem and not yet pressing with a total of 9 proposals. There was a discussion/ideation session in #governance (spilling into other channels) that has some perspectives worth sharing here.
 
 * @jy-p [observed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154204492114009oiNPG:decred.org) that so far every proposal has been approved by admins, to give a sense of what the standard of incoming proposals is like. When votes start happening for the lower-quality proposals, the outcomes may help to establish that the stakeholders are not interested in certain kinds of proposal. Moderation by admins and raising the proposal fee are two levers that can still be pulled to reduce the effects of spam.
 * @davecgh [suggested](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154204810014110MwJWj:decred.org) a mechanism for (a large) part of the proposal fee to be used as a deposit, returned to the proposer if the proposal meets some minimum threshold of approval. This would encourage prospective proposers to think about their prospects of success and maybe run their idea past the community before taking the step of submitting a proposal.
@@ -45,13 +51,13 @@ Discussion of [blind voting](https://matrix.to/#/!tIDEIWechmqCLjPiui:decred.org/
 
 Discussion of [proposal updates](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$154194006413164sAmLf:decred.org) in #general and on this [issue](https://github.com/decred/politeia/issues/591). The question of whether Politeia should facilitate the communication of updates on funded proposal was discussed. Arguments in favor of using Politeia for this are that it can benefit from the permanent censorship-resistant record-keeping of Pi, and should also benefit from the notifications feature.
 
-Arguments were made against mandatory reporting by proposal owners, which everyone seems to agree is not desirable. Suggestions were put forward to 1) allow proposal owners to make comments on their funded proposals (all commenting is currently locked on proposals that have finished voting) and allow comments in reply to that thread, 2) use a modified type of "proposal" which would not appear in the usual places and would not be voted on, but would be shown in an Updates tab and linked to from the page for its relevant parent proposal. 
+Arguments were made against mandatory reporting, which everyone seems to agree is not desirable. Suggestions were put forward to 1) allow proposal owners to make comments on their funded proposals (all commenting is currently locked on proposals that have finished voting) and allow comments in reply to that thread only, 2) use a modified type of "proposal" which would not appear in the usual places and would not be voted on, but would be shown in an Updates tab and linked to from the page for its relevant parent proposal. 
 
-**A page about Politeia data has been created on docs.decred.org** - if it's ready
+A [pull request](https://github.com/decred/dcrdocs/pull/679) to add a page about navigating Politeia data to dcrdocs has just been merged (this [link](/advanced/navigating-politeia-data/) will work once it is deployed). The next issue should include some analysis of this data.
 
 ## About this issue
 
-Content for this edition was authored by @richard-red
+Content for this edition was authored by @richard-red with contributions from @bee
 
 Also available on [medium](https://medium.com/@richardred/politeia-digest-issue-3-oct-31-nov-6-2018-44308c973fde).
 
