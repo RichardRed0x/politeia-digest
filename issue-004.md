@@ -53,7 +53,7 @@ Discussion of [proposal updates](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.
 
 Arguments were made against mandatory reporting, which everyone seems to agree is not desirable. Suggestions were put forward to 1) allow proposal owners to make comments on their funded proposals (all commenting is currently locked on proposals that have finished voting) and allow comments in reply to that thread only, 2) use a modified type of "proposal" which would not appear in the usual places and would not be voted on, but would be shown in an Updates tab and linked to from the page for its relevant parent proposal. 
 
-A [pull request](https://github.com/decred/dcrdocs/pull/679) to add a page about navigating Politeia data to dcrdocs has just been merged (this [link](/advanced/navigating-politeia-data/) will work once it is deployed). The next issue should include some analysis of this data.
+A [pull request](https://github.com/decred/dcrdocs/pull/679) to add a page about navigating Politeia data to dcrdocs has just been merged (this [link](http://docs.decred.org/advanced/navigating-politeia-data/) should work once it is deployed). The next issue should include some analysis of this data.
 
 ## About this issue
 
