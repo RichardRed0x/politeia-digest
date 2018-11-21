@@ -12,9 +12,11 @@ New comments observe that the proposal owner has yet to reply to any comments on
 
 ### Approved proposal
 
-**[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4) - voting closed Nov 21st - 40 comments (+0)**
+**[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4) - voting closed Nov 21st - 44 comments (+4) **
 
+12,545 Yes votes, 547 No votes (95.8% Yes) - voter participation of 32%, support from 30.7% of tickets.
 
+Final comments were mostly from @bee, asking a variety of insightful questions but unfortunately just 18 hours before voting (and commenting) closed.
 
 ### Proposals under discussion
 
@@ -24,7 +26,7 @@ New comments make a case that Decred has nothing to fear from the range of ASIC 
 
 ### Politeia Discussions and Development
 
-Opt-in notifications are being tested on [test-proposals.decred.org](https://test-proposals.decred.org/), these provide options for following one's own proposals for notifications about when it they are approved or censored and when voting starts - and following all proposals for notifications when proposals are published, edited, or when voting starts.
+Opt-in email notifications are being tested on [test-proposals.decred.org](https://test-proposals.decred.org/). There are options for following one's own proposals for notifications about when it they are approved or censored and when voting starts - and following all proposals for notifications when proposals are published, edited, or when voting starts.
 
 Proposal abandonment is also being tested. If a proposal's owner has not authorized the start of voting after 14 days an admin can, at their discretion, mark the proposal as abandoned. Abandoned proposals are shown in a specific tab and removed from display elsewhere.
 
@@ -32,7 +34,7 @@ Much [discussion](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1542227958
 
 For a while people also wondered if the DCC proposal would reach the quorum requirement. It did, thanks in part to a big spike of Yes votes. @snr01 [compared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154272007821111dMRtf:decred.org) the tickets in this spike to the spike of 4,747 votes on the Ditto proposal, around 50% of the tickets that voted in the Ditto spike also voted in this DCC spike, suggesting that many of the votes come from the same whale.
 
-***The page on docs about Politeia data is live now.***
+The page on the docs site [about Politeia data](https://docs.decred.org/advanced/navigating-politeia-data/) is also live now.
 
 ### Politeia analysis
 
@@ -45,7 +47,7 @@ Politeia is intentionally highly transparent in how it handles data, and this in
 
 ## About this issue
 
-Content for this edition was authored by @richardred 
+Content for this edition was authored by @richardred, with feedback and contributions from @bee
 
 Also available on [medium](https://medium.com/politeia-digest/politeia-digest-issue-4-nov-7-nov-13-2018-685e18e7491a).
 
