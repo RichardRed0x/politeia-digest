@@ -26,6 +26,8 @@ New comments make a case that Decred has nothing to fear from the range of ASIC 
 
 Opt-in notifications are being tested on [test-proposals.decred.org](https://test-proposals.decred.org/), these provide options for following one's own proposals for notifications about when it they are approved or censored and when voting starts - and following all proposals for notifications when proposals are published, edited, or when voting starts.
 
+Proposal abandonment is also being tested. If a proposal's owner has not authorized the start of voting after 14 days an admin can, at their discretion, mark the proposal as abandoned. Abandoned proposals are shown in a specific tab and removed from display elsewhere.
+
 Much [discussion](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154222795816275aAeQm:decred.org) in #proposals this week about a bug bounty program that @degeri is putting together - latest being an [update](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154268059220831DtdvP:decred.org) from a call with Hackerone, although sentiment seems to favor Decred developing a platform for operating the bounty program in-house, possibly on top of Politeia.
 
 For a while people also wondered if the DCC proposal would reach the quorum requirement. It did, thanks in part to a big spike of Yes votes. @snr01 [compared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154272007821111dMRtf:decred.org) the tickets in this spike to the spike of 4,747 votes on the Ditto proposal, around 50% of the tickets that voted in the Ditto spike also voted in this DCC spike, suggesting that many of the votes come from the same whale.
