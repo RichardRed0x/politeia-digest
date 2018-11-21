@@ -1,6 +1,6 @@
 ## Politeia Digest #5 - Nov 14th-Nov 20th 2018
 
-![Snapshot taken 15:25 UTC Nov 14 2018](img/issue004/005-snapshot.png)
+![Snapshot taken 16:22 UTC Nov 21 2018](img/issue005/005-snapshot.png)
 
 ### Proposal open for voting
 
@@ -8,7 +8,7 @@
 
 New comments observe that the proposal owner has yet to reply to any comments on the proposal, but did authorize the start of voting.
 
-*Recap: Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express skepticism about this offer.*
+*Recap: Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media.*
 
 ### Approved proposal
 
@@ -16,11 +16,11 @@ New comments observe that the proposal owner has yet to reply to any comments on
 
 12,545 Yes votes, 547 No votes (95.8% Yes) - voter participation of 32%, support from 30.7% of tickets.
 
-Final comments were mostly from @bee, asking a variety of insightful questions but unfortunately just 18 hours before voting (and commenting) closed.
+Final comments were mostly from @bee, asking a variety of astute questions but unfortunately just 18 hours before voting (and commenting) closed.
 
 ### Proposals under discussion
 
-**[Upgrade mining algorithm to ProgPoW](https://proposals.decred.org/proposals/0aaab331075d08cb03333d5a1bef04b99a708dcbfebc8f8c94040ceb1676e684) - submitted Nov 11th by engineerking - 8 comments (+4)**
+**[Upgrade mining algorithm to ProgPoW](https://proposals.decred.org/proposals/0aaab331075d08cb03333d5a1bef04b99a708dcbfebc8f8c94040ceb1676e684) - submitted Nov 11th by engineerking - 9 comments (+4)**
 
 New comments make a case that Decred has nothing to fear from the range of ASIC manufacturers currently shipping Decred mining hardware, due to the check on miners which PoS ticket-voters provide.
 
@@ -45,10 +45,14 @@ The page on the docs site [about Politeia data](https://docs.decred.org/advanced
 
 Politeia is intentionally highly transparent in how it handles data, and this includes user actions like commenting and voting. The report observes that the granularity of the data would allow for the easy production of tables showing user activity levels, with more detailed analysis of comment upvoting also possible - and calls for a discussion about how much of this kind of analysis is productive.
 
+The figure below shows comment frequency per day after proposal appears.
+
+![Comment frequency per day after proposal appears](img/issue005/comments-by-day-by-proposal.png)
+
 ## About this issue
 
 Content for this edition was authored by @richardred, with feedback and contributions from @bee
 
-Also available on [medium](https://medium.com/politeia-digest/politeia-digest-issue-4-nov-7-nov-13-2018-685e18e7491a).
+Also available on [medium](https://medium.com/politeia-digest/issue-5-nov-14-nov-20-2018-62e8aed223b7).
 
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
