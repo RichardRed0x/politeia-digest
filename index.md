@@ -8,3 +8,4 @@
 
 ### [Issue 004](issue-004.md) - November 7th-November 13th 2018
 
+### [Issue 005](issue-005.md) - November 14th-November 20th 2018
