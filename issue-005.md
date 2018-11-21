@@ -2,7 +2,7 @@
 
 ![Snapshot taken 15:25 UTC Nov 14 2018](img/issue004/005-snapshot.png)
 
-### Proposal open for voting
+### Proposals open for voting
 
 **[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting started Nov 16th - 14 comments (+3)**
 
@@ -10,11 +10,9 @@ New comments observe that the proposal owner has yet to reply to any comments on
 
 *Recap: Easyrabbit has already listed DCR and is offering a "premium listing" for 30 DCR - with promotions like no/low trading fees and feature placement on the site and in social media. Comments point out that Decred has never paid for an exchange listing and generally express skepticism about this offer.*
 
-### Approved proposal
+### Approved proposals
 
 **[Decred Contractor Clearance Process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4) - voting closed Nov 21st - 40 comments (+0)**
-
-
 
 ### Proposals under discussion
 
@@ -24,7 +22,7 @@ New comments make a case that Decred has nothing to fear from the range of ASIC 
 
 ### Politeia Discussions and Development
 
-Opt-in notifications are being tested on [test-proposals.decred.org](https://test-proposals.decred.org/), these provide options for following one's own proposals for notifications about when it they are approved or censored and when voting starts - and following all proposals for notifications when proposals are published, edited, or when voting starts.
+Opt-in notifications are being tested on [test-proposals.decred.org](https://test-proposals.decred.org/), these provide options for following one's own proposals for notifications about when they are approved or censored and when voting starts - and following all proposals for notifications when proposals are published, edited, or when voting starts.
 
 Proposal abandonment is also being tested. If a proposal's owner has not authorized the start of voting after 14 days an admin can, at their discretion, mark the proposal as abandoned. Abandoned proposals are shown in a specific tab and removed from display elsewhere.
 
@@ -36,9 +34,9 @@ For a while people also wondered if the DCC proposal would reach the quorum requ
 
 ### Politeia analysis
 
-@richardred has collected [data](https://github.com/RichardRed0x/pi-research/tree/master/data) from Politeia about comments and comment votes,  and written up some early [analysis](https://github.com/RichardRed0x/pi-research/blob/master/analysis/comments-analysis-writeup-2018-11-19.md). Some key points:
+@richardred has collected [data](https://github.com/RichardRed0x/pi-research/tree/master/data) from Politeia about comments and comment votes, and written up some early [analysis](https://github.com/RichardRed0x/pi-research/blob/master/analysis/comments-analysis-writeup-2018-11-19.md). Some key points:
 
-* So far there have been 9 proposals, 264 comments and 1,027 up/down votes on those comments, from 80 different Pi public keys. 10% of the votes have been down-votes.
+* So far there have been 9 proposals, 264 comments and 1,027 up/down votes on those comments, from 80 different Pi public keys. 10% of the votes have been downvotes.
 * Proposals are typically most active in their first 3 days, with 66% of comments submitted in that window, while 3 proposals were being actively discussed for over a week.
 
 Politeia is intentionally highly transparent in how it handles data, and this includes user actions like commenting and voting. The report observes that the granularity of the data would allow for the easy production of tables showing user activity levels, with more detailed analysis of comment upvoting also possible - and calls for a discussion about how much of this kind of analysis is productive.
