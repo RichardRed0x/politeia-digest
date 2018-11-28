@@ -1,6 +1,6 @@
 ## Politeia Digest #6 - Nov 21st-Nov 27th 2018
 
-***Treasury balance: 590,764 DCR  (+ approx 16,718/month) - $11.8 million (+$335k/month)***
+**Treasury balance: 590,764 DCR (approx +16,718 DCR/month) - $11.8 million (+$335k/month)**
 
 ![Snapshot taken 00:37 UTC Nov 28 2018](img/issue006/006-snapshot.png)
 
@@ -12,17 +12,19 @@ This proposal is being used to host discussion on research projects and ideas fo
 
 ### Rejected proposal
 
-**[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting ended Nov 23rd - 15 comments (+1)**
+**[Premium Listing for Decred on Easyrabbit](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting ended Nov 23rd - 15 comments (+1)**
 
 444 Yes votes, 8,312 No votes (5% Yes) - voter participation of 21%, support from 1% of tickets.
 
 ### Politeia Discussions
 
-@degeri [shared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154324102625321rrnzj:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) a draft of their bug bounty proposal.
+@degeri [shared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154324102625321rrnzj:decred.org) another iteration of their [bug bounty proposal](https://github.com/degeri/Decred-Bug-Bounty-Proposal). Among the changes are: the methology was changed from CVSS v3.0 to OWASP Risk Rating, a list of contractors to do the work was added, the payouts are estimated to not cross $100k for 6 months.
 
-The subject of what happens to proposals that don't meet the quorum requirement was discussed. @davecgh [kicked off](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154281169322280KaecY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) the discussion by suggesting that should the Easyrabbit proposal fail to reach the quorum requirement another round of voting would be required - because in most contexts a quorum is required before a group can make binding decisions. Most people who commented are interpreting the meaning differently for Pi -  failure to reach the quorum is one of two ways that proposals can fail (the other being <60% Yes votes).
+The subject of what happens to proposals that don't meet the quorum requirement was discussed. @davecgh [kicked off](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154281169322280KaecY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) the discussion by suggesting that should the Easyrabbit proposal fail to reach the quorum requirement another round of voting would be required - because in most contexts a quorum is required before a group can make binding decisions. Most people who commented are interpreting the meaning differently for Pi - failure to reach the quorum is one of two ways that proposals can fail (the other being <60% Yes votes).
 
-@richardred shared the line graph below  showing voting activity over time for each of the six proposals that have finished voting. 
+@snr01 collected final versions of voting graphs in a [repository](https://github.com/snr01/PiVotingCharts).
+
+@richardred shared the line graph below showing voting activity over time for each of the six proposals that have finished voting.
 
 ![Proposal ticket votes over time](img/issue006/proposal-ticket-votes-over-time.png)
 
