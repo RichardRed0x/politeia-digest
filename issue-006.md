@@ -1,6 +1,6 @@
 ## Politeia Digest #6 - Nov 21st-Nov 27th 2018
 
-**Treasury balance: 590,764 DCR (approx +16,718 DCR/month) - $11.8 million (+$335k/month)**
+**Treasury balance: 590,764 DCR (approx +16,718 DCR/month) - $11.8 million (+$335k/month) based on $20 DCR price**
 
 ![Snapshot taken 00:37 UTC Nov 28 2018](img/issue006/006-snapshot.png)
 
@@ -8,7 +8,7 @@
 
 **[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, approved Nov 26th - 7 comments**
 
-This proposal is being used to host discussion on research projects and ideas for the program, and the body of the proposal will be used to list the projects that are open for contributions. So far there are two top-level comments with research project ideas, both from @richard-red.
+This proposal is being used to host discussion on research projects and ideas for the program, and the body of the proposal will be used to list the projects that are open for contributions. All Politeia users are welcome to ask questions about proposed research projects and share their own question/project ideas.
 
 ### Rejected proposal
 
@@ -34,7 +34,7 @@ The first four proposals to go up for a vote started voting at the same time and
 
 ## About this issue
 
-Content for this edition was authored by @richardred
+Content for this edition was authored by @richardred, with contributions from @bee
 
 Also available on [medium](https://medium.com/politeia-digest/issue-5-nov-14-nov-20-2018-62e8aed223b7).
 
