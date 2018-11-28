@@ -10,4 +10,4 @@
 
 ### [Issue 005](issue-005.md) - November 14th-November 20th 2018
 
-### [Issue 005](issue-006.md) - November 21st-November 27th 2018
+### [Issue 006](issue-006.md) - November 21st-November 27th 2018
