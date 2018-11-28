@@ -22,6 +22,8 @@ This proposal is being used to host discussion on research projects and ideas fo
 
 The subject of what happens to proposals that don't meet the quorum requirement was discussed. @davecgh [kicked off](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154281169322280KaecY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) the discussion by suggesting that should the Easyrabbit proposal fail to reach the quorum requirement another round of voting would be required - because in most contexts a quorum is required before a group can make binding decisions. Most people who commented are interpreting the meaning differently for Pi - failure to reach the quorum is one of two ways that proposals can fail (the other being <60% Yes votes).
 
+@snr01 collected final versions of voting graphs in a [repository](https://github.com/snr01/PiVotingCharts).
+
 @richardred shared the line graph below showing voting activity over time for each of the six proposals that have finished voting.
 
 ![Proposal ticket votes over time](img/issue006/proposal-ticket-votes-over-time.png)
