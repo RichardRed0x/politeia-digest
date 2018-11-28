@@ -36,6 +36,6 @@ The first four proposals to go up for a vote started voting at the same time and
 
 Content for this edition was authored by @richardred, with contributions from @bee
 
-Also available on [medium](https://medium.com/politeia-digest/issue-5-nov-14-nov-20-2018-62e8aed223b7).
+Also available on [medium](https://medium.com/politeia-digest/issue-6-nov-21-nov-27-2018-3260d03d26a1).
 
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
