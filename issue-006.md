@@ -1,30 +1,38 @@
 ## Politeia Digest #6 - Nov 21st-Nov 27th 2018
 
-![Snapshot taken 16:22 UTC Nov 21 2018](img/issue006/006-snapshot.png)
+***Treasury balance: 590,764 DCR  (+ approx 16,718/month) - $11.8 million (+$335k/month)***
 
-***Treasury balance: XXX DCR (+XX/month) - $YYY (+&YY/month)***
+![Snapshot taken 00:37 UTC Nov 28 2018](img/issue006/006-snapshot.png)
 
-### New Proposals
+### New Proposal
 
+**[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, approved Nov 26th - 7 comments**
 
-
-
+This proposal is being used to host discussion on research projects and ideas for the program, and the body of the proposal will be used to list the projects that are open for contributions. So far there are two top-level comments with research project ideas, both from @richard-red.
 
 ### Rejected proposal
 
-**[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting started Nov 16th - 14 comments (+3)**
+**[Premium Listing for Decred on Easyrabbit ](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting ended Nov 23rd - 15 comments (+1)**
 
+444 Yes votes, 8,312 No votes (5% Yes) - voter participation of 21%, support from 1% of tickets.
 
+### Politeia Discussions
 
-### Proposals under discussion
+@degeri [shared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154324102625321rrnzj:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) a draft of their bug bounty proposal.
 
+The subject of what happens to proposals that don't meet the quorum requirement was discussed. @davecgh [kicked off](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154281169322280KaecY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) the discussion by suggesting that should the Easyrabbit proposal fail to reach the quorum requirement another round of voting would be required - because in most contexts a quorum is required before a group can make binding decisions. Most people who commented are interpreting the meaning differently for Pi -  failure to reach the quorum is one of two ways that proposals can fail (the other being <60% Yes votes).
 
+@richardred shared the line graph below  showing voting activity over time for each of the six proposals that have finished voting. 
 
+![Proposal ticket votes over time](img/issue006/proposal-ticket-votes-over-time.png)
 
+The dashed line indicates an approximate quorum requirement (20% of the 49.960 target for the ticket pool).
+
+The first four proposals to go up for a vote started voting at the same time and had fairly similar voting rates for the first 4-5 days. At this point the only contentious proposal was Ditto's and it continued to receive votes at a high rate until the end of the voting window. The easyrabbit proposal stands out here in that it had a much lower voter participation level than the others, and didn't reach the quorum requirement until near the end of the voting period.
 
 ## About this issue
 
-Content for this edition was authored by @richardred, with feedback and contributions from @bee
+Content for this edition was authored by @richardred
 
 Also available on [medium](https://medium.com/politeia-digest/issue-5-nov-14-nov-20-2018-62e8aed223b7).
 
