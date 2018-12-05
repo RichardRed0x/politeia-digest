@@ -1,52 +1,70 @@
-# Draft
+## Politeia Digest #7 - Nov 28th-Nov 27th 2018
 
-Permalinks for comments, missed from previous
+**Treasury balance: 588,681 DCR (approx +16,718 DCR/month) - $11.8 million (+$335k/month) based on $20 DCR price**
 
-3 new proposals appeared on 28th
+![Snapshot taken 01:15 UTC Nov Dec 5 2018](img/issue007/007-snapshot.png)
+
+### New Proposals
+
+**[Decred Radio Advertising, 190+ FM and AM Stations, + Intl. Satellite](https://proposals.decred.org/proposals/7fe5d07a4ffff7dc6a83383018823d880b1c1db0a29305e74934817cf2b4e2ce) - submitted Nov 26 by ftl_ian, approved Nov 28, voting opened Dec 4 - 25 comments**
+
+This is a proposal by Ian Freeman, one of the hosts of [Free Talk Live](http://freetalklive.com/), for Decred to sponsor the show. The proposed asks for $22,750 for 13 weeks of sponsorship, for which Decred would get a live promotion and 30 second radio ad each day and some banners. The proposal owner and co-host (@[medge2](https://proposals.decred.org/user/fc9b8afd-c10b-42cc-82d4-b354da10f14e)) have been engaging in a thorough discussion with the community. Several participants have expressed support for FTL and the proposal, while others have expressed a desire to wait and see how this kind of sponsorship opportunity fits into Decred's overall communications plan.
+
+**[Decredex](https://proposals.decred.org/proposals/e78bc28631d0e682912e3ece25944481bf978b906ea44b1ed36470c0f48b27fc) -  submitted Nov 26 by fabianreum, approved Nov 28, voting opened Dec 4 - 43 comments**
+
+A proposal from REUM for the development of a decentralized exchange. requesting a budget of $1,086,500 with a target completion date of Q2 2019. @jy-p [provided](https://proposals.decred.org/proposals/e78bc28631d0e682912e3ece25944481bf978b906ea44b1ed36470c0f48b27fc/comments/4) some context, the proposal owner had appeared in some chat channels in July but had not engaged with the project on a sustained basis. @jy-p also criticized the proposal heavily, as did many other comments. The strongest critiques were about a lack of detail and lack of evidence that REUM can deliver. To their credit, the proposal owner responded to many criticisms in comments. @ryanzim [pointed out](https://proposals.decred.org/proposals/e78bc28631d0e682912e3ece25944481bf978b906ea44b1ed36470c0f48b27fc/comments/38) that REUM appear to have removed a page about "REUM Brand Agency" from their website after it had been criticized.
+
+**[Stable coin - USDD](https://proposals.decred.org/proposals/85fc65cef080cfc3564906fd3d488b827d74fc99bb29143ed8aa6c400b765be9) -  submitted Nov 29 by fabianreum, approved Dec 4 - 1 comment**
+
+Another proposal by @fabianreum of Decredex/REUM and also Moentum, to set up and run a stable coin backed by Decred. This would cost $1,576,000 over a 4 year period.
+
+**[Decred integration into Crypto-ATMs](https://proposals.decred.org/proposals/bb7e19283d5c65fed598d5a2f4afcc2b5d2eab187b9cb84fc4304430f80b5ad1) - submitted Nov 24 by bcashgr, approved Nov 28, voting opened Dec 4 - 32 comments**
+
+A proposal by the bcash company to integrate Decred in the ATMs they run themselves, and those they sell to customers (for 2 years), The proposal requested starting budget of 25.000 EUR and monthly budget of 1.650 EUR equivalent in DCR for maintenance. Several comments object to the maintenance fee, some express support for the concept of ATMs in general but are reticent about this particular proposal. @oregonisaac [checked out](https://proposals.decred.org/proposals/bb7e19283d5c65fed598d5a2f4afcc2b5d2eab187b9cb84fc4304430f80b5ad1/comments/22) a number of ATM providers with regard to how they handle integrations and any fees they charge. In [response](https://proposals.decred.org/proposals/bb7e19283d5c65fed598d5a2f4afcc2b5d2eab187b9cb84fc4304430f80b5ad1/comments/25), @bcashgr edited their proposal to make an additional offer of also doing the integration work for GENERAL BYTES and LAMASSU.
+
+**[Add Decred support to Coffee Wallet](https://proposals.decred.org/proposals/45de9806c952c5ffc2fc6782fddbc74c852c26e3fb0e950144b92d75082c4731) - submitted Nov 29 by francio, approved Dec 4 - 0 comments**
+
+**[Decred Bug Bounty Proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) - submitted Nov 30 by degeri, approved Dec 4 - 2 comments**
 
 
+
+
+
+### Proposals under discussion
+
+**[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, approved Nov 26th - 25 comments (+18)**
+
+
+
+### Proposals update
 
 Language change prop PR merged
 
 
 
-## Politeia Digest #7 - Nov 21st-Nov 27th 2018
+### Politeia Development
 
-**Treasury balance: 590,764 DCR (approx +16,718 DCR/month) - $11.8 million (+$335k/month) based on $20 DCR price**
+Notifications live in Accounts > 
 
-![Snapshot taken 00:37 UTC Nov 28 2018](img/issue006/006-snapshot.png)
+search votes feature added
 
-### New Proposal
+Permalinks for comments, missed from previous
 
-**[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, approved Nov 26th - 7 comments**
+Abandoned proposals
 
-This proposal is being used to host discussion on research projects and ideas for the program, and the body of the proposal will be used to list the projects that are open for contributions. All Politeia users are welcome to ask questions about proposed research projects and share their own question/project ideas.
 
-### Rejected proposal
 
-**[Premium Listing for Decred on Easyrabbit](https://proposals.decred.org/proposals/34707d34b09c3ebcf0d4aa604e8a08244e8f0f082c0af3f33d85778c93c81434) - submitted Oct 30th by easyrabbit, voting ended Nov 23rd - 15 comments (+1)**
+### 
 
-444 Yes votes, 8,312 No votes (5% Yes) - voter participation of 21%, support from 1% of tickets.
 
-### Politeia Discussions
 
-@degeri [shared](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154324102625321rrnzj:decred.org) another iteration of their [bug bounty proposal](https://github.com/degeri/Decred-Bug-Bounty-Proposal). Among the changes are: the methology was changed from CVSS v3.0 to OWASP Risk Rating, a list of contractors to do the work was added, the payouts are estimated to not cross $100k for 6 months.
 
-The subject of what happens to proposals that don't meet the quorum requirement was discussed. @davecgh [kicked off](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$154281169322280KaecY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) the discussion by suggesting that should the Easyrabbit proposal fail to reach the quorum requirement another round of voting would be required - because in most contexts a quorum is required before a group can make binding decisions. Most people who commented are interpreting the meaning differently for Pi - failure to reach the quorum is one of two ways that proposals can fail (the other being <60% Yes votes).
 
-@snr01 collected final versions of voting graphs in a [repository](https://github.com/snr01/PiVotingCharts).
 
-@richardred shared the line graph below showing voting activity over time for each of the six proposals that have finished voting.
-
-![Proposal ticket votes over time](img/issue006/proposal-ticket-votes-over-time.png)
-
-The dashed line indicates an approximate quorum requirement (20% of the 49.960 target for the ticket pool).
-
-The first four proposals to go up for a vote started voting at the same time and had fairly similar voting rates for the first 4-5 days. At this point the only contentious proposal was Ditto's and it continued to receive votes at a high rate until the end of the voting window. The easyrabbit proposal stands out here in that it had a much lower voter participation level than the others, and didn't reach the quorum requirement until near the end of the voting period.
 
 ## About this issue
 
-Content for this edition was authored by @richardred, with contributions from @bee
+Content for this edition was authored by @richardred.
 
 Also available on [medium](https://medium.com/politeia-digest/issue-6-nov-21-nov-27-2018-3260d03d26a1).
 
