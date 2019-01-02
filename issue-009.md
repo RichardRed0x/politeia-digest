@@ -14,23 +14,23 @@ This proposal is about a Futurepunk Autonomous Card Game that would fork Decred 
 
 **[Smart Reach Partnership Proposal -- Jan 2019](https://proposals.decred.org/proposals/cf7143c93d35f886be03d749396e9202c7837a3d3cbbe876f93c3a7d18ec2028) - submitted Dec 21 by cryptosi, appeared Dec 30 - 0 comments**
 
-This proposal is about a paid partnership with Smart Reach involving sponsorship of a podcast and conference calls about governance proposals. This proposal was followed up by a [pre-proposal on reddit](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/) on Dec 26, while it was awaiting admin review on Politeia. @cryptosi also joined the Decred Slack and discussed the proposal and the ITK Crypto podcast in a number of channels, including #[proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458333142014pISQV:decred.org?via=decred.org&via=matrix.org&via=zettaport.com). @cryptosi has experience with other governance-related projects, having [been](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458333142014pISQV:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) a PIVX Core team member for 2 years and a Dash MNO before that. Although the proposal did not include any specific budget, @cryptosi mentioned ballpark figures of 50-100 DCR per cycle/month in a [reddit comment](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/ecl0cbc). This was [followed up](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458323211999TKZne:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) in the proposals channel by @Aspen Shredder pointing out that this was $900-$1,800 per month. 
+This proposal is about a paid partnership with Smart Reach involving sponsorship of a podcast and conference calls about governance proposals. This proposal was followed up by a [pre-proposal on reddit](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/) on Dec 26, while it was awaiting admin review on Politeia. @cryptosi also joined the Decred Slack and discussed the proposal and the ITK Crypto podcast in a number of channels, including [#proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458261031902iCirE:decred.org). @cryptosi has experience with other governance-related projects, having [been](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458333142014pISQV:decred.org) a PIVX Core team member for 2 years and a Dash MNO before that. Although the proposal did not include any specific budget, @cryptosi mentioned ballpark figures of 50-100 DCR per cycle/month in a [reddit comment](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/ecl0cbc). This was [followed up](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458323211999TKZne:decred.org) in the proposals channel by @Aspen Shredder pointing out that this was $900-$1,800 per month.
 
-### Approved proposal
+### Approved proposals
 
-**[Decred Bug Bounty Proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) - voting finished Dec 27th - 15 comments (+8)**
+**[Decred Bug Bounty Proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1) - voting finished Dec 27 - 15 comments (+8)**
 
 11,065 Yes votes, 1,186 No votes (90.3% Yes) - voter participation of 30%, support from 27% of tickets.
 
-*Recap: @degeri put this proposal together over several rounds of consultation with the community, it establishes a bug bounty program in which those who report bugs following the requested procedure will be eligible to receive payments in line with the importance or severity of the bugs.* 
+*Recap: @degeri put this proposal together over several rounds of consultation with the community, it establishes a bug bounty program in which those who report bugs following the requested procedure will be eligible to receive payments in line with the importance or severity of the bugs.*
 
-This one really went down to the wire in terms of meeting the 20% quorum requirement. As with previous proposals that didn't reach quorum until late in the voting period, it prompted some discussion of voter participation. With a few hours to go, the Decred whale that has been spotted voting with 4k+ tickets on previous proposals showed up again to send this one flying over the quorum requirement.
+This one really went down to the wire in terms of meeting the 20% quorum requirement. As with previous proposals that didn't reach quorum until late in the voting period, it prompted some [discussion](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15458816582503ryTrP:decred.org) of voter participation. With a few hours to go, the Decred whale that has been spotted voting with 4k+ tickets on previous proposals showed up again to send this one flying over the quorum requirement.
 
 ![Voting over time for the Bug Bounty proposal](img/issue009/Bounty-proposal-voting-over-time.png)
 
 ### Proposals under discussion
 
-**[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, appeared Nov 26th, edited Dec 11th - 43 comments (+3)**
+**[Decred Open Source Research proposal 2 - research projects](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) - submitted Nov 21 by richard-red, appeared Nov 26, edited Dec 11 - 43 comments (+3)**
 
 A top-level comment has recently been added by @jazzah, suggesting Block Voting Research. This would involve 1) defining miner behaviors that are dubious or of interest to track, 2) developing queries to identify the behaviors on the Decred blockchain, 3) checking historical data, and 4) exploring ways of using block voting instructions to reject unwanted miner behaviors.
 
@@ -46,15 +46,13 @@ A total of 18 proposals have been submitted since Politeia went live on October 
 
 ![Scatterplot showing proposal approval](img/issue009/proposal-approval-comments-scatterplot.png)
 
-This scatterplot shows each proposal's ultimate approval % (y axis) and number of comments it attracted. Abandoned and pending proposals have been included as approval 0%. There appears to be a relationship between proposal controversy (approval percentages closer to 50%) and more comments. 
+This scatterplot shows each proposal's ultimate approval % (y axis) and number of comments it attracted. Abandoned and pending proposals have been included as approval 0%. There appears to be a relationship between proposal controversy (approval percentages closer to 50%) and more comments.
 
-Proposals that are ultimately abandoned tend to not to receive many comments. The set of abandoned proposals includes some early ones where the proposal owners did not respond to any comments, those went quiet fairly quickly. 
+Proposals that are ultimately abandoned tend to not to receive many comments. The set of abandoned proposals includes some early ones where the proposal owners did not respond to any comments, those went quiet fairly quickly.
 
 A total of 128,791 ticket votes have been cast on the 10 proposals that have finished voting so far. There are 45,434 different tickets that have voted on at least one proposal each. There are 662 tickets that have voted on every one of the 10 proposals so far.
 
-![number proposals voted on per ticket](img/issue009/proposal votes per ticket.png)
-
-
+![number proposals voted on per ticket](img/issue009/proposal-votes-per-ticket.png)
 
 #### Proposal site comments and up/down votes
 
@@ -62,7 +60,7 @@ There have been 480 comments ( ~27 per proposal) and 1,673 up/down votes on comm
 
 ![Histogram showing score per comment](img/issue009/comments-scores.png)
 
-There were 27 comments that received negative scores, 83 that have a score of 0 (usually no votes), and 370 with a positive score. The median score is 2. Top-level comments (direct reply to proposal) have higher mean scores (4.4) than comments that are replies to other comments (1.8). I ran a quick independent samples t-test and no surprise that's a significant effect (p < 0.001). 
+There were 27 comments that received negative scores, 83 that have a score of 0 (usually no votes), and 370 with a positive score. The median score is 2. Top-level comments (direct reply to proposal) have higher mean scores (4.4) than comments that are replies to other comments (1.8). I ran a quick independent samples t-test and no surprise that's a significant effect (p < 0.001).
 
 ![Histogram showing score per comment, separate panes for top-level comments and replies](img/issue009/comments-scores-level.png)
 
