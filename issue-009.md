@@ -26,7 +26,7 @@ This proposal is about a paid partnership with Smart Reach involving sponsorship
 
 This one really went down to the wire in terms of meeting the 20% quorum requirement. As with previous proposals that didn't reach quorum until late in the voting period, it prompted some discussion of voter participation. With a few hours to go, the Decred whale that has been spotted voting with 4k+ tickets on previous proposals showed up again to send this one flying over the quorum requirement.
 
-![Voting over time for the Bug Bounty proposal](img/issue009/Bounty-proposal voting over time.png)
+![Voting over time for the Bug Bounty proposal](img/issue009/Bounty-proposal-voting-over-time.png)
 
 ### Proposals under discussion
 
