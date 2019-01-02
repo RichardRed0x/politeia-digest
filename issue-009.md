@@ -4,7 +4,7 @@
 
 I decided to give Politeia Digest a rest over the holiday season as there was not much happening on the proposals site. For now it will be switching to a "weekly or whenever something interesting happens" model.
 
-This is a **special year end edition** in which I will present some stats and graphs about Politeia activity for (the last two months of) 2018.
+This is a **special year end edition** which presents some stats and graphs about Politeia activity for (the last two months of) 2018.
 
 ### New proposals
 
@@ -14,7 +14,7 @@ This proposal is about a Futurepunk Autonomous Card Game that would fork Decred 
 
 **[Smart Reach Partnership Proposal -- Jan 2019](https://proposals.decred.org/proposals/cf7143c93d35f886be03d749396e9202c7837a3d3cbbe876f93c3a7d18ec2028) - submitted Dec 21 by cryptosi, appeared Dec 30 - 0 comments**
 
-This proposal is about a paid partnership with Smart Reach involving sponsorship of a podcast and conference calls about governance proposals. This proposal was followed up by a [pre-proposal on reddit](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/) on Dec 26, while it was awaiting admin review on Politeia. @cryptosi also joined the Decred Slack and discussed the proposal and the ITK Crypto podcast in a number of channels, including [#proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458261031902iCirE:decred.org). @cryptosi has experience with other governance-related projects, having [been](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458333142014pISQV:decred.org) a PIVX Core team member for 2 years and a Dash MNO before that. Although the proposal did not include any specific budget, @cryptosi mentioned ballpark figures of 50-100 DCR per cycle/month in a [reddit comment](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/ecl0cbc). This was [followed up](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458323211999TKZne:decred.org) in the proposals channel by @Aspen Shredder pointing out that this was $900-$1,800 per month.
+This proposal is about a paid partnership with Smart Reach involving sponsorship of a podcast and conference calls about governance proposals. This proposal was followed up by a [pre-proposal on reddit](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/) on Dec 26, while it was awaiting admin review on Politeia. @Cryptosi also joined the Decred Slack and discussed the proposal and the ITK Crypto podcast in a number of channels, including [#proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458261031902iCirE:decred.org). @Cryptosi has experience with other governance-related projects, having [been](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458333142014pISQV:decred.org) a PIVX [Core](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$15462107334187wkhTu:decred.org?via=decred.org&via=matrix.org) team member for 2 years and a Dash community member before that. Although the proposal did not include any specific budget, @Cryptosi mentioned ballpark figures of 50-100 DCR per cycle/month in a [reddit comment](https://www.reddit.com/r/decred/comments/a9o1wj/preproposal_smart_reach_partnership_proposal_jan/ecl0cbc). This was [followed up](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15458323211999TKZne:decred.org) in the proposals channel by @Aspen Shredder pointing out that this was $900-$1,800 per month.
 
 ### Approved proposals
 
@@ -44,7 +44,7 @@ The proposal owner edited the body of the proposal to say "Cancelled", and it wa
 
 A total of 18 proposals have been submitted since Politeia went live on October 16th. 5 have been approved and 5 have been rejected by voters, with another 5 being abandoned by their owner rather than start voting.
 
-![Scatterplot showing proposal approval](img/issue009/proposal-approval-comments-scatterplot.png)
+![Scatterplot showing proposal approval % and number of comments](img/issue009/proposal-approval-comments-scatterplot.png)
 
 This scatterplot shows each proposal's ultimate approval % (y axis) and number of comments it attracted. Abandoned and pending proposals have been included as approval 0%. There appears to be a relationship between proposal controversy (approval percentages closer to 50%) and more comments.
 
@@ -52,7 +52,7 @@ Proposals that are ultimately abandoned tend to not to receive many comments. Th
 
 A total of 128,791 ticket votes have been cast on the 10 proposals that have finished voting so far. There are 45,434 different tickets that have voted on at least one proposal each. There are 662 tickets that have voted on every one of the 10 proposals so far.
 
-![number proposals voted on per ticket](img/issue009/proposal-votes-per-ticket.png)
+![Number of proposals voted on per ticket](img/issue009/proposal-votes-per-ticket.png)
 
 #### Proposal site comments and up/down votes
 
@@ -72,10 +72,10 @@ Most comment voting activity happens early, so early top-level comments tend to 
 
 Content for this edition was authored by @richardred, with contributions from @bee.
 
-Also available on [medium](https://medium.com/politeia-digest/issue-8-dec-5-dec-11-2018-23bb061a08a0).
+Also available on [medium](https://medium.com/politeia-digest/issue-9-dec-12-dec-31-2018-67b65b5bf30).
 
 If you have thoughts on how this format could be developed or would like to contribute, join the [Writers channel](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org) and let us know.
 
 ### Snapshot
 
-![Snapshot taken 23:30 UTC Dec 11 2018](img/issue009/009-snapshot.png)
+![Snapshot taken 02:31 UTC Jan 1 2019](img/issue009/009-snapshot.png)
