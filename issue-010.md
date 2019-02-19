@@ -20,6 +20,8 @@ The proposal on Pi requests a budget of $1,000 for the production of four tutori
 
 **[2019 Events Funding](https://proposals.decred.org/proposals/d3e7f159b9680c059a3d4b398de2c8f6627108f28b7d61a3f10397acb4b5e509) - submitted Feb 14 by dustorf, published Feb 18 - 0 comments**
 
+A pre-proposal was [posted](https://www.reddit.com/r/decred/comments/anhh8n/proposal_to_get_events_spending_approved_via/) on /r/decred on Feb 5, where it received 5 comments.
+
 This proposal sets out a plan and budget for Decred's attendance at events in 2019. The total budget requested is $200k, with $150k to fund a Decred presence at one major event in each of North America, Europe and Asia (50k each). Examples of the kind of event being considered are given, but these are provisional as no agreements have yet been made. There is a further 50k budget requested to send individual speakers to relevant events, should they submit talks/sessions which are accepted by the organizers. @dustorf would be the final decision-maker on which events to attend, with input from the community.
 
 **[2019 Marketing Plan Funding](https://proposals.decred.org/proposals/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e) - submitted Feb 15 by dustorf, published Feb 18 - 2 comments**
@@ -38,7 +40,7 @@ This proposal requests a budget of $290k for marketing activities for the rest o
 
 354 Yes votes, 11,459 No votes (3% Yes) - voter participation of 29%, support from <1% of tickets.
 
-![Voting on the Baeond proposal over time](img/issue010/Baeond-proposal-voting-over-time.png)
+![Voting on the Baeond proposal over time](img/issue010/Baeond-proposal-voting-over-time.png "Voting on the Baeond proposal over time. Top: cumulative votes per commit; Middle: Approval rate per commit; Bottom: Yes & No votes per commit.")
 
 The Baeond proposal was edited 8 times in total in response to discussions with the community. On Jan 6 the proposal was edited to include an offer of airdropping starter packs of cards to Decred holders.
 
@@ -54,7 +56,7 @@ nnnko56 made a [comment](https://proposals.decred.org/proposals/f545b359fcf1b40b
 
 ### Other News
 
-A new twitter account was started which will send simple tweets to notify when proposals are created/modified or start/finish voting - [@pi_crumbs](https://twitter.com/pi_crumbs). This account could be [automated](https://gist.github.com/RichardRed0x/33b5685c73e89155da3d728a0eaa4a9b) with a bot, but will initially be operated manually to determine whether there is demand for it. The intention is to add another [notification](https://github.com/xaur/decred-issues/issues/24) channel for Politeia and stimulate discussion of the proposals on twitter.
+A new twitter account was started which will send simple tweets to notify when proposals are created/modified or start/finish voting - [@pi_crumbs](https://twitter.com/pi_crumbs). This account follows a simple [process](https://gist.github.com/RichardRed0x/33b5685c73e89155da3d728a0eaa4a9b) for generating tweets and could be [automated](https://github.com/xaur/decred-issues/issues/102) with a bot, but will initially be operated manually to determine whether there is demand for it. The intention is to add another [notification](https://github.com/xaur/decred-issues/issues/24) channel for Politeia and stimulate discussion of the proposals on twitter.
 
 Francio (Coffee wallet [proposer](https://proposals.decred.org/proposals/45de9806c952c5ffc2fc6782fddbc74c852c26e3fb0e950144b92d75082c4731)) [appeared](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15467875879232uBQcG:decred.org?via=decred.org&via=matrix.org&via=zettaport.com&via=gwusbdhdu.org) in chat to say they did not mean to abandon their proposal. Once a proposal is abandoned this cannot be reversed, so Francio was advised that they would have to submit the proposal again if they want it to be considered.
 
@@ -64,8 +66,10 @@ A feature has been added to the proposal site which allows for viewing previous 
 
 Content for this edition was authored by @richardred, with contributions from @bee.
 
-Also available on [medium](https://medium.com/politeia-digest/issue-9-dec-12-dec-31-2018-67b65b5bf30). {TODO: update link}
+Also available on [medium](https://medium.com/politeia-digest/issue-10-jan-1-feb-18-2018-202cde71a19d).
 
 ### Snapshot
 
-![Snapshot taken 23:51 UTC Feb 18 2019](img/issue010/010-snapshot.png)
+Proposals which have been active since the last issue if Politeia Digest was released.
+
+![Snapshot taken 23:51 UTC Feb 18 2019](img/issue010/010-snapshot.png "Snapshot taken 23:51 UTC Feb 18 2019")
