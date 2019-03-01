@@ -1,6 +1,6 @@
 # Politeia Digest #11 - Feb 19 - Feb 28 2019
 
-![Image credit: @30000fps](img/issue011/011-titlea.png "Image credit: @30000fps")
+![Image credit: @30000fps](img/issue011/011-title.png "Image credit: @30000fps")
 
 **Treasury balance: 601,331 DCR (approx +16,065 DCR/month) - $10 million (+$268k/month) based on $16.70 DCR price**
 
@@ -37,6 +37,11 @@ Latest voting figures: 5,999 Yes votes, 935 No votes (86.5% Yes) - voter partici
 
 The proposal has been [edited](https://github.com/decred-proposals/mainnet/pull/1/commits/c394bb670818339dfc42b040c122b56e4793a7f5) to rearrange the tutorial videos in response to comments, and also to reduce the requested budget from $1,000 to $750. Comments discuss whether this is something the Treasury should fund, but generally find the proposed budget to be reasonable. @dennilovejoy has been active in responding to comments.
 
+![Chart showing votes over time for 3 proposals](img/issue011/proposal-voting-over-time-marketing-events-tutorials.png "Chart showing votes over time for 3 proposals")
+
+This chart shows voting over time for the 3 proposals which started voting at around the same time and are due to finish voting on March 1. Top: Cumulative votes per (hourly) commit, Middle: cumulative % of Yes 
+votes at each commit, Bottom: new Yes and No votes in each commit.
+
 ### Proposals under discussion
 
 **[RFP: Decred Decentralized Exchange Infrastructure](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a) - published Feb  4 by jy-p, last updated Feb 19 - 68 comments (+21)**
@@ -48,6 +53,8 @@ The proposal was updated to reduce the scope of the MVP and the maximum budget w
 Some comments are supportive of this proposal and others question the benefits of ATM integration or whether the Treasury should fund it.
 
 ### Other News
+
+A new twitter account has been created to tweet regular updates on Politeia action: [Slices of Pi](https://twitter.com/slices_of_pi).
 
 New comment indicators have been added to the site which, for signed in users, visually indicate new comments since the last time the user viewed a proposal's page.
 
@@ -68,16 +75,14 @@ The table below shows the 10 users who have submitted the most comments since th
 | dustorf      | 10       | 25             | 2cfe1335346e419a3f00fc3672c1a53ebcc1c15f48d3e9e174af7356be14bc5a |
 | ryanzim      | 8        | 24             | 1f2e01bc09347d229da8260ab014223faaf48ad6e18931800d6e6c4a952f5106 |
 
-A new twitter account has been created to tweet regular updates on Politeia action: [Slices of Pi](https://twitter.com/slices_of_pi)
-
 ## About this issue
 
 Content for this edition was authored by @richardred, with contributions from @bee.
 
-Also available on [medium](https://medium.com/politeia-digest/issue-10-jan-1-feb-18-2018-202cde71a19d).
+Also available on [medium](https://medium.com/@richardred/issue-11-feb-19-feb-28-2019-46befddb09fe).
 
 ### Snapshot
 
 Proposals which have been active since the last issue if Politeia Digest was released.
 
-![Snapshot taken 23:51 UTC Feb 18 2019](img/issue011/011-snapshot.png "Snapshot taken 23:51 UTC Feb 18 2019")
+![Snapshot taken 23:48 UTC Feb 28 2019](img/issue011/011-snapshot.png "Snapshot taken 23:48 UTC Feb 28 2019")
