@@ -1,4 +1,4 @@
-# Politeia Digest #10 - Jan 1-Feb 18 2018
+# Politeia Digest #10 - Jan 1-Feb 18 2019
 
 ![Image credit: @30000fps](img/issue010/010-title.png "Image credit: @30000fps")
 
