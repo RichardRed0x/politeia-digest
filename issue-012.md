@@ -4,7 +4,7 @@
 
 **Treasury balance: 608,755 DCR (approx +15,907 DCR/month) - $11.8 million (+$308k/month) based on $19.40 DCR price**
 
-### New proposals
+## New proposals
 
 **[Trust Wallet - Integration with Decred](https://proposals.decred.org/proposals/2ababdea7da2b3d8312a773d477272135a883ed772ba99cdf31eddb5f261d571)**
 
@@ -12,7 +12,7 @@ Published Mar 5 by oregonisaac - 10 comments (+10).
 
 This proposal seeks funding to integrate DCR in Trust Wallet, a mobile wallet that allows users to store multiple cryptocurrencies. The proposal is submitted in draft form to solicit feedback which can be used to refine it before going to a vote. The integration work would have two components: 1) Trust Wallet team integrate DCR in the wallet ($1,200), 2) Decred team integrate Decred in Blockbook (which Trust Wallet uses to gather information about the state of the blockchain) and set up hosting for a Blockbook server ($2,100 in total). There are also $50/month ongoing fees associated with the Blockbook hosting and maintenance of the integration. One of the requirements before the proposal starts voting is to find Decred contractors who want to take on this work.
 
-### Approved proposals
+## Approved proposals
 
 **[RFP: Decred Decentralized Exchange Infrastructure](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)**
 
@@ -56,7 +56,7 @@ Some pitches for events are already being prepared.
 
 > Recap: This proposal requests a budget of $750 for the production of four tutorial videos in which @Denni Lovejoy will show and talk through processes like setting up a wallet in Decrediton, setting up a VSP account, and setting up a Politeia account. @Denni Lovejoy also included a [link](https://www.youtube.com/watch?v=HKwnEpFDN3Q&list=PLMBYy3lWO3Dmx-xHInb66OPcYQgmmcOEt) to similar videos they have produced about other projects, the videos produced for Decred if this proposal is approved would be hosted on a Decred channel and utilize Decred design assets.
 
-### Rejected proposals
+## Rejected proposals
 
 **[Decred Integration for IDAX Exchange](https://proposals.decred.org/proposals/60adb9c0946482492889e85e9bce05c309665b3438dd85cb1a837df31fbf57fb)**
 
@@ -64,13 +64,13 @@ Some pitches for events are already being prepared.
 
 > Recap: This proposal seeks 1,000 DCR to integrate Decred on the IDAX exchange and enable a BTC/DCR trading pair, as well as displaying a "Decred Project Introduction" on the IDAX Homepage and discounted fees for IDAX events. Comments suggest that the cost is too high and/or that the Treasury should not pay for exchange listings in general. @acean has been active in responding to comments. This proposal moved quickly to voting, progressing through the Politeia flow faster than any other proposal to date, by some margin.
 
-### Proposals under discussion
+## Proposals under discussion
 
 **[Decred ATM Integration - Approval for Planning Phase](https://proposals.decred.org/proposals/aea224a561cfed183f514a9ac700d68ba8a6c71dfbee71208fb9bff5fffab51d)**
 
 Published Feb 18 by oregonisaac, last updated Feb 25 - 34 comments (+3).
 
-### Other News
+## Other News
 
 From Mar 1 until Mar 15 (since the last issue of Politeia digest) there were:
 
@@ -96,13 +96,13 @@ The bug had been known for some time and a fix was awaiting deployment. Upon lea
 
 The numbers presented in this edition of Politeia Digest exclude the late votes, and as a consequence do not match the numbers displayed on the proposals.decred.org site.
 
-### About this issue
+## About this issue
 
 Content for this edition was authored by @richardred, with contributions from @bee.
 
 Also available on [medium](https://medium.com/@richardred/issue-11-feb-19-feb-28-2019-46befddb09fe).
 
-### Snapshot
+## Snapshot
 
 Proposals which have been active since the last issue if Politeia Digest was released.
 
