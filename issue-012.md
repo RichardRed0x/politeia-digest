@@ -20,7 +20,7 @@ This proposal seeks funding to integrate DCR in Trust Wallet, a mobile wallet th
 
 Before the vote started, @jy-p edited the proposal to clarify that CLI tools and GUI tools were to be completed in sequence, not in parallel.
 
-*Recap: This proposal seeks to establish stakeholder support for building decentralized exchange infrastructure - "a new type of cryptocurrency-only decentralized exchange based on open source software that will allow cross-chain trading to occur directly between users, with minimal fees and a simple client-server architecture." If it is approved, this will trigger a Request for Proposals (RFP) process whereby interested developers are invited to put forward proposals for how they would go about the task and how much they would charge. This proposal sets a limit for the requested budget to between USD 100,000 and 250,000.*
+> Recap: This proposal seeks to establish stakeholder support for building decentralized exchange infrastructure - "a new type of cryptocurrency-only decentralized exchange based on open source software that will allow cross-chain trading to occur directly between users, with minimal fees and a simple client-server architecture." If it is approved, this will trigger a Request for Proposals (RFP) process whereby interested developers are invited to put forward proposals for how they would go about the task and how much they would charge. This proposal sets a limit for the requested budget to between USD 100,000 and 250,000.
 
 **[Website for the Decred community](https://proposals.decred.org/proposals/fb8e6ca361c807168ea0bd6ddbfb7e05896b78f2576daf92f07315e6f8b5cd83)**
 
@@ -30,7 +30,7 @@ The site moved from .com to [decredcommunity.org](https://decredcommunity.org) d
 
 Some community members [criticized](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$155227203622209rOKeX:decred.org) the initiative for not providing open source code and data dumps for the site, and not explicitly stating it in the proposal. One of the arguments is that the Treasury never paid for closed source work before, except for some integrations where it could not be disclosed. The issue also triggered an [idea](https://github.com/decred/dcrdocs/issues/881) that among other things, restrictions on deliverables must be stated clearly in the proposal. A possible cause of this issue is that there were only 4 days for discussion before the vote started.
 
-*Recap: This proposal seeks funding to further develop a [prototype](https://decredcommunity.com) of a community hub website. This community website would record and present information about Decred content (articles, videos, podcasts), events and merchants. The proposal asks for $6,000 to cover the initial development of the prototype (already completed), and a further monthly budget of up to $700 to cover server costs and time spent maintaining and developing the site (charged at $35 per hour). This budget would be authorized for six months initially, another proposal would be made to extend it or if a larger budget was needed. Comments on the proposal express a range of views, most high-scoring comments are generally positive. @karamble has replied to many questions, in depth where required.*
+> Recap: This proposal seeks funding to further develop a [prototype](https://decredcommunity.com) of a community hub website. This community website would record and present information about Decred content (articles, videos, podcasts), events and merchants. The proposal asks for $6,000 to cover the initial development of the prototype (already completed), and a further monthly budget of up to $700 to cover server costs and time spent maintaining and developing the site (charged at $35 per hour). This budget would be authorized for six months initially, another proposal would be made to extend it or if a larger budget was needed. Comments on the proposal express a range of views, most high-scoring comments are generally positive. @karamble has replied to many questions, in depth where required.
 
 **[2019 Marketing Plan Funding](https://proposals.decred.org/proposals/c84a76685e4437a15760033725044a15ad832f68f9d123eb837337060a09f86e)**
 
@@ -38,7 +38,7 @@ Some community members [criticized](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decr
 
 @anshawblack's podcast is already in production and the wheels have started turning for the renewal of Decred Assembly, work on the website development has also been started and the localized community building efforts continue to gain momentum.
 
-*Recap: This proposal requests a budget of $290k for marketing activities for the rest of 2019, divided into planned ($220k) and discretionary ($70k) spending buckets. Planned spending includes: $100k to support the growth of local communities and organizers in target markets; $65k for a round of updates to decred.org; $35k for a series of 10 Decred Assembly videos; $10k for 10 episodes of a new Decred in Depth podcast; and $5k for 10 issues of monthly newsletter and internship program. The proposed budget also includes $70k for discretionary spending on new initiatives during the year, with these decisions being made in the #marketing and #marketing_ops channels.*
+> Recap: This proposal requests a budget of $290k for marketing activities for the rest of 2019, divided into planned ($220k) and discretionary ($70k) spending buckets. Planned spending includes: $100k to support the growth of local communities and organizers in target markets; $65k for a round of updates to decred.org; $35k for a series of 10 Decred Assembly videos; $10k for 10 episodes of a new Decred in Depth podcast; and $5k for 10 issues of monthly newsletter and internship program. The proposed budget also includes $70k for discretionary spending on new initiatives during the year, with these decisions being made in the #marketing and #marketing_ops channels.
 
 **[2019 Events Funding](https://proposals.decred.org/proposals/d3e7f159b9680c059a3d4b398de2c8f6627108f28b7d61a3f10397acb4b5e509)**
 
@@ -46,7 +46,7 @@ Some community members [criticized](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decr
 
 Some pitches for events are already being prepared.
 
-*Recap: This proposal sets out a plan and budget for Decred's attendance at events in 2019. The total budget requested is $200k, with $150k to fund a Decred presence at one major event in each of North America, Europe and Asia (50k each). Examples of the kind of event being considered are given, but these are provisional as no agreements have yet been made. There is a further 50k budget requested to send individual speakers to relevant events, should they submit talks/sessions which are accepted by the organizers. @Dustorf would be the final decision-maker on which events to attend, with input from the community.*
+> Recap: This proposal sets out a plan and budget for Decred's attendance at events in 2019. The total budget requested is $200k, with $150k to fund a Decred presence at one major event in each of North America, Europe and Asia (50k each). Examples of the kind of event being considered are given, but these are provisional as no agreements have yet been made. There is a further 50k budget requested to send individual speakers to relevant events, should they submit talks/sessions which are accepted by the organizers. @Dustorf would be the final decision-maker on which events to attend, with input from the community.
 
 **[Proposed Statement Of Work (SOW) For Decred Blockchain Wallet Tutorial Campaign](https://proposals.decred.org/proposals/a3def199af812b796887f4eae22e11e45f112b50c2e17252c60ed190933ec14f)**
 
@@ -54,7 +54,7 @@ Some pitches for events are already being prepared.
 
 @Denni Lovejoy has already shared a draft [script](https://docs.google.com/document/d/1Mzl__GnLO-QpVmhYc9xkxpHhNzfFBEgaSCNDUfuuOOk/edit) for the first tutorial video in #writers_room, and amended thoughtfully in response to feedback.
 
-*Recap: This proposal requests a budget of $750 for the production of four tutorial videos in which @Denni Lovejoy will show and talk through processes like setting up a wallet in Decrediton, setting up a VSP account, and setting up a Politeia account. @Denni Lovejoy also included a [link](https://www.youtube.com/watch?v=HKwnEpFDN3Q&list=PLMBYy3lWO3Dmx-xHInb66OPcYQgmmcOEt) to similar videos they have produced about other projects, the videos produced for Decred if this proposal is approved would be hosted on a Decred channel and utilize Decred design assets.*
+> Recap: This proposal requests a budget of $750 for the production of four tutorial videos in which @Denni Lovejoy will show and talk through processes like setting up a wallet in Decrediton, setting up a VSP account, and setting up a Politeia account. @Denni Lovejoy also included a [link](https://www.youtube.com/watch?v=HKwnEpFDN3Q&list=PLMBYy3lWO3Dmx-xHInb66OPcYQgmmcOEt) to similar videos they have produced about other projects, the videos produced for Decred if this proposal is approved would be hosted on a Decred channel and utilize Decred design assets.
 
 ### Rejected proposals
 
@@ -62,7 +62,7 @@ Some pitches for events are already being prepared.
 
 31 comments (+6). Voting finished Mar 6: 2,381 Yes votes, 7,255 No votes (24.7% Yes) - voter participation of 23.5%, support from 6% of tickets.
 
-*Recap: This proposal seeks 1,000 DCR to integrate Decred on the IDAX exchange and enable a BTC/DCR trading pair, as well as displaying a "Decred Project Introduction" on the IDAX Homepage and discounted fees for IDAX events. Comments suggest that the cost is too high and/or that the Treasury should not pay for exchange listings in general. @acean has been active in responding to comments. This proposal moved quickly to voting, progressing through the Politeia flow faster than any other proposal to date, by some margin.*
+> Recap: This proposal seeks 1,000 DCR to integrate Decred on the IDAX exchange and enable a BTC/DCR trading pair, as well as displaying a "Decred Project Introduction" on the IDAX Homepage and discounted fees for IDAX events. Comments suggest that the cost is too high and/or that the Treasury should not pay for exchange listings in general. @acean has been active in responding to comments. This proposal moved quickly to voting, progressing through the Politeia flow faster than any other proposal to date, by some margin.
 
 ### Proposals under discussion
 
