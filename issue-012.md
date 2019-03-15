@@ -86,7 +86,7 @@ Much of the work of preparing figures and statistics about Politeia activity has
 
 A bug was detected whereby voters using the "vote trickling" feature of CLI could set the duration to extend beyond the end of the voting period and these late votes would still be reflected in the repository and on proposals.decred.org. I discovered this when making some voting charts and reported it to the Politeia developers. The tutorials proposal in particular saw many late votes which should not have been counted (see below, black vertical line on bottom pane marks end of voting period). There were also a smaller number of late votes on the other proposals to finish voting in this period.
 
-![Votes over time for the Tutorials proposal](img/issue012/tutorials-proposal-voting-over-time.png "Votes over time for the Tutorials proposal")
+![Votes over time for the Tutorials proposal](img/issue012/tutorials-proposal-voting-over-time.png "Votes over time for the Tutorials proposal. Top pane shows cumulative votes (black line marks quorum requirement), middle pane shows approval % (black line marks 60% threshold), bottom pane shows yes/no votes per commit, black vertical line marks end of voting period.")
 
 The bug had been known for some time and a fix was awaiting deployment. Upon learning that late votes were now occurring in the production environment, the fix was deployed on Mar 13.
 
@@ -98,11 +98,13 @@ The bug had been known for some time and a fix was awaiting deployment. Upon lea
 
 The numbers presented in this edition of Politeia Digest exclude the late votes, and as a consequence do not match the numbers displayed on the proposals.decred.org site.
 
+There has also been some discussion about where proposals are discussed and for how long. Some proposals that were posted on reddit before Politeia had relatively few comments on Politeia, likely because people had commented on reddit and did not wish to repeat themselves. Some proposals (the marketing proposal is a good example) that were not seeing significant comment activity on Politeia for a few days were authorized to begin voting as it seemed like comments were not forthcoming. Some people felt that the start of voting was rushed as a result. These discussions are captured in this [issue](https://github.com/xaur/decred-issues/issues/117). Recommendations are that discussion outside Politeia should be minimized (because it does not benefit from the stakeholder attention and strong preservation of content on Politeia), and that Politeia discussion phase should last for at least 10 days, longer for more significant (bigger budget) proposals.
+
 ## About this issue
 
 Content for this edition was authored by @richardred, with contributions from @bee.
 
-Also available on [medium](https://medium.com/@richardred/issue-11-feb-19-feb-28-2019-46befddb09fe).
+Also available on [medium](https://medium.com/@richardred/issue-12-mar-1-mar-14-2019-bc77f1cfca8f).
 
 ## Snapshot
 
