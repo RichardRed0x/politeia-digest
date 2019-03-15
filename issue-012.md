@@ -6,7 +6,7 @@
 
 ### New proposals
 
-**[Trust Wallet - Integration with Decred](https://proposals.decred.org/proposals/2ababdea7da2b3d8312a773d477272135a883ed772ba99cdf31eddb5f261d571) - published Mar 5 by oregonisaac, last updated Mar 3 - 10 comments (+10)**
+**[Trust Wallet - Integration with Decred](https://proposals.decred.org/proposals/2ababdea7da2b3d8312a773d477272135a883ed772ba99cdf31eddb5f261d571) - published Mar 5 by oregonisaac - 10 comments (+10)**
 
 This proposal seeks funding to integrate DCR in Trust Wallet, a mobile wallet that allows users to store multiple cryptocurrencies. The proposal is submitted in draft form to solicit feedback which can be used to refine it before going to a vote. The integration work would have two components: 1) Trust Wallet team integrate DCR in the wallet ($1,200), 2) Decred team integrate Decred in Blockbook (which Trust Wallet uses to gather information about the state of the blockchain) and set up hosting for a Blockbook server ($2,100 in total). There are also $50/month ongoing fees associated with the Blockbook hosting and maintenance of the integration. One of the requirements before the proposal starts voting is to find Decred contractors who want to take on this work.
 
