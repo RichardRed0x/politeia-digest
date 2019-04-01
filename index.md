@@ -22,4 +22,8 @@
 
 ### [Issue 011](issue-011.md) - February 19th-February 28th 2019
 
+### [Issue 012](issue-012.md) - March 1st - March 15th 2019
+
+### [Issue 013](issue-013.md) - March 15th - March 31st 2019
+
 
