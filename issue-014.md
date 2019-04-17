@@ -62,13 +62,15 @@ This is the first proposal to be rejected despite having support from the majori
 
 45 comments (+16). Voting finished Apr 12: 503 Yes votes, 8,833 No votes (5.4% Yes) - voter participation of 22.8%, support from 1% of tickets.
 
+Following the conclusion of voting (when comments are no longer open on Politeia) @jet_user made a long and thoughtful [comment](https://www.reddit.com/r/decred/comments/b9vhee/voting_has_started_for_the_bring_decred_to_africa/eks6578/) on the reddit post related to this proposal. The comment identifies some positives for the proposal and also negatives which likely led to its rejection (too large and vague a proposal for someone relatively unknown to the community).
+
 ### Other news
 
 Live [voting charts](https://alpha.dcrdata.org/proposals) for Politeia proposals have been added to the alpha version of dcrdata. Below is the [chart](https://alpha.dcrdata.org/proposal/4) for @georgepro's Bring Decred to Ghana proposal. The latest charts for proposals that are open for voting can be obtained from dcrdata any time.
 
 ![dcrdata voting chart for Bring Decred to Ghana proposal](img/issue014/dcrdata-voting-chart.png "dcrdata voting chart for Bring Decred to Ghana proposal")
 
-A round of improvements is being deployed on proposals.decred.org on Apr 17. These changes include:
+A round of improvements is planned for deployment to proposals.decred.org on Apr 17. These changes include:
 
 * Performance improvements
 * A highlighted view of the diff between an old version of a proposal and the previous version has been added, when viewing versions of a proposal in the "edited" drop-down menu.
@@ -88,12 +90,12 @@ From Apr 1 until Apr 16 on Politeia there were:
 
 ## About this issue
 
-Content for this edition was authored by @richardred, with contributions from @bee.
+Content for this edition was authored by @richardred, with contributions from @bee and @zubairzia.
 
-Also available on [medium](https://medium.com/politeia-digest/issue-13-mar-15-mar-31-2019-fe4cb1507d1b).
+Also available on [medium](https://medium.com/@richardred/issue-14-apr-1-apr-16-2019-1ad873ccafb).
 
 ## Snapshot
 
 Proposals which have been active since the last issue if Politeia Digest was released.
 
-![Snapshot taken 00:19 UTC Apr 17 2019](img/issue014/014-snapshot.png "Snapshot taken 01:47 UTC Apr 1 2019")
+![Snapshot taken 00:19 UTC Apr 17 2019](img/issue014/014-snapshot.png "Snapshot taken 00:19 UTC Apr 17 2019")
