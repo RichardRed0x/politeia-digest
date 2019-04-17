@@ -12,7 +12,7 @@ Published Apr 2 by moo31337 - 29 comments (+29)
 
 This proposal describes a way to decentralize control of Treasury spending by subjecting each month's outgoings to a stakeholder approval vote. Each month, Politeia's operators would process invoices from contractors to prepare a draft Treasury transaction for that month. Stakeholders would then vote on chain to approve or reject this transaction. The proposal observes that, were the voting for these transactions to occur off chain, as with other Politeia proposals, the operators of the Politeia platform could manipulate the vote outcomes by not counting some of the votes - and therefore the decision was made to conduct the voting on Treasury spends on chain.
 
-The proposal describes an initial formulation with a number of guardrails in place: 
+The proposal describes an initial formulation with a number of guardrails in place:
 
 * only Pi operators will be able to generate the draft transactions and put them up for a vote
 * only one Treasury spend transaction can be approved per month
@@ -24,13 +24,13 @@ Top-scoring comments ask questions about the details of the implementation and h
 
 **[Fiat Pairs integration on EXMO Exchange](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7)**
 
-Published Apr 2 by vadymprykhodko, last updated Apr  8 - 17 comments (+17)
+Published Apr 2 by vadymprykhodko, last updated Apr 8 - 17 comments (+17)
 
 This proposal requests $23,800 for the integration of DCR with BTC and fiat pairs (DCR/RUB, DCR/UAH) on the EXMO exchange. The requested budget would cover the integration of DCR, ongoing subsequent maintenance, promotional collaborations and a series of jointly organized meetups in Eastern Europe.
 
 The proposal asks for $20,000 in BTC and $3,800 in DCR, but in [response](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7/comments/6) to a comment from @ryanzim, @vadymprykhodko states that the full amount can be paid in DCR. The work would be completed within two weeks of the proposal being approved.
 
-@vadymprykhodko has edited the proposal once, edits include a clarification that additional DCR pairs can be added at no extra cost within 3 months, changing the delivery timeframe from 5 working days to two weeks, and a correction to the fiat pairs listed at the bottom of the proposal (DCR/UAH, instead of DCR/EUR). 
+@vadymprykhodko has edited the proposal once, edits include a clarification that additional DCR pairs can be added at no extra cost within 3 months, changing the delivery timeframe from 5 working days to two weeks, and a correction to the fiat pairs listed at the bottom of the proposal (DCR/UAH, instead of DCR/EUR).
 
 @vadymprykhodko has been active in responding to comments, most of the comments have been quite positive. Some comments asked whether other projects have paid for listings and how much, but @vadymprykhodko responded that this information cannot be disclosed.
 
@@ -40,9 +40,9 @@ The proposal asks for $20,000 in BTC and $3,800 in DCR, but in [response](https:
 
 Published Apr 5 by richard-red - 5 comments (+5)
 
-An amendment to the Decred constitution is proposed which updates the document to remove out-dated sections   (e.g. Decred Assembly and Councils) and add information about aspects which are new since the constitution was written originally (e.g. Politeia). The proposal also seeks to define the constitution's purpose (a document which describes the social contract between users and the project but which is secondary to the network's consensus rules) and establish the method through which it can be amended in the future (a successful Politeia proposal).
+An amendment to the Decred constitution is proposed which updates the document to remove outdated sections (e.g. Decred Assembly and Councils) and add information about aspects which are new since the constitution was written originally (e.g. Politeia). The proposal also seeks to define the constitution's purpose (a document which describes the social contract between users and the project but which is secondary to the network's consensus rules) and establish the method through which it can be amended in future (a successful Politeia proposal).
 
-Comments on the proposal ask whether aspects of the constitution might constrain stakeholders' decision-making, @richard-red responded that in his view it would not. 
+Comments on the proposal ask whether aspects of the constitution might constrain stakeholders' decision-making, @richard-red responded that in his view it would not.
 
 ### Approved proposal
 
@@ -56,13 +56,13 @@ Comments on the proposal ask whether aspects of the constitution might constrain
 
 39 comments (+0). Voting finished Apr 2: 6,696 Yes votes, 6,051 No votes (52.5% Yes) - voter participation of 31.6%, support from 16% of tickets.
 
-This is the first proposal to be rejected despite having support from the majority of voters (greater than 50% but not the required 60%). In a [discussion](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15542882616188dHEHP:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) in the #proposals channel several community members stated that they think it would be fair enough to submit an amended version of this proposal, and @oregonisaac stated that they are considering doing so. 
+This is the first proposal to be rejected despite having support from the majority of voters (greater than 50% but not the required 60%). In a [discussion](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15542882616188dHEHP:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) in the #proposals channel several community members stated that they think it would be fair enough to submit an amended version of this proposal, and @oregonisaac stated that they are considering doing so.
 
-**[Bring decred to Africa (Ghana) Adoption program for merchants and businesses](https://proposals.decred.org/proposals/dac06f18bfeb5f7667e56554774de3bb99151018ce16a64f5353bab45819763b)** 
+**[Bring decred to Africa (Ghana) Adoption program for merchants and businesses](https://proposals.decred.org/proposals/dac06f18bfeb5f7667e56554774de3bb99151018ce16a64f5353bab45819763b)**
 
 45 comments (+16). Voting finished Apr 12: 503 Yes votes, 8,833 No votes (5.4% Yes) - voter participation of 22.8%, support from 1% of tickets.
 
-### Other News
+### Other news
 
 Live [voting charts](https://alpha.dcrdata.org/proposals) for Politeia proposals have been added to the alpha version of dcrdata. Below is the [chart](https://alpha.dcrdata.org/proposal/4) for @georgepro's Bring Decred to Ghana proposal. The latest charts for proposals that are open for voting can be obtained from dcrdata any time.
 
@@ -72,18 +72,18 @@ A round of improvements is being deployed on proposals.decred.org on Apr 17. The
 
 * Performance improvements
 * A highlighted view of the diff between an old version of a proposal and the previous version has been added, when viewing versions of a proposal in the "edited" drop-down menu.
-* A change to the default sort order for comments, making Top sorting (by score) the default (previously New was default). 
+* A change to the default sort order for comments, making Top sorting (by score) the default (previously New was default).
 
-The Politeia developers have been working mostly on the integration of the [contractor management system](https://github.com/decred/contractor-mgmt) with Politeia. 
+The Politeia developers have been working mostly on the integration of the [contractor management system](https://github.com/decred/contractor-mgmt) with Politeia.
 
 As part of the [Decred Open Source Research program](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb) ([Governance Models Research](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb/comments/14) strand), proposal data for Decred (plus Dash and Aragon) has been [shared](https://github.com/RichardRed0x/crypto-governance-research/tree/master/governance-proposals), along with a short [write-up](https://github.com/RichardRed0x/crypto-governance-research/blob/master/governance-proposals/proposal-data-notes.md) explaining the data. With 20 proposals finished voting, average (mean) ticket participation is 30.4%.
 
-From Apr  1 until Apr 16 on Politeia there were:
+From Apr 1 until Apr 16 on Politeia there were:
 
 - 3 new proposals submitted, 1 proposals started voting, 3 proposals finished voting.
 - Proposals that have finished voting have an average (mean) turnout of 25.7%, with a total of 31,397 ticket votes being cast.
 - 67 comments on Politeia proposals from 22 different users (public keys).
-- 184  up/down votes on comments from  24  different voting users (public keys).
+- 184 up/down votes on comments from 24 different voting users (public keys).
 - 169 upvotes (90%) and 15 downvotes (10%).
 
 ## About this issue
