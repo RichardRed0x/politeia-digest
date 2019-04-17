@@ -6,7 +6,7 @@
 
 ### New proposals
 
-[**Decentralize Treasury Spending**](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)
+**[Decentralize Treasury Spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)**
 
 Published Apr 2 by moo31337 - 29 comments (+29)
 
@@ -22,7 +22,7 @@ The work to implement this system would be completed by Company 0 and other appr
 
 Top-scoring comments ask questions about the details of the implementation and how the 2 new proposed opcodes would work. Many of these questions concern the choice to vote on a single draft transaction each month, and ask what happens next if the stakeholders reject one of these monthly transactions. @moo31337 and @davecgh answered these questions with more detail on some aspects and explain that some aspects will be figured out later in the development process.
 
-[**Fiat Pairs integration on EXMO Exchange**](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7)
+**[Fiat Pairs integration on EXMO Exchange](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7)**
 
 Published Apr 2 by vadymprykhodko, last updated Apr  8 - 17 comments (+17)
 
@@ -36,7 +36,7 @@ The proposal asks for $20,000 in BTC and $3,800 in DCR, but in [response](https:
 
  A pre-proposal post was submitted to [reddit](https://www.reddit.com/r/decred/comments/b0y9le/integration_on_exmo_exchange_new_fiat_pairs/).
 
-**[Amendment to Decred Constitution - 001](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473634c59f1aa0abda7aabe29079216202c83114) **
+**[Amendment to Decred Constitution - 001](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473634c59f1aa0abda7aabe29079216202c83114)**
 
 Published Apr 5 by richard-red - 5 comments (+5)
 
