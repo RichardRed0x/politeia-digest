@@ -10,7 +10,7 @@
 
 Published Apr 2 by moo31337 - 29 comments (+29)
 
-This proposal describes a way to decentralize control of Treasury spending by subjecting each month's outgoings to a stakeholder approval vote. Each month, Politeia's operators would process invoices from contractors to prepare a draft Treasury transaction for that month. Stakeholders would then vote on chain to approve or reject this transaction. The proposal observes that were the voting for these transactions to occur off chain, as with other Politeia proposals, the operators of the Politeia platform could manipulate the vote outcomes by not counting some of the votes - and therefore the decision was made to conduct the voting on Treasury spends on chain.
+This proposal describes a way to decentralize control of Treasury spending by subjecting each month's outgoings to a stakeholder approval vote. Each month, Politeia's operators would process invoices from contractors to prepare a draft Treasury transaction for that month. Stakeholders would then vote on chain to approve or reject this transaction. The proposal observes that, were the voting for these transactions to occur off chain, as with other Politeia proposals, the operators of the Politeia platform could manipulate the vote outcomes by not counting some of the votes - and therefore the decision was made to conduct the voting on Treasury spends on chain.
 
 The proposal describes an initial formulation with a number of guardrails in place: 
 
@@ -40,7 +40,7 @@ The proposal asks for $20,000 in BTC and $3,800 in DCR, but in [response](https:
 
 Published Apr 5 by richard-red - 5 comments (+5)
 
-An amendment to the Decred constitution is proposed which updates the document to remove out-dated sections   (e.g. Decred Assembly and Councils) and add information about aspects which are new since the constitution was written originally (e.g. Politeia). The proposal also seeks to define the constitution's purpose (a document which describes the social contract between users and the project but which is secondary to the network's consensus rules) and establish the method through which it can be amended in future (a successful Politeia proposal).
+An amendment to the Decred constitution is proposed which updates the document to remove out-dated sections   (e.g. Decred Assembly and Councils) and add information about aspects which are new since the constitution was written originally (e.g. Politeia). The proposal also seeks to define the constitution's purpose (a document which describes the social contract between users and the project but which is secondary to the network's consensus rules) and establish the method through which it can be amended in the future (a successful Politeia proposal).
 
 Comments on the proposal ask whether aspects of the constitution might constrain stakeholders' decision-making, @richard-red responded that in his view it would not. 
 
