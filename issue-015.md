@@ -18,7 +18,7 @@ Comments are mostly critical of the proposal, arguing that the Treasury should n
 
 **[Decentralize Treasury Spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)**
 
-Voting started on May 5 - 40 comments (+11)
+Voting started on May 6 - 40 comments (+11)
 
 Latest voting figures: 8,502 Yes votes, 230 No votes (97.4% Yes) - voter participation of 21.4%, support from 21% of tickets.
 
@@ -59,10 +59,13 @@ From Apr 17 until May 11 there were:
 
 ## About this issue
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with contributions from @bee.
 
 Also available on [medium]({}}).
 
 ## Snapshot
 
 Proposals which have been active since the last issue of Politeia Digest was released.
+
+![Snapshot taken 00:35 UTC May 12 2019](img/issue015/015-snapshot.png"Snapshot taken 00:35 UTC May 12 2019")
+
