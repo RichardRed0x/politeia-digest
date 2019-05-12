@@ -65,4 +65,4 @@ Also available on [medium]({}}).
 
 ## Snapshot
 
-Proposals which have been active since the last issue if Politeia Digest was released.
+Proposals which have been active since the last issue of Politeia Digest was released.
