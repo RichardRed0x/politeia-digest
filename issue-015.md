@@ -8,7 +8,7 @@
 
 **[A Journey to the Future of Work- Telling the DCR story through Politeia](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737)**
 
-Published May  6 by jer979 - 11 comments (+11)
+Published May 6 by jer979 - 11 comments (+11)
 
 This proposal requests 100 DCR to write an article about Politeia and have it featured in a Tier 1 media outlet. The article would describe the process of submitting a Politeia proposal from the perspective of the proposal submitter. It proposes a two-part payment structure with 40 DCR to be paid for writing the article and a further 60 DCR if placement in a top tier media outlet is secured.
 
@@ -18,7 +18,7 @@ Comments are mostly critical of the proposal, arguing that the Treasury should n
 
 **[Decentralize Treasury Spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)**
 
-Voting started on May  5 - 40 comments (+11)
+Voting started on May 5 - 40 comments (+11)
 
 Latest voting figures: 8,502 Yes votes, 230 No votes (97.4% Yes) - voter participation of 21.4%, support from 21% of tickets.
 
@@ -38,7 +38,7 @@ Voting finished Apr 26 - 25 comments (+8)
 
 **[Amendment to Decred Constitution - 001](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473634c59f1aa0abda7aabe29079216202c83114)**
 
-Voting finished May  6 - 7 comments (+2)
+Voting finished May 6 - 7 comments (+2)
 
 12,008 Yes votes, 102 No votes (99.2% Yes) - voter participation of 29.7%, support from 29% of tickets.
 
@@ -46,16 +46,16 @@ Voting finished May  6 - 7 comments (+2)
 
 ### Other News
 
-The Contractor Management System (also using Politeia) is now being used by contractors to submit their invoices for April. This also serves as an extended test of the system, and a number of issues are being identified and addressed. The invoice form has columns for the domain, subdomain and proposal id (where relevant), this information is being gathered for each line item and will in future allow for spending breakdowns to be automatically generated. 
+The Contractor Management System (also using Politeia) is now being used by contractors to submit their invoices for April. This also serves as an extended test of the system, and a number of issues are being identified and addressed. The invoice form has columns for the domain, subdomain and proposal id (where relevant), this information is being gathered for each line item and will in future allow for spending breakdowns to be automatically generated.
 
-There [will](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15574185127666uiujF:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) be an update to the proposals site deployed when voting for the Decentralize Treasury Spending proposal concludes. 
+There [will](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15574185127666uiujF:decred.org) be an update to the proposals site deployed when voting for the Decentralize Treasury Spending proposal concludes.
 
 From Apr 17 until May 11 there were:
 
 - 1 new proposals submitted, 3 proposals started voting, 2 proposals finished voting.
 - Proposals that have finished voting have an average (mean) turnout of 25.7%, with a total of 21,110 ticket votes being cast.
 - 34 comments on Politeia proposals from 17 different users (public keys).
-- 69  up/down votes on comments from  18  different voting users (public keys).
+- 69 up/down votes on comments from 18 different voting users (public keys).
 
 ## About this issue
 
