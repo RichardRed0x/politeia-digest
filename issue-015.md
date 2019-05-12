@@ -6,7 +6,7 @@
 
 ### New proposals
 
-**[A Journey to the Future of Work- Telling the DCR story through Politeia](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737) **
+**[A Journey to the Future of Work- Telling the DCR story through Politeia](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737)**
 
 Published May  6 by jer979 - 11 comments (+11)
 
@@ -16,7 +16,7 @@ Comments are mostly critical of the proposal, arguing that the Treasury should n
 
 ### Proposals currently open for voting
 
-**[Decentralize Treasury Spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f) **
+**[Decentralize Treasury Spending](https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)**
 
 Voting started on May  5 - 40 comments (+11)
 Latest voting figures: 8,502 Yes votes, 230 No votes (97.4% Yes) - voter participation of 21.4%, support from 21% of tickets.
@@ -27,14 +27,14 @@ New comments dig further into the detail of how the proposed mechanism will work
 
 ### Approved Proposals
 
-**[Fiat Pairs integration on EXMO Exchange](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7) **
+**[Fiat Pairs integration on EXMO Exchange](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7)**
 
 Voting finished Apr 26 - 25 comments (+8)
 5,608 Yes votes, 3,392 No votes (62.3% Yes) - voter participation of 21.6%, support from 14% of tickets.
 
 > Recap: This proposal requests $23,800 for the integration of DCR with BTC and fiat pairs (DCR/RUB, DCR/UAH) on the EXMO exchange. The requested budget would cover the integration of DCR, ongoing subsequent maintenance, promotional collaborations and a series of jointly organized meetups in Eastern Europe.
 
-**[Amendment to Decred Constitution - 001](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473634c59f1aa0abda7aabe29079216202c83114) **
+**[Amendment to Decred Constitution - 001](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473634c59f1aa0abda7aabe29079216202c83114)**
 
 Voting finished May  6 - 7 comments (+2)
 12,008 Yes votes, 102 No votes (99.2% Yes) - voter participation of 29.7%, support from 29% of tickets.
