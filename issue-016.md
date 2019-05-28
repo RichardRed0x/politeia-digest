@@ -18,7 +18,7 @@ The proposal requests $114k for the program, with $18k designated for designing 
 
 **[A Journey to the Future of Work- Telling the DCR story through Politeia](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737)**
 
-Voting started on May 22 - 64 comments (+53)
+Voting started on May 22 (closes May 29) - 64 comments (+53)
 
 Latest voting figures: 4,279 Yes votes, 7,204 No votes (37.3% Yes) - voter participation of 27.9%, support from 10% of tickets.
 
@@ -26,13 +26,13 @@ Latest voting figures: 4,279 Yes votes, 7,204 No votes (37.3% Yes) - voter parti
 
 @jer979 edited the proposal in response to requests for clarification about what "Tier 1" meant, specifying VentureBeat or CNBC as the target publications which would warrant the payout of the additional 60 DCR.
 
-@Dustorf [commented](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/18) shortly after voting opened to express support for @jer979 and the proposal. In early voting the proposal had around 60% Yes votes. This prompted a [post](https://www.reddit.com/r/decred/comments/bsk1l4/the_treasury_is_getting_milked_by_those_useless/) on reddit criticizing the proposal. @fiach-dubh replied to the post with some criticism of @jer979 and the proposal, which they were encouraged to also post as a [comment](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/29) on Politeia. The comment highlighted @jer979's previous engagement with IOTA, and specifically a [post](https://medium.com/@jer979/disclosure-im-an-advisor-to-iota-4956de37cfa0) written by @jer979 which used the term "libel" in relation to someone's responsible disclosure of a vulnerability in IOTA. The comment also provided global rankings for CNBC (690) and VentureBeat (11,315), and suggested that these targets may be a bait and switch. @jer979 [responded](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/39) with some context about their time at IOTA and in the blockchain space generally. This appears to have [persuaded](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/59) @fiach-dubh to support the proposal.
+@Dustorf [commented](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/18) shortly after voting opened to express support for @jer979 and the proposal. In early voting the proposal had around 60% Yes votes. This prompted a [post](https://www.reddit.com/r/decred/comments/bsk1l4/the_treasury_is_getting_milked_by_those_useless/) on reddit criticizing the proposal. @fiach-dubh replied to the post with some criticism of @jer979 and the proposal, which they were encouraged to also post as a [comment](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/29) on Politeia. The comment highlighted @jer979's previous engagement with IOTA, and specifically a [post](https://medium.com/@jer979/disclosure-im-an-advisor-to-iota-4956de37cfa0) written by @jer979 which used the term "libel" in relation to someone's responsible disclosure of a vulnerability in IOTA. The comment also provided global rankings for CNBC (690) and VentureBeat (11,315), and suggested that these targets may be a bait and switch. @jer979 [responded](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/39) with some context about their time at IOTA and in the blockchain space generally. This appears to have [persuaded](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/59) @fiach-dubh to support the proposal, although @Dustorf has [changed](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15590464434557ZgsPn:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) his mind about supporting the proposal.
 
 A number of high-scoring comments on Politeia and reddit question the merit of paying for this kind of single article relationship. Other commenters see it as a reasonable cost to experiment with a new angle for raising awareness of the project.
 
 @jer979 suggested in [several](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/7) [comments](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/52) that they would be open to, or in fact prefer, an alternative method whereby stakeholders could determine how much of the "bonus" 60 DCR the article merited. The request for payment in DCR was also [identified](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737/comments/23) as a problem by @jy-p, prompting a discussion about the reasons why contractor payments are denominated in USD, the merits of offering different modes of payment, and the issues which could arise from the added complexity of doing so.
 
-Notably, the approval rate for the proposal hovered around the 60% mark for the first 4 days, until a block of 3,992 no votes pushed the approval rate down to 38%. Real-time charts showing incoming votes the proposal can now be viewed on dcrdata [alpha](https://alpha.dcrdata.org/proposal/a-journey-to-the-future-of-work-telling-the-dcr-story-through-politeia).
+Notably, the approval rate for the proposal hovered around the 60% mark for the first 4 days, until a block of 3,992 no votes pushed the approval rate down to 38%. Real-time charts showing incoming votes the proposal can be viewed on dcrdata [alpha](https://alpha.dcrdata.org/proposal/a-journey-to-the-future-of-work-telling-the-dcr-story-through-politeia).
 
 ### Approved proposals
 
@@ -52,7 +52,7 @@ The [amended](https://proposals.decred.org/proposals/fd56bb79e0383f40fc2d92f4473
 
 The proposals site was [updated](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$155845873121645ykVDq:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) on May 21. Front end changes include an improved proposal list view, continuous loading of proposals while scrolling, and no more redirect when session expires - now a login modal window will pop up. The backend saw performance improvements and bug fixes, changes to the user database, and an updated API endpoint that allows non-admins to look up userID/username by public key. The userID/username lookups will allow for data about user comments and votes to be organized by user account rather than public key.
 
-No more All props page, making the graphic snapshot harder, replace with GitHub repo commit [hash](https://github.com/decred-proposals/mainnet/commit/7bc428a736227eeac092aaa02f0682af814b88a9). {is it a todo?}
+Some [additional](https://github.com/decred/politeia/issues/881) [bugs](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15589657213389qGkwY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) have been identified and resolved - these related to the inaccurate display of voting figures on proposals.decred.org (the repository data was still accurate).
 
 From May 12 until May 27 there were:
 
@@ -67,4 +67,5 @@ As part of the front end improvements, the All Proposals tab has been removed. I
 
 Content for this edition was authored by @richardred with contributions from @bee and @s_ben.
 
-Also available on [medium]({link}).
+Also available on [medium](https://medium.com/@richardred/politeia-digest-16-may-12-may-27-2019-24eb100cc26d).
+
