@@ -8,7 +8,7 @@
 
 **[Incentivizing BD Evangelists within the Decred Ecosystem](https://proposals.decred.org/proposals/cb446a469987d6603d93f442ef0d4e45bacbea47a72b5ce89f9c3cac3868d627)**
 
-Published Mar 27 by betterfuture - 0 comments
+Published May 27 by betterfuture - 0 comments
 
 This proposal seeks to establish a Decred Evangelist pilot program for 12 months, through which Evangelists are recruited and incentivized to find co-development partners and set up "BD (Business Development) deals". These deals would involve co-development on a Decred use case, with funding from the partner matched by Treasury funding, and possibly ongoing royalties or license fees paid by the partner to the Treasury. Evangelists would establish contact with prospective partners and aim to negotiate a deal which could then be proposed on Politeia. For co-development projects approved on Politeia, the Evangelist who negotiated the deal would receive 10% of any monies paid by the partner to the Treasury.
 
@@ -54,9 +54,9 @@ The proposals site was [updated](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.
 
 Some [additional](https://github.com/decred/politeia/issues/881) [bugs](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15589657213389qGkwY:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) have been identified and resolved - these related to the inaccurate display of voting figures on proposals.decred.org (the repository data was still accurate).
 
-From May 12 until May 27 there were:
+From May 12 until May 27:
 
-- 1 new proposals submitted, 1 proposals started voting, 1 proposals finished voting. {SB: singlular awkward when preceeded by "were" above}
+- 1 new proposal submitted, 1 proposal started voting, 1 proposal finished voting.
 - Proposals that have finished voting have an average (mean) turnout of 22.5%, with a total of 9,189 ticket votes being cast.
 - 53 comments on Politeia proposals from 14 different users (public keys).
 - 138 up/down votes on comments from 24 different voting users (public keys).
@@ -68,4 +68,3 @@ As part of the front end improvements, the All Proposals tab has been removed. I
 Content for this edition was authored by @richardred with contributions from @bee and @s_ben.
 
 Also available on [medium](https://medium.com/@richardred/politeia-digest-16-may-12-may-27-2019-24eb100cc26d).
-
