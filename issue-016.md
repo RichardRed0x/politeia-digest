@@ -8,7 +8,7 @@
 
 **[Incentivizing BD Evangelists within the Decred Ecosystem](https://proposals.decred.org/proposals/cb446a469987d6603d93f442ef0d4e45bacbea47a72b5ce89f9c3cac3868d627)**
 
-Published Mar 27 by betterfuture - 0 comments
+Published May 27 by betterfuture - 0 comments
 
 This proposal seeks to establish a Decred Evangelist pilot program for 12 months, through which Evangelists are recruited and incentivized to find co-development partners and set up "BD (Business Development) deals". These deals would involve co-development on a Decred use case, with funding from the partner matched by Treasury funding, and possibly ongoing royalties or license fees paid by the partner to the Treasury. Evangelists would establish contact with prospective partners and aim to negotiate a deal which could then be proposed on Politeia. For co-development projects approved on Politeia, the Evangelist who negotiated the deal would receive 10% of any monies paid by the partner to the Treasury.
 
