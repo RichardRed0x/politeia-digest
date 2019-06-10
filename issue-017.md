@@ -8,7 +8,7 @@
 
 **[Ditto Communications Proposal for Decred: Phase 2](https://proposals.decred.org/proposals/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04)**
 
-Published May 29 by lizbagot - 33 comments (+33). Voting started on Jun 3 (closes Jun 10). 
+Published May 29 by lizbagot - 33 comments (+33). Voting started on Jun 3 (closes Jun 10).
 
 Latest voting figures: 9,103 Yes votes, 2,814 No votes (76.4% Yes) - voter participation of 28.8%, support from 22% of tickets.
 
@@ -22,19 +22,19 @@ Published May 30 by davecgh - 11 comments (+11). Voting started on Jun 3 (closes
 
 Latest voting figures: 13,670 Yes votes, 116 No votes (99.2% Yes) - voter participation of 33.3%, support from 33% of tickets.
 
-This proposal presents a change to the consensus rules (block header commitments) that would improve the security and performance of Simple Payment Verification (SPV) or lightweight clients (as used on phones). The proposal is composed of two parts: a high-level overview which covers the pros (improved security and performance of SPV, enabling of future scalability) and cons (lightweight clients would need to be updated, full nodes would be required to support SPV), and a section with more technical details. If the proposal passes, a DCP formalizing the rule change will be produced (at a cost of up to $20k) and put to an on-chain vote. Comments are mostly asking questions about the detail of the proposal or which additional functionality these commitments could support. An important point made in comments is that Decred's upgrade voting process allows for this "hard fork" change to be implemented in the most efficient and straightforward way, whereas Bitcoin's BIP 158 has to take a more convoluted approach so that it is achievable with a "soft fork". 
+This proposal presents a change to the consensus rules (block header commitments) that would improve the security and performance of Simple Payment Verification (SPV) or lightweight clients (as used on phones). The proposal is composed of two parts: a high-level overview which covers the pros (improved security and performance of SPV, enabling of future scalability) and cons (lightweight clients would need to be updated, full nodes would be required to support the commitments), and a section with more technical details. If the proposal passes, a DCP formalizing the rule change will be produced (at a cost of up to $20k) and put to an on-chain vote. Comments are mostly asking questions about the detail of the proposal or which additional functionality these commitments could support. An important point made in comments is that Decred's upgrade [voting process](https://docs.decred.org/governance/consensus-rule-voting/overview/) allows for this "hard fork" change to be implemented in the most efficient and straightforward way, whereas Bitcoin's BIP 158 has to take a more convoluted approach so that it is achievable with a "soft fork".
 
 **[Decred Open Source Research proposal: Phase 2](https://proposals.decred.org/proposals/67de0e901143400ae2f247391c4d5028719ffea8308fbc5854745ad859fb993f)**
 
-Published May 30 by richard-red - 6 comments (+6). Voting started on Jun 3 (closes Jun 10). 
+Published May 30 by richard-red - 6 comments (+6). Voting started on Jun 3 (closes Jun 10).
 
 Latest voting figures: 11,818 Yes votes, 1,296 No votes (90.1% Yes) - voter participation of 31.7%, support from 29% of tickets.
 
-This proposal seeks to continue funding the research program with $20k, estimated to last for 6 months. The proposal includes a report on the first 6 months of the research program, linking to projects on [Pi research](https://github.com/RichardRed0x/pi-research), [cryptocurrency governance](https://github.com/RichardRed0x/crypto-governance-research), and [git](https://github.com/degeri/decred_contributor_track)([Hub](https://github.com/RichardRed0x/github-bq)) analysis. For the next phase, the idea of having a proposal for collecting and voting on research ideas would be dropped in favor of participants in the research program deciding which subjects it should cover themselves. Comments with research ideas are  invited on the proposal itself, and @oregonisaac provided some suggestions about Lightning Network research and looking into SourceCred.
+This proposal seeks to continue funding the research program with $20k, estimated to last for 6 months. The proposal includes a report on the first 6 months of the research program, linking to projects on [Pi research](https://github.com/RichardRed0x/pi-research), [cryptocurrency governance](https://github.com/RichardRed0x/crypto-governance-research), and [git](https://github.com/degeri/decred_contributor_track)([Hub](https://github.com/RichardRed0x/github-bq)) analysis. For the next phase, the idea of having a proposal for collecting and voting on research ideas would be dropped in favor of participants in the research program deciding which subjects it should cover themselves. Comments with research ideas are invited on the proposal itself, and @oregonisaac provided some suggestions about Lightning Network research and looking into SourceCred.
 
 **[Decentralized Exchange Specification Document](https://proposals.decred.org/proposals/a4f2a91c8589b2e5a955798d6c0f4f77f2eec13b62063c5f4102c21913dcaf32)**
 
-Published May 31 by jy-p - 11 comments (+11). Voting started on Jun 4 (closes Jun 11). 
+Published May 31 by jy-p - 11 comments (+11). Voting started on Jun 4 (closes Jun 11).
 
 Latest voting figures: 8,089 Yes votes, 196 No votes (97.6% Yes) - voter participation of 20.1%, support from 20% of tickets.
 
@@ -55,22 +55,23 @@ Comments on the proposal raise questions about whether Decred needs this kind of
 **[A Journey to the Future of Work- Telling the DCR story through Politeia](https://proposals.decred.org/proposals/b9f342a0f917abb7a2ab25d5ed0aca63c06fe6dcc9d09565a9cde3b6fe7e6737)**
 
 Voting finished May 29 - 66 comments (+2)
-8,787 Yes votes, 9,284 No votes (48.6% Yes) - voter participation of 43.9%, support from 21% of tickets.
+
+Final voting figures: 8,787 Yes votes, 9,284 No votes (48.6% Yes) - voter participation of 43.9%, support from 21% of tickets.
 
 ### Other News
 
-An update about the [Bounty](https://bounty.decred.org/) program on May 15 was missed in a previous issue. This update stated that 49 submissions had been processed with 7 eligible for a payout. 
+An update about the [Bounty](https://bounty.decred.org/) program on May 15 was missed in a previous issue. This update stated that 49 submissions had been processed with 7 eligible for a payout.
 
-A poll about the Politeia approval threshold was [posted](https://www.reddit.com/r/decred/comments/bynidz/poll_optimal_politeia_pass_threshold/) on reddit. A [post](https://www.reddit.com/r/decred/comments/bx1kkk/why_are_we_paying_for_pr_agency_while_not_having/) asking why Decred is paying for a PR agency while not having a marketing agency also appeared on reddit. 
+A poll about the Politeia approval threshold was [posted](https://www.reddit.com/r/decred/comments/bynidz/poll_optimal_politeia_pass_threshold/) on reddit. A [post](https://www.reddit.com/r/decred/comments/bx1kkk/why_are_we_paying_for_pr_agency_while_not_having/) asking why Decred is paying for a PR agency while not having a marketing agency also appeared on reddit.
 
 From May 28 until Jun 10:
 
 - 4 new proposals submitted, 4 proposals started voting, 1 proposal finished voting.
 - Proposals that have finished voting have an average (mean) turnout of 43.9%, with a total of 18,071 ticket votes being cast.
 - 80 comments on Politeia proposals from 30 different users (public keys).
-- 215  up/down votes on comments from  26 different voting users (public keys).
+- 215 up/down votes on comments from 26 different voting users (public keys).
 
-Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/4c79622ff513f294bf52645d513bb19b47903859). 
+Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/4c79622ff513f294bf52645d513bb19b47903859).
 
 ## About this issue
 
