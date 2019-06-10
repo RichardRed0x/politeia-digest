@@ -77,9 +77,9 @@ From May 28 until Jun 10:
 - 80 comments on Politeia proposals from 30 different users (public keys).
 - 215 up/down votes on comments from 26 different voting users (public keys).
 
-Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/4c79622ff513f294bf52645d513bb19b47903859).
-
 ## About this issue
+
+Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/4c79622ff513f294bf52645d513bb19b47903859).
 
 Content for this edition was authored by @richardred with contributions from @bee, @s_ben and @davecgh
 
