@@ -1,6 +1,6 @@
 # Politeia Digest #17 - May 28 - June 9 2019
 
-![Image credit: @30000fps]({image}"Image credit: @30000fps")
+![Image credit: @30000fps](img/issue017/017-title.png"Image credit: @30000fps")
 
 **Treasury balance: 617,104 DCR (approx +15,286 DCR/month) - $16.5 million (+$408k/month) based on $26.70 DCR price**
 
@@ -12,7 +12,13 @@ Published May 29 by lizbagot - 33 comments (+33). Voting started on Jun 3 (close
 
 Latest voting figures: 9,103 Yes votes, 2,814 No votes (76.4% Yes) - voter participation of 28.8%, support from 22% of tickets.
 
-This proposal seeks to continue retaining Ditto's services for $25k/month in DCR. It presents a recap of the last 6 months and lays out a 5 point plan for the next 6 months: 1) Build out and refine positioning, messaging, and talking points, 2) Conduct media outreach to support the efforts and developments of the Decred project, 3) Coordinate events and schedule on-site interviews for Decred spokespeople, 4) Develop a repository of educational materials and third-party content, 5) Educate and empower the community to advocate for Decred.
+This proposal seeks to continue retaining Ditto's services for $25k/month in DCR. It presents a recap of the last 6 months and lays out a 5 point plan for the next 6 months: 
+
+1. Build out and refine positioning, messaging, and talking points
+2. Conduct media outreach to support the efforts and developments of the Decred project
+3. Coordinate events and schedule on-site interviews for Decred spokespeople
+4. Develop a repository of educational materials and third-party content
+5. Educate and empower the community to advocate for Decred
 
 Comments are generally supportive of Ditto's efforts, and appreciative of how Ditto staff have conducted themselves and reported to the community. One top [comment](https://proposals.decred.org/proposals/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04/comments/1) asks about how Ditto's performance should be measured, and what the claim of increasing Decred's awareness and visibility is based on, with @lizbagot replying to say that it is based on anecdotal evidence, and offering suggestions for useful metrics going forward. Another top comment criticizes Ditto's approach as being too US-centric, and asks what can be done to improve Decred's profile in non-English-speaking countries.
 
@@ -22,7 +28,7 @@ Published May 30 by davecgh - 11 comments (+11). Voting started on Jun 3 (closes
 
 Latest voting figures: 13,670 Yes votes, 116 No votes (99.2% Yes) - voter participation of 33.3%, support from 33% of tickets.
 
-This proposal presents a change to the consensus rules (block header commitments) that would improve the security and performance of Simple Payment Verification (SPV) or lightweight clients (as used on phones). The proposal is composed of two parts: a high-level overview which covers the pros (improved security and performance of SPV, enabling of future scalability) and cons (lightweight clients would need to be updated, full nodes would be required to support the commitments), and a section with more technical details. If the proposal passes, a DCP formalizing the rule change will be produced (at a cost of up to $20k) and put to an on-chain vote. Comments are mostly asking questions about the detail of the proposal or which additional functionality these commitments could support. An important point made in comments is that Decred's upgrade [voting process](https://docs.decred.org/governance/consensus-rule-voting/overview/) allows for this "hard fork" change to be implemented in the most efficient and straightforward way, whereas Bitcoin's BIP 158 has to take a more convoluted approach so that it is achievable with a "soft fork".
+This proposal presents a change to the consensus rules (block header commitments) that would improve the security and performance of Simplified Payment Verification (SPV) or lightweight clients (as used on phones). The proposal is composed of two parts: a high-level overview which covers the pros (improved security and performance of SPV, enabling of future scalability) and cons (lightweight clients would need to be updated, full nodes would be required to support the commitments), and a section with more technical details. If the proposal passes, a DCP formalizing the rule change will be produced (at a cost of up to $20k) and put to an on-chain vote. Comments are mostly asking questions about the detail of the proposal or which additional functionality these commitments could support. An important point made in comments is that Decred's upgrade [voting process](https://docs.decred.org/governance/consensus-rule-voting/overview/) allows for this "hard fork" change to be implemented in the most efficient and straightforward way, whereas Bitcoin's BIP 158 has to take a more convoluted approach so that it is achievable with a "soft fork".
 
 **[Decred Open Source Research proposal: Phase 2](https://proposals.decred.org/proposals/67de0e901143400ae2f247391c4d5028719ffea8308fbc5854745ad859fb993f)**
 
@@ -58,7 +64,7 @@ Voting finished May 29 - 66 comments (+2)
 
 Final voting figures: 8,787 Yes votes, 9,284 No votes (48.6% Yes) - voter participation of 43.9%, support from 21% of tickets.
 
-### Other News
+### Other news
 
 An update about the [Bounty](https://bounty.decred.org/) program on May 15 was missed in a previous issue. This update stated that 49 submissions had been processed with 7 eligible for a payout.
 
@@ -75,6 +81,6 @@ Snapshot for this issue based on this [commit](https://github.com/decred-proposa
 
 ## About this issue
 
-Content for this edition was authored by @richardred with contributions from {}
+Content for this edition was authored by @richardred with contributions from @bee, @s_ben and @davecgh
 
-Also available on [medium]({}).
+Also available on [medium](https://medium.com/politeia-digest/issue-17-may-28-june-9-bc5bb77e4f6c).
