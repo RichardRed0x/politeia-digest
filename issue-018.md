@@ -55,3 +55,5 @@ As noted in the last issue of Politeia Digest, @betterfuture decided to withdraw
 
 The EXMO exchange added Decred pairs (DCR/BTC, DCR/RUB, DCR/UAH) on 18 June, fulfilling the main deliverables of their approved [proposal](https://proposals.decred.org/proposals/950e8149e594b01c010c1199233ab11e82c9da39174ba375d286dc72bb0a54d7).
 
+Decred’s part of the Trust Wallet integration is nearing completion. Approved by voters in march, this [proposal](https://proposals.decred.org/proposals/2ababdea7da2b3d8312a773d477272135a883ed772ba99cdf31eddb5f261d571) split work between the Trust Wallet team, which was tasked with the core wallet integration, and Decred, which was tasked with integrating with and hosting the Blockbook server Trust Wallet uses to host transaction data. Core wallet integration has been completed by Trust Wallet, and Decred’s Blockbook integration is [nearing completion](https://github.com/trezor/blockbook/pull/216)), with one final issue remaining regarding how to represent Decred’s unique PoS voting mechanism in Blockbook data.
+
