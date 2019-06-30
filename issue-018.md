@@ -1,6 +1,6 @@
 # Politeia Digest #18 - June 10 - June 29 2019
 
-![Image credit: @30000fps](img/issue018/018-title.png"Image credit: @30000fps")
+![Image credit: @30000fps](img/issue018/018-title.png "Image credit: @30000fps")
 
 **Treasury balance: 621,408 DCR (approx +15,134 DCR/month) - $21.3 million (+$518k/month) based on $34.20 DCR price**
 
