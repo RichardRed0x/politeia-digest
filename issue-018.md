@@ -1,6 +1,6 @@
 # Politeia Digest #18 - June 10 - June 29 2019
 
-![Image credit: @30000fps](img/issue018/018-title.png "Image credit: @30000fps")
+![Image credit: @30000fps](img/issue018/018-title.png"Image credit: @30000fps")
 
 **Treasury balance: 621,408 DCR (approx +15,134 DCR/month) - $21.3 million (+$518k/month) based on $34.20 DCR price**
 
@@ -12,7 +12,7 @@ Published Jun 15 by degeri, voting started on Jun 24 (closes July 1) - 15 commen
 
 Latest voting figures: 5,116 Yes votes, 590 No votes (89.7% Yes) - voter participation of 14%, support from 12% of tickets.
 
-This proposal requests continued funding of the Decred Bug Bounty program, which is due to end on June 30th. The proposal provides a breakdown of operating spending from the first 6 months, which totaled $2,450 and included $1,500 bring up costs for the [website](https://bounty.decred.org). Bounty payments totaled $3,729 for 8 reported vulnerabilities out of a total of 58 submissions. The proposal requests an extension of 1 year for the Bounty program, during which time operating costs would be capped at $6,000 and Bounty payouts would be capped at $100,000. The scope of the Bounty program's operating costs would be extended to include writeups and work defining policies/rules and scope.
+This proposal requests continued funding of the Decred Bug Bounty program, which is due to end on June 30th. The proposal provides a breakdown of operating spending from the first 6 months, which totaled $2,450 and included $1,500 bring up costs for the [website](https://bounty.decred.org). Bounty payments totaled $3,729 for 8 reported vulnerabilities out of a total of 58 submissions. The proposal requests an extension of 1 year for the Bounty program, during which time operating costs would be capped at $6,500 and Bounty payouts would be capped at $100,000. The scope of the Bounty program's operating costs would be extended to include writeups and work defining policies/rules and scope.
 
 Comments are supportive of this proposal, including some comments from developers which state that the program is being well run and is beneficial for the project.
 
