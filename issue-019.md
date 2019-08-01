@@ -30,7 +30,7 @@ There were no further comments and the proposal was abandoned as requested by @d
 
 ### Approved proposals
 
-**[Decred Bug Bounty Proposal: Phase 2](https://proposals.decred.org/proposals/073694ed82d34b2bfff51e35220e8052ad4060899b23bc25791a9383375cae70) - voting finished Jul  1 - 15 comments ()**
+**[Decred Bug Bounty Proposal: Phase 2](https://proposals.decred.org/proposals/073694ed82d34b2bfff51e35220e8052ad4060899b23bc25791a9383375cae70) - voting finished Jul  1 - 15 comments (+0)**
 12,020 Yes votes, 830 No votes (93.5% Yes) - voter participation of 31.5%, support from 29% of tickets.
 
 @degeri has since posted another [status update](https://twitter.com/degeri_crypto/status/1154776087374770176) for the Bounty program on July 26, it is up to 67 submissions, 9 being eligible for a payout, details at [bounty.decred.org](https://bounty.decred.org/).
