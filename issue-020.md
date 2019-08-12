@@ -112,7 +112,7 @@ From Aug 1 until Aug 12 there were:
 
 Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/8726ece075a802c5301577a58e5fa2838e991ae8).
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with fixes by @bee.
 
 Image credit: @30000fps.
 
