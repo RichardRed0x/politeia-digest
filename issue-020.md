@@ -1,4 +1,4 @@
-# Politeia Digest #20 - August 1 - 12 2019
+# Politeia Digest #20 - August 1-12 2019
 
 ![Image credit: @30000fps](img/issue020/020-title.png)
 
