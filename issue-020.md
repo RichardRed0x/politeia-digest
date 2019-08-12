@@ -12,13 +12,13 @@ Published Aug 7 by chappjc, updated Aug 11 - 11 comments (+11)
 
 This proposal requests a budget of $230,000 (largely labor costs) for developing the Decred Distributed Exchange (DEX). The work would be led by @chappjc and @buck545321 along with Company 0, and it would be run as an open source project where any approved contractor can bill the Treasury for their work on it.
 
-The proposal provides a high level overview of the DEX server and client deliverables, these would be written in Go as command-line interface (CLI) programs. Future development projects would add a GUI for the client using the Electron Framework. The initial client will require full nodes for both blockchains (e.g. dcrd and btcd). The task is broken down into 7 milestones, with an estimated completion date before Q3 2020. The proposal was edited in response to a [comment](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/2) to provide full-time equivalent workload estimates for each milestone.
+The proposal provides a high level overview of the DEX server and client deliverables, these would be written in Go as command-line interface (CLI) programs. Future development projects would add a GUI for the client using the Electron framework. The initial client will require full nodes for both blockchains (e.g. dcrd and btcd). The task is broken down into 7 milestones, with an estimated completion date before Q3 2020. The proposal was edited in response to a [comment](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/2) to provide full-time equivalent workload estimates for each milestone.
 
 Comments on the proposal are generally supportive, with one [asking](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/3) about the differences to sparkswap.com and getting an in depth response.
 
 ## Market Makers
 
-There have been three proposals submitted, on Aug 7, which offer market making services to Decred. The objective of these proposals would be to increase order book depth for DCR markets. DCR is often cited as having poor liquidity because there is little DCR available on exchanges in the form of orders on the books - as compared to other cryptocurrencies with similar market capitalization. Market makers would provide liquidity by maintaining buy and sell orders on selected markets, this would allow people who wished to buy or sell DCR to make larger orders without moving the price as much. One example that has been given is that selling as little as $5,000 worth of DCR can move the price down up to 5% - hindering the use of DCR as a medium of exchange.
+There have been three proposals submitted, on Aug 7, which offer market making services to Decred. The objective of these proposals would be to increase order book depth for DCR markets. DCR is often cited as having poor liquidity because there is little DCR available on exchanges in the form of orders in the books - as compared to other cryptocurrencies with similar market capitalization. Market makers would provide liquidity by maintaining buy and sell orders on selected markets, this would allow people who wished to buy or sell DCR to make larger orders without moving the price as much. One example that has been given is that selling as little as $5,000 worth of DCR can move the price down by up to 5% - hindering the use of DCR as a medium of exchange.
 
 For those new to market making, the difference between the offers relates to the number of markets/pairs/crosses covered, the amount of liquidity provided and how tight the spread is around the current price, and also how consistently the service will be maintained. In terms of pricing, the key difference is in how trading fees are handled, with some proposals charging these to the Treasury, while the Grapefruit proposal covers these within their fee.
 
@@ -42,9 +42,9 @@ Altonomy authorized their proposal to start voting within the first 24 hours of 
 
 Published Aug 7 by i2trading - 47 comments (+47)
 
-This proposal offers the same liquidity per pair as Altonomy, with tighter spreads but fewer pairs (6) and lower uptime (90%). @max_bronstein made an interesting [comment](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156538382612762agSZH:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) about this, suggesting that 100% uptime may not be as positive as it appears, as it would obligate the market maker to maintain their offer even during times when doing so is inconvenient and could cost them money.
+This proposal offers the same liquidity per pair as Altonomy, with tighter spreads but fewer pairs (6) and lower uptime (90%). @max\_bronstein made an interesting [comment](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156538382612762agSZH:decred.org) about this, suggesting that 100% uptime may not be as positive as it appears, as it would obligate the market maker to maintain their offer even during times when doing so is inconvenient and could cost them money.
 
-Iterative Capital is an established presence in the Decred ecosystem, as an investment manager (with an excellent [thesis](https://iterative.capital/thesis/)) that is a large-scale Bitcoin and Decred miner, they are a significant stakeholder in the project. i2 also run the 4th largest VSP and a mining pool, and provide liquidity for DCR in the OTC markets through i2 trading. While i2 Trading has strong familiarity with the Decred ecosystem, they do not have the same degree of experience of providing market-making services as the other firms who made proposals.
+Iterative Capital is an established presence in the Decred ecosystem, as an investment manager (with an excellent [thesis](https://iterative.capital/thesis/)) that is a large-scale Bitcoin and Decred miner, they are a significant stakeholder in the project. Iterative also run the 4th largest VSP and a mining pool, and provide liquidity for DCR in the OTC markets through [i2 Trading](https://i2trading.com/). While i2 Trading has strong familiarity with the Decred ecosystem, they do not have the same degree of experience of providing market-making services as the other firms who made proposals.
 
 **[Grapefruit Trading Market Making proposal](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b)**
 
@@ -73,7 +73,7 @@ The table below will be maintained in this [gist](https://gist.github.com/Richar
 
 **[RFP: Decred Designated Market Maker](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd)**
 
-Published Aug 10 by jz_bz last updated Aug 10 - 28 comments ()
+Published Aug 10 by jz\_bz, updated Aug 10 - 28 comments ()
 
 This proposal asks the stakeholders to signal whether or not they want to hire a market maker - moving the process forward to considering which (if any) of the current proposals to choose, or dropping the idea entirely. @jz makes a case for approving the proposal and hiring a market maker, citing the improved user experience liquidity would bring and the problems illiquidity causes - it is one of the main barriers reported by large institutional players. As background, @jz notes that when he began the search for market makers in Jan 2018 there were none who were willing or able to participate in the kind of open proposal process Decred required, only over the course of the crypto winter have some firms opened up to the idea of making this kind of proposal. The proposal credits Max Bronstein and Chris Burniske as helping to set up the offers from the market makers, and explains what the market makers were asked to provide and the terms they are being asked to adopt.
 
@@ -85,7 +85,7 @@ If the proposal passes, in order for a market maker proposal to be approved it w
 
 **[TinyDecred: A Python Toolkit for Decred](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124)**
 
-Published Jul 30 by buck54321 last updated Jul 30 - voting started on Aug 5 - 21 comments ()
+Published Jul 30 by buck54321, updated Jul 30 - voting started on Aug 5 - 21 comments ()
 
 Latest voting figures: 7,809 Yes votes, 781 No votes (90.9% Yes) - voter participation of 20.9%, support from 19% of tickets.
 
@@ -93,16 +93,18 @@ Latest voting figures: 7,809 Yes votes, 781 No votes (90.9% Yes) - voter partici
 
 ## Approved proposals
 
-**[Decred Fundamental Metrics Research Proposal - Phase 1](https://proposals.decred.org/proposals/78b50f218106f5de40f9bd7f604b048da168f2afbec32c8662722b70d62e4d36) - voting finished Aug 6 - 19 comments ()**
+**[Decred Fundamental Metrics Research Proposal - Phase 1](https://proposals.decred.org/proposals/78b50f218106f5de40f9bd7f604b048da168f2afbec32c8662722b70d62e4d36)**
 
-10,630 Yes votes, 889 No votes (92.3% Yes) - voter participation of 28.4%, support from 26% of tickets.
+Voting finished Aug 6 - 19 comments ()
+
+Final voting figures: 10,630 Yes votes, 889 No votes (92.3% Yes) - voter participation of 28.4%, support from 26% of tickets.
 
 ## Other News
 
 From Aug 1 until Aug 12 there were:
 
 * 5 new proposals submitted, 1 proposals started voting, 1 proposals finished voting.
-* Proposals that have finished voting have an average (mean) turnout of 28.4%, with a total of 11,519 ticket votes being cast.
+* Proposals that have finished voting (1) have an average (mean) turnout of 28.4%, with a total of 11,519 ticket votes being cast.
 * 160 comments on Politeia proposals from 18 different users.
 * 405 up/down votes on comments from 18 different voting users.
 
