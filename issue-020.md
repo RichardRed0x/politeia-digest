@@ -4,7 +4,7 @@
 
 **Treasury balance: 633,010 DCR (approx +14,836 DCR/month) - $17.3 million (+$405k/month) based on $27.35 DCR price**
 
-### New proposals
+## New proposals
 
 **[Decentralized Exchange Development](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1)**
 
@@ -16,7 +16,7 @@ The proposal provides a high level overview of the DEX server and client deliver
 
 Comments on the proposal are generally supportive, with one [asking](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/3) about the differences to sparkswap.com and getting an in depth response.
 
-### Market Makers
+## Market Makers
 
 There have been three proposals submitted, on Aug 7, which offer market making services to Decred. The objective of these proposals would be to increase order book depth for DCR markets. DCR is often cited as having poor liquidity because there is little DCR available on exchanges in the form of orders on the books - as compared to other cryptocurrencies with similar market capitalization. Market makers would provide liquidity by maintaining buy and sell orders on selected markets, this would allow people who wished to buy or sell DCR to make larger orders without moving the price as much. One example that has been given is that selling as little as $5,000 worth of DCR can move the price down up to 5% - hindering the use of DCR as a medium of exchange.
 
@@ -81,7 +81,7 @@ If this proposal passes, the discourse around the market makers decision can pro
 
 If the proposal passes, in order for a market maker proposal to be approved it will still have to meet the normal requirements, and have the most support (yes votes - no votes) of all 3 proposals.
 
-### Proposals open for voting
+## Proposals open for voting
 
 **[TinyDecred: A Python Toolkit for Decred](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124)**
 
@@ -91,13 +91,13 @@ Latest voting figures: 7,809 Yes votes, 781 No votes (90.9% Yes) - voter partici
 
 > Recap: This proposal requests $8,000 for work already completed on [TinyDecred](https://github.com/buck54321/tinydecred), a set of Python tools which enable Python developers to easily add support for Decred into their applications. @buck54321 has been a Decred contributor and contractor for a year working mostly on dcrdata, they developed TinyDecred as an unpaid learning exercise initially, but now think it has reached a point where it has value for the community, and request $8,000 for the work which went into it. Costs are predicated on more than 2 months of full-time work, at a substantial reduction to @buck54321's usual contractor hourly rate. If the proposal is approved, the TinyDecred repository will be moved to the Decred organization, and @buck54321 will continue to maintain it.
 
-### Approved proposals
+## Approved proposals
 
 **[Decred Fundamental Metrics Research Proposal - Phase 1](https://proposals.decred.org/proposals/78b50f218106f5de40f9bd7f604b048da168f2afbec32c8662722b70d62e4d36) - voting finished Aug 6 - 19 comments ()**
 
 10,630 Yes votes, 889 No votes (92.3% Yes) - voter participation of 28.4%, support from 26% of tickets.
 
-### Other News
+## Other News
 
 From Aug 1 until Aug 12 there were:
 
