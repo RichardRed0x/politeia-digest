@@ -112,4 +112,6 @@ Snapshot for this issue based on this [commit](https://github.com/decred-proposa
 
 Content for this edition was authored by @richardred.
 
+Image credit: @30000fps.
+
 Also available on [medium]({}).
