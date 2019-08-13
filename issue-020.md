@@ -73,7 +73,7 @@ The table below will be maintained in this [gist](https://gist.github.com/Richar
 
 **[RFP: Decred Designated Market Maker](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd)**
 
-Published Aug 10 by jz\_bz, updated Aug 10 - 28 comments ()
+Published Aug 10 by jz\_bz, updated Aug 10 - 28 comments (+28)
 
 This proposal asks the stakeholders to signal whether or not they want to hire a market maker - moving the process forward to considering which (if any) of the current proposals to choose, or dropping the idea entirely. @jz makes a case for approving the proposal and hiring a market maker, citing the improved user experience liquidity would bring and the problems illiquidity causes - it is one of the main barriers reported by large institutional players. As background, @jz notes that when he began the search for market makers in Jan 2018 there were none who were willing or able to participate in the kind of open proposal process Decred required, only over the course of the crypto winter have some firms opened up to the idea of making this kind of proposal. The proposal credits Max Bronstein and Chris Burniske as helping to set up the offers from the market makers, and explains what the market makers were asked to provide and the terms they are being asked to adopt.
 
@@ -85,7 +85,7 @@ If the proposal passes, in order for a market maker proposal to be approved it w
 
 **[TinyDecred: A Python Toolkit for Decred](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124)**
 
-Published Jul 30 by buck54321, updated Jul 30 - voting started on Aug 5 - 21 comments ()
+Published Jul 30 by buck54321, updated Jul 30 - voting started on Aug 5 - 21 comments (+14)
 
 Latest voting figures: 7,809 Yes votes, 781 No votes (90.9% Yes) - voter participation of 20.9%, support from 19% of tickets.
 
@@ -95,7 +95,7 @@ Latest voting figures: 7,809 Yes votes, 781 No votes (90.9% Yes) - voter partici
 
 **[Decred Fundamental Metrics Research Proposal - Phase 1](https://proposals.decred.org/proposals/78b50f218106f5de40f9bd7f604b048da168f2afbec32c8662722b70d62e4d36)**
 
-Voting finished Aug 6 - 19 comments ()
+Voting finished Aug 6 - 19 comments (+1)
 
 Final voting figures: 10,630 Yes votes, 889 No votes (92.3% Yes) - voter participation of 28.4%, support from 26% of tickets.
 
@@ -116,4 +116,4 @@ Content for this edition was authored by @richardred with fixes by @bee.
 
 Image credit: @30000fps.
 
-Also available on [medium]({}).
+Also available on [medium](https://medium.com/politeia-digest/issue-20-aug-1-aug-12-2019-fcc2480ac78).
