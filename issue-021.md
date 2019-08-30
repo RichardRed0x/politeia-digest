@@ -79,6 +79,7 @@ In addition to the in depth answers on Politeia, members of the Decred community
 * @bee has written up a comprehensive [overview](https://github.com/decredcommunity/proposals/blob/master/market-makers/arguments.md) of the discussion in relation to specific questions and arguments, and also a detailed [dissection](https://github.com/xaur/writings/blob/master/20190822-dissection-market-makers-for-decred.md) of the subject, introducing relevant terms and presenting an overview of the key considerations.
 * @exitus has produced a [video overview](https://www.youtube.com/watch?v=BKSMA-eanoY) of the proposals.
 * @richardred has collected data on the order books of 16 different pairs across 5 exchanges, and [written up some initial analysis (with graphs)](https://github.com/RichardRed0x/exchange-data) that compares DCR liquidity to other assets, in an effort to understand the current situation and how much difference $30-50k of additional liquidity would make to the order books. Summary is that DCR order books are relatively thin, especially on the sell side. The proposed additional liquidity would double or more the depth of orderbooks within 5% spread for most DCR pairs. This would still leave DCR with thinner order books than the other assets considered, even when taking the larger market capitalization of those assets into account.
+* an index of all notable documents and discussions related to market makers is maintained [here](https://github.com/decredcommunity/proposals/blob/master/market-makers/index.md)
 * {insert graph}
 
 ## Other News
@@ -91,7 +92,7 @@ In addition to the in depth answers on Politeia, members of the Decred community
 
 Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commits/master).
 
-Content for this edition was authored by @richardred
+Content for this edition was authored by @richardred with fixes by @bee
 
 Image credit: @30000fps.
 
