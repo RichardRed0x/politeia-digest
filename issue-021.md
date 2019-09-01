@@ -8,7 +8,6 @@
 
 **[Tantra Labs - Market Making Proposal](https://proposals.decred.org/proposals/82ce113827140caaaf8b5779ab30402d3ed39f1911fdd2e8fa64cf0dc9e09ecb)**
 Published Aug 28 by tantralabs last updated Aug 28 - 33 comments (+33)
-Published Aug 28 by tantralabs, last updated Aug 28 - 4 comments ()
 
 This proposal from Tantra Labs offers to provide market making services for DCR pairs without charging for that service (Tantra would still bill for reimbursement of trading fees and the cost of borrowing inventory). This offer is positioned as Tantra doing the Decred ecosystem a favor, and possibly sustaining a loss in the process.
 
@@ -41,15 +40,14 @@ With 89 comments, this was the most actively discussed proposal on Politeia so f
 
 The top [comment](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29) from @maxbronstein gives an account of the process of bringing the market maker proposals to Politeia, and argues in favor of approving one of these proposals. These arguments focus on the issue of low liquidity as a barrier to institutional investment and as a weakness for a Store of Value. Most of the other top comments are positive on moving forward with the RFP process but not necessarily persuaded by any of the available offers. @solar's [comment](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/16) on this proposal are notably more negative about the need for market makers paid for by the Treasury than the others which have scored well. There are other comments with high scores which suggest to treat this as an experiment and start with a relatively small provision and cost. @jz responded to many questions on the RFP proposal ([not](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/58) [least](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/60) [from](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/61) [bee](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/59)) and in the #proposals channel, providing an education in market making following the Socratic method.
 
-**[Decentralized Exchange Development](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1)**
-
-Voting finished Aug 19 - 16 comments (+5)
+**[Decentralized Exchange Development](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1)** - voting finished Aug 19 - 16 comments (+5)
 
 Final voting figures: 14,914 Yes votes (89.8%), 1,693 No votes - voter participation of 40.8%, support from 36% of tickets.
 
 @bee showed up with some late [questions](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/14), and got some good answers from @chappjc shortly before voting ended.
 
-**[TinyDecred: A Python Toolkit for Decred](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124) - voting finished Aug 13 - 21 comments (+7)**
+**[TinyDecred: A Python Toolkit for Decred](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124)**  - voting finished Aug 13 - 21 comments (+7)
+
 12,837 Yes votes, 786 No votes (94.2% Yes) - voter participation of 33.2%, support from 31% of tickets.
 
 ## Market Makers Part 2: The Market-Makening
@@ -61,15 +59,12 @@ The proposals from Grapefruit and i2 were edited on Aug 26/27 to amend and clari
 **[Grapefruit Trading Market Making proposal](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b)**
 Published Aug  7 by grapefruittrading, last updated Aug 26 - 40 comments (+10)
 
-Published Aug 7 by grapefruittrading, last updated Aug 26 - 39 comments ()
-
 Grapefruit opted to go with the less expensive and looser of their 2 offers, [stating](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15668424562388499ecNYR:matrix.org) in #proposals that their reason for going forward with this option rather than the more expensive one was that they thought the community is looking for a more affordable option, and that it was also their preferred option.
 
 The Grapefruit offer is $30k each side on 4 pairs at equivalent of 2% spread (flexible, could be up to 4% away from the price on either the buy or sell side). The monthly fee would be $28,000, trading fees would be covered by Grapefruit, and interest on the loaned inventory would cost around $2,900 per month, for a total maximum monthly cost of $30,900.
 
 **[i2 Trading: DCR Market Making](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9)**
 Published Aug  7 by i2trading, last updated Aug 27 - 55 comments (+8)
-Published Aug 7 by i2trading, last updated Aug 27 - 55 comments ()
 
 i2 amended their offer to reduce the monthly fee from $40,000 to $35,000 and reducing the cap on trading fees charged from $20k to $10k - while loosening the spread of the closest $10k from 1% to 1.5% and loosening the average market spread from 0.3% to 0.5% on BTC pairs and 0.75% on USD pairs. i2 also edited the proposal to say that they will provide read-only keys to a Decred representative for 2 hours per week, so that this designated community member can verify i2's market activity.
 
