@@ -99,7 +99,7 @@ In addition to the in depth answers on Politeia, members of the Decred community
 * @exitus has produced a [video overview](https://www.youtube.com/watch?v=BKSMA-eanoY) of the proposals.
 * @richardred has collected data on the order books of 16 different pairs across 5 exchanges, and [written up some initial analysis (with graphs)](https://github.com/RichardRed0x/exchange-data) that compares DCR liquidity to other assets, in an effort to understand the current situation and how much difference $30-50k of additional liquidity would make to the order books. Summary is that DCR order books are relatively thin, especially on the sell side. The proposed additional liquidity would double or more the depth of orderbooks within 5% spread for most DCR pairs. Even the maximum proposed $50k each side would still leave DCR with thinner order books than the other assets considered.
 
-![Orderbook depth for selected assets](img/issue021/orderbook-depth.png)
+![Order book depth "Average depth of order books for a selection of pairs, based on observations Aug 27–31"](img/issue021/orderbook-depth.png)
 
 ## Other News
 
@@ -107,8 +107,8 @@ From Aug 13 until Aug 31 there were:
 
 - 2 new proposals submitted, 1 proposals started voting, 3 proposals finished voting.
 - Proposals that have finished voting have an average (mean) turnout of 37.7%, with a total of 46,397 ticket votes being cast.
-- 130 comments on Politeia proposals from 12 different users.
-- 557  up/down votes on comments from  12  different voting users.
+- 130 comments on Politeia proposals from 28 different users.
+- 516  up/down votes on comments from  28  different voting users.
 
 ## About this issue
 
@@ -118,4 +118,4 @@ Content for this edition was authored by @richardred with fixes by @bee
 
 Image credit: @30000fps.
 
-Also available on [medium]({}).
+Also available on [medium](https://medium.com/politeia-digest/issue-21-august-13-august-31-2019-57442fe52d7d).
