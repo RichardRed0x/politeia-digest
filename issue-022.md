@@ -8,7 +8,7 @@
 
 **[Research & Publication of On-Chain DCRUSD & DCRBTC Indicators](https://proposals.decred.org/proposals/f0d1bd7447182328b44c691de88cb660b63df17f1f3a94990af19acea57c09bb)**
 
-Published Sep 6 by permabullnino | last updated Sep 7 | 21 comments ()
+Published Sep 6 by permabullnino | last updated Sep 7 | 21 comments (+21)
 
 This proposal requests $16,500 for further research and publications on @permabullnino's Hyperactive HODLer's Price (HHP) metric. The proposal originally requested $24,000 and specified a breakdown where $3,000 would be related to previously published work and the remainder would be for new publications.
 
@@ -18,7 +18,7 @@ Many of the early comments concerned the request for payment for previously comp
 
 **[DECRED Events & Meetups in the CIS in 2019-2020](https://proposals.decred.org/proposals/fdd68c87961549750adf29e178128210cb310294080211cf6a35792aa1bb7f63)**
 
-Published Sep 10 by bogdan\_rud | last updated Sep 10 | 5 comments ()
+Published Sep 10 by bogdan\_rud | last updated Sep 10 | 5 comments (+5)
 
 This proposal requests $32,000 for conducting 4 events in the Commonwealth of Independent States (CIS), 2 in Russia, 1 in Ukraine and 1 in Georgia. The events would be designed for around 100 attendees each and be broadcast live on YouTube. A further 20 videos about Decred would be produced and uploaded to the CryptoDealers YouTube channel. The proposal targets a figure of 800-1,200 new Russian speaking Decred users who install a wallet after the events and videos.
 
@@ -73,6 +73,6 @@ Snapshot for this issue based on this [commit](https://github.com/decred-proposa
 
 Content for this edition was authored by @richardred with fixes by @bee.
 
-Image credit: @30000fps.
+Image credit: @sænder
 
 Also available on [medium]({}).
