@@ -24,6 +24,8 @@ This proposal requests $32,000 for conducting 4 events in the Commonwealth of In
 
 The proposal requests 70% of the budget to be paid up front so that it can be used to pay for expenses in advance, with the remaining 30% to be paid when the work has been completed. This degree of up front payment was highlighted as problematic by all of the early comments. @DZ has worked with CryptoDealers for the last year and [expresses](https://proposals.decred.org/proposals/fdd68c87961549750adf29e178128210cb310294080211cf6a35792aa1bb7f63/comments/4) support for the proposal generally but also some concerns about the details.
 
+Before going to Politeia, a pre-proposal was posted [on Reddit](https://www.reddit.com/r/decred/comments/cutc16/decred_events_meetups_in_the_cis_in_20192020/) for feedback.
+
 ## MM Part 3: There Will Be Market Making
 
 i2 Trading won the competition to become Decred's designated market maker, with approval of 68% vs 49% for Tantra Labs and 47% for Grapefruit Trading.
@@ -56,7 +58,7 @@ Published Aug 31 by betterfuture | last updated Sep 1 | 15 comments (+10)
 
 The Market Maker proposals prompted much discussion about how to handle this kind of RFP process in future. The importance of clear terms and a timeline for the RFP proposal was highlighted by Tantra's late entry.
 
-The plan for Politeia is to develop a new RFP type proposal which candidate proposals can link to, voting and determining the options/outcome will be controlled through these RFP proposals. Before opening an RFP proposal, an ordinary proposal asking "should we have this RFP" would be submitted and approved - the 2 "RFP proposals" Politeia has seen thus far are of this type. The main point of discussion about the new RFP type proposals is around whether these should be conducted as multiple-choice proposals (where voters can vote for 1-of-N options and one with the most votes wins) or as parallel proposals where tickets can vote yes/no on each proposal and the winner is the one with the highest yes less no votes aggregate score (as the MM RFP is being conducted). Parallel voting on competing proposals seems to be the priority, with multiple-choice voting likely to come later and be used for a different purpose (more like polling). The prospect of ranked choice voting for this kind of decision was also discussed and has support in principle, but it would be a more significant engineering effort as it would be a major departure from how things currently work.
+The [plan](https://github.com/decred/politeia/issues/966) for Politeia is to develop a new RFP type proposal which candidate proposals can link to. Voting and determining the options/outcome will be controlled through these RFP proposals. Before opening an RFP proposal, an ordinary proposal asking "should we have this RFP" would be submitted and approved - the 2 proposals that we have called "RFP" previously (DEX and MM) are of this type. The main point of discussion about the new RFP type proposals is around whether these should be conducted as multiple-choice proposals (where voters can vote for 1-of-N options and one with the most votes wins) or as parallel proposals where tickets can vote yes/no on each proposal and the winner is the one with the highest yes less no votes aggregate score (as the MM RFP is being conducted). Parallel voting on competing proposals seems to be the priority, with multiple-choice voting likely to come later and be used for a different purpose (more like polling). The prospect of ranked choice voting for this kind of decision was also discussed and has support in principle, but it would be a more significant engineering effort as it would be a major departure from how things currently work.
 
 From Sep 1 until Sep 12 there were:
 
@@ -69,7 +71,7 @@ From Sep 1 until Sep 12 there were:
 
 Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/b835572d66b8b5acd6f5321d9d22e1ae651c5ec0).
 
-Content for this edition was authored by @richardred
+Content for this edition was authored by @richardred with fixes by @bee.
 
 Image credit: @30000fps.
 
