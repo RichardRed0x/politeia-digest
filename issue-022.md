@@ -1,6 +1,6 @@
 # Politeia Digest #22 - Sep 1-12 2019
 
-![Image credit: @30000fps](img/issue022/022-title.png)
+![Image credit: @sænder](img/issue022/022-title.png)
 
 **Treasury balance: 639,998 (approx +14,621 DCR/month) - $15 million (+$342k/month) based on $23.40 DCR price**
 
@@ -76,3 +76,4 @@ Content for this edition was authored by @richardred with fixes by @bee.
 Image credit: @sænder
 
 Also available on [medium]({}).
+
