@@ -50,15 +50,15 @@ Comments express appreciation for the entertainment value of the proposal but th
 
 ## Approved Proposals
 
-**[Research & Publication of On-Chain DCRUSD & DCRBTC Indicators](https://proposals.decred.org/proposals/f0d1bd7447182328b44c691de88cb660b63df17f1f3a94990af19acea57c09bb)** | voting finished Oct 2 | 42 comments (+21)
+**[Research & Publication of On-Chain DCRUSD & DCRBTC Indicators](https://proposals.decred.org/proposals/f0d1bd7447182328b44c691de88cb660b63df17f1f3a94990af19acea57c09bb)**
 
-Final voting figures: 9,050 Yes votes, 1,857 No votes (83% Yes) - voter participation of 26.6%, support from 22% of tickets.
+Voting finished Oct 2 | 42 comments (+21). Final voting figures: 9,050 Yes votes, 1,857 No votes (83% Yes) - voter participation of 26.6%, support from 22% of tickets.
 
 ## Rejected Proposals
 
-**[DECRED Events & Meetups in the CIS in 2019-2020](https://proposals.decred.org/proposals/fdd68c87961549750adf29e178128210cb310294080211cf6a35792aa1bb7f63)** | voting finished Oct 2 | 18 comments (+13)
+**[DECRED Events & Meetups in the CIS in 2019-2020](https://proposals.decred.org/proposals/fdd68c87961549750adf29e178128210cb310294080211cf6a35792aa1bb7f63)**
 
-Final voting figures: 393 Yes votes, 9,685 No votes (3.9% Yes) - voter participation of 24.6%, support from 1% of tickets.
+Voting finished Oct 2 | 18 comments (+13). Final voting figures: 393 Yes votes, 9,685 No votes (3.9% Yes) - voter participation of 24.6%, support from 1% of tickets.
 
 ## Abandoned Proposals
 
