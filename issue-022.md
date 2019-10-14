@@ -75,5 +75,5 @@ Content for this edition was authored by @richardred with fixes by @bee.
 
 Image credit: @sænder
 
-Also available on [medium]({}).
+Also available on [medium](https://medium.com/politeia-digest/issue-22-september-1-12-2019-d82f5f617c92).
 
