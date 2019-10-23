@@ -1,4 +1,4 @@
-# Politeia Digest #24 - Oct 10 - Oct 21 2019
+# Politeia Digest #24 - Oct 10 - Oct 22 2019
 
 ![Image credit: @sænder](img/issue024/024-title.png)
 
