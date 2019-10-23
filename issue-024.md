@@ -7,6 +7,7 @@
 ## New proposals
 
 **[Decred - An economic phenomenon [Research and Education proposal]](https://proposals.decred.org/proposals/65bde4146b845e7e839d6916d4d8f642bc39c250df5379c2f1e26c4ab778ec1a)**
+
 Published Oct 17 by ammarooni | 20 comments (+20)
 
 This proposal requests $8,000 for 3 months of economic deep dive to explore the social and economic potential of Decred as a story in human governance and monetary economics. A series of publications (3 to 5 writings, supported with social media presence) over the next 3 months.
@@ -16,6 +17,7 @@ This proposal requests $8,000 for 3 months of economic deep dive to explore the 
 The comments are all positive about @ammarooni's contributions. The top [comment](https://proposals.decred.org/proposals/65bde4146b845e7e839d6916d4d8f642bc39c250df5379c2f1e26c4ab778ec1a/comments/7) right now from @bee makes a case for funding this kind of proposal as a way to give people a chance to dive in, show what they can do, and get the sense of what it's like to work for Decred, increasing the community's intelligence in the process. 
 
 **[Open DotA 2 Pubs for Decred Purse](https://proposals.decred.org/proposals/5a1bd4116565d107c1672799ed16cae9e92ec633c6e39d9b463b8218e66ff759)**
+
 Published Oct 21 by zebbu | 12 comments (+12)
 
 This proposal requests $450 to organize a series of DotA 2 cash games in which the winning team receives a prize of 5 DCR (to share between the 5 team members). DotA 2 is a MOBA game played competitively online and in Esports tournaments. The proposal is frames as a form of airdrop, giving away DCR 
@@ -39,6 +41,7 @@ New comments tended to be supportive of this proposal, and the top scoring comme
 > Recap: This proposal requests $10,800 for the production of 9 comics about Decred, $3,600 for 3 comics which have [already](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png) [been](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/02%20-%20Proof-of-Work%2C%20explained/Images/en/comic2.png) [produced](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/03%20-%20DEX/Images/en/comic3.png) and $7,200 for a further 6. This puts the cost of each comic at $1,200. The proposal gives a breakdown of the roughly 40 hours that go into producing each comic. The comics each explain some aspect of Decred.
 
 **[DECRED OFFLINE ECOSYSTEM BUILDING AND FIAT BACKING](https://proposals.decred.org/proposals/1b4b72fa08792b6500ef770546c24ee751c2b0fee2975db769722524a2754829)**
+
 Published Oct  4 by cryptoagents | last updated Oct 18 | voting started on Oct 20 | 28 comments (+11)
 Latest voting figures: 21 Yes votes, 456 No votes (4.4% Yes) - voter participation of 1.2%, support from 0% of tickets.
 
@@ -49,6 +52,7 @@ Latest voting figures: 21 Yes votes, 456 No votes (4.4% Yes) - voter participati
 ## Proposals under discussion
 
 **[Amin Rafiee: Decred Hackers Congress](https://proposals.decred.org/proposals/42b16d2741d58903963d8535e04017bbc3a8193391a83b305f44c082b62e3aa8)**
+
 Published Oct  4 by evok3d | 8 comments (+5)
 
 New comments consider what the best way to handle this kind of situation is, and whether this kind of proposal identifies a gap in ways to fund things. @evok3d has so far not responded to any comments.
