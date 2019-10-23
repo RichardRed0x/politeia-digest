@@ -32,7 +32,7 @@ Comments observe that @zebbu's Twitch channel has no followers or content, and t
 
 Published Oct 7 by pablito | 24 comments (+12)
 
-Latest voting figures: 1,409 Yes votes, 1,543 No votes (47.7% Yes) - voter participation of 7.2%, support from 3% of tickets.
+Latest voting figures: 2,932 Yes votes, 1,950 No votes (60.1% Yes) - voter participation of 11.9%, support from 7% of tickets.
 
 New comments tended to be supportive of this proposal, and the top scoring comment is now one in favor of funding the proposal.
 
@@ -44,7 +44,7 @@ New comments tended to be supportive of this proposal, and the top scoring comme
 
 Published Oct 4 by cryptoagents | last updated Oct 18 | voting started on Oct 20 | 28 comments (+11)
 
-Latest voting figures: 21 Yes votes, 456 No votes (4.4% Yes) - voter participation of 1.2%, support from 0.0005% of tickets.
+Latest voting figures: 197 Yes votes, 2,233 No votes (8.1% Yes) - voter participation of 6%, support from 0% of tickets.
 
 @cryptoagents edited the proposal to clarify that "Decred Bonus Points" is used to refer to DCR in the proposal. @cryptoagents have been active in responding to questions, which included a long [list](https://proposals.decred.org/proposals/1b4b72fa08792b6500ef770546c24ee751c2b0fee2975db769722524a2754829/comments/18) from @bee.
 
