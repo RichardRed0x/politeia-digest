@@ -20,7 +20,7 @@ Comments on the proposal are so far generally positive about the comics themselv
 
 Published Oct 4 by evok3d | 3 comments (+3)
 
-This proposal requests $2,050 for a presentation at The Hackers Congress. The proposal was submitted shortly before the presentation was delivered; a video of the presentation can be found [here](https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h02m11s), the part about Decred starts at [4:26:06](https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h26m06s)). A breakdown of costs incurred is included, including travel, accommodation and €2,000 for personal and professional costs; the request is for 50% of the total costs.
+This proposal requests $2,050 for a presentation at The Hackers Congress. The proposal was submitted shortly before the presentation was delivered; a video of the presentation can be found [here](https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h02m11s), the part about Decred starts at [4:26:06](https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h26m06s). A breakdown of costs incurred is included, including travel, accommodation and €2,000 for personal and professional costs; the request is for 50% of the total costs.
 
 @evok3d has made some previous contributions to the project and these are listed in the proposal. A future event and article about the presentation are planned.
 
@@ -72,6 +72,8 @@ Politeia's redesign is live on [testnet](https://test-proposals.decred.org/) and
 
 DCP0005 (the [proposal](https://proposals.decred.org/proposals/0a1ff846ec271184ea4e3a921a3ccd8d478f69948b984445ee1852f272d54c58) to introduce the block header commitments) is undergoing final [review](https://github.com/decred/dcps/pull/13) and should soon be [merged](https://github.com/decred/dcps/blob/master/dcp-0005/dcp-0005.mediawiki).
 
+i2 Trading have been providing progress updates in #proposals. They have completed testing and are ready to begin market making activities in earnest, but the signing of contracts for DCR and BTC loans has slowed things down. As of Oct 9 “we have been testing for the past week with increased size (1 BTC a side) and things have gone well”, but a signature is still required on DCR contract and there is an issue to be worked out with OKCoin’s USD funding option, so the pilot may have to begin without that pair. 
+
 From Sep 13 until Oct 9 there were:
 
 - 3 new proposals submitted, 2 proposals started voting, 2 proposals finished voting.
@@ -82,9 +84,15 @@ From Sep 13 until Oct 9 there were:
 
 ## Politeia Digest has a new home!
 
-I created [blockcommons.red](https://www.blockcommons.red/) as an alternative to Medium and GitHub for publishing and hosting things I produce. The site hosts Politeia Digest and also most of the outputs of the Decred Open Source Research program, plus some other articles I have written.
+I created [blockcommons.red](https://www.blockcommons.red/) as an alternative to Medium and GitHub for publishing and hosting things I produce. The site hosts Politeia Digest and also most of the outputs of the Decred Open Source Research program (like Pi Research), plus some other articles I have written.
 
-It is an open [source](https://github.com/block-commons/block-commons) static site built with Hugo (with some help from @jholdstock on the basics and @sænder on the aesthetics), and it is relatively easy to add or manage content through GitHub. It is open for contributions that fit with the current projects and themes (in particular [Politeia Decision Support](https://www.blockcommons.red/project/politeia-decision-support/) and [Crypto Governance Research](https://www.blockcommons.red/crypto-governance-research/overviews/)). I am also looking at setting up another site for tracking research outputs and resources relevant to the project more broadly - let me know if you're interested in contributing to that please.
+It is an open [source](https://github.com/block-commons/block-commons) static site built with Hugo (with some help from @jholdstock on the basics and @sænder on the aesthetics). This means it is relatively easy to add or manage content through GitHub. It is open for contributions that fit with the current projects and themes (in particular [Politeia Decision Support](https://www.blockcommons.red/project/politeia-decision-support/) and [Crypto Governance Research](https://www.blockcommons.red/crypto-governance-research/overviews/)). Feedback is welcome, there is much room for improvement.
+
+I am also looking at setting up another site for tracking research outputs and resources relevant to the project more broadly - please let me know if you're interested in contributing to that. 
+
+It is likely that some of the content on blockcommons.red will be moving elsewhere, but for now I think it serves its purpose as a quick alternative to Medium and random GitHub repositories.
+
+Politeia Digest will continue to be published on Medium and GitHub.
 
 ## About this issue
 
@@ -94,4 +102,4 @@ Content for this edition was authored by @richardred with fixes from @bee and @s
 
 Image credit: @sænder
 
-Also available on [medium]({}).
+Also available on [medium](https://medium.com/@richardred/issue-23-sep-13-oct-9-2019-d9ec9070ea96) and BlockCommons.
