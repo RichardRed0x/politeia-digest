@@ -36,7 +36,7 @@ Latest voting figures: 1,409 Yes votes, 1,543 No votes (47.7% Yes) - voter parti
 
 New comments tended to be supportive of this proposal, and the top scoring comment is now one in favor of funding the proposal.
 
-@pablito [commented](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de/comments/19) on suggestions from the community to consider animations, observing that animations would be significantly more expensive to produce, and stating that plan A is to focus on the static comics and leave animation for later. If the present proposal is rejected
+@pablito [commented](https://proposals.decred.org/proposals/2ef74fa5f0b558442cb85b1235c8c551a51ff5d8b8de44dead48b8b59c8fc1de/comments/19) on suggestions from the community to consider animations, observing that animations would be significantly more expensive to produce, and stating that plan A is to focus on the static comics and leave animation for later.
 
 > Recap: This proposal requests $10,800 for the production of 9 comics about Decred, $3,600 for 3 comics which have [already](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png) [been](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/02%20-%20Proof-of-Work%2C%20explained/Images/en/comic2.png) [produced](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/03%20-%20DEX/Images/en/comic3.png) and $7,200 for a further 6. This puts the cost of each comic at $1,200. The proposal gives a breakdown of the roughly 40 hours that go into producing each comic. The comics each explain some aspect of Decred.
 
@@ -83,4 +83,4 @@ Content for this edition was authored by @richardred with fixes by @bee
 
 Image credit: @sænder
 
-Also available on [medium]({}) and BlockCommons.
+Also available on [medium](https://medium.com/@richardred/issue-24-oct-10-oct-22-2019-83f6e892d19a) and [BlockCommons](https://blockcommons.red/politeia-digest/issue024/).
