@@ -10,7 +10,7 @@
 
 Published Nov 7 by elian | {} comments ()
 
-This proposal requests a budget of $72,000 for 6 months of marketing and outreach activities in Latin America. This budget would cover covers marketing, creation of Spanish content, Spanish community outreach and operations in events across Latin America - although the scope excludes Brazil, where there is already a well established Decred community.
+This proposal requests a budget of $72,000 for 6 months of marketing and outreach activities in Latin America. This budget would cover marketing, creation of Spanish content, Spanish community outreach and operations in events across Latin America - although the scope excludes Brazil, where there is already a well established Decred community.
 
 Almost all of the comments express support for the proposal and the efforts in Latam which have been led by @elian this year. @Dustorf [commented](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e/comments/9) to say that he is happy with how @elian has contributed under the 2019 Events and Marketing proposals, and is glad to see a regional proposal like this which empowers the people who are active in the region to work more autonomously.
 
