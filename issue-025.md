@@ -2,11 +2,12 @@
 
 ![Image credit: @sænder](img/issue025/025-title.png)
 
-**Treasury balance: 634,178 (approx +14,191 DCR/month) - $13 million (+${291k/month) based on $20.50 DCR price**
+**Treasury balance: 634,178 (approx +14,191 DCR/month) - $13 million (+$291k/month) based on $20.50 DCR price**
 
 ## New proposals
 
 **[Decred Latam Marketing and Events Proposal](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e)**
+
 Published Nov  7 by elian | 21 comments (+21)
 
 This proposal requests a budget of $72,000 for 6 months of marketing and outreach activities in Latin America. This budget would cover marketing, creation of Spanish content, Spanish community outreach and operations in events across Latin America - although the scope excludes Brazil, where there is already a well established Decred community.
@@ -16,11 +17,12 @@ Almost all of the comments express support for the proposal and the efforts in L
 Questions ask for clarity on how the budget would be distributed and spent. @elian [explained](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e/comments/13) that around 50% will go to contractors' hours (paid at $30/hr), while the other 50% will go towards event expenses (transportation, sponsorship, swag). The full $12,000 will be claimed each month, with the budget for the largest event (Talent Land, expected to cost $12-15k) being collected over the course of several months so that it can be paid out when needed.
 
 **[TinyDecred Budget](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451)**
+
 Published Nov 15 by buck54321 | 10 comments (+10)
 
 This proposal requests a budget of $30,000 for further development of TinyDecred, a set of Python tools and wallet which was [adopted](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124) by stakeholders in August. The proposal would establish a budget of $30,000 which would then be billed against at standard hourly rates until it is exhausted. The proposal lists a number of objectives and the approximate number of hours that each would take for completion. Objectives include full node interoperability (using dcrd), a Python SPV mode, an integrated Lightning wallet, and integrations with Decred DEX and Privacy. One interesting objective is a tutorial and trivia game for introducing people to TinyDecred.
 
-@bee has chimed in with a comprehensive set of [questions](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451/comments/1), and @buck54321 has answered them. @bee's main concern is about how much the Treasury should invest before seeing tangible returns like new integrations, research use cases, and new developers - and whether it takes time away from @buck54321's other projects (DEX, dcrdata). @buck54321 explained that it should not interfere with other projects because he works on it as a change of pace, to avoid burnout from over-emphasis on a single project. TinyDecred has already been used in @buck54321's own [research](https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf) on attack cost estimation, and by @Checkmate in his research. @buck54321 also added that the budget would probably cover one developer for a year spending 25%-33% of their working time on it, which should allow for around half of the listed objectives to be completed.
+@bee has chimed in with a comprehensive set of [questions](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451/comments/1), and @buck54321 has answered them. @bee's main concern is about how much the Treasury should invest before seeing tangible returns like new integrations, research use cases, and new developers - and whether it takes time away from @buck54321's other projects (DEX, dcrdata). @buck54321 explained that it should not interfere with other projects because he works on it as a change of pace, to avoid burnout from over-emphasis on a single project. TinyDecred has already been used in @buck54321's own [research](https://github.com/buck54321/dcr-research/blob/master/paper/Attack-cost%20estimation.pdf) on attack cost estimation, and [by @Checkmate](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451/comments/10) in his research. @buck54321 also added that the budget would probably cover one developer for a year spending 25%-33% of their working time on it, which should allow for around half of the listed objectives to be completed.
 
 ## Approved proposals
 
@@ -46,10 +48,10 @@ Politeia's redesigned frontend went live on Oct 29, updating the look to better 
 
 ## About this issue
 
-Snapshot for this issue based on this [commit]({}}).
+Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/a113ec3b26ba2b5f76669731adaf33628ae0edae).
 
-Content for this edition was authored by @richardred with {}
+Content for this edition was authored by @richardred with fixes from @bee
 
 Image credit: @sænder
 
-Also available on [medium]({}) and [BlockCommons]({}).
+Also available on [medium](https://medium.com/politeia-digest/issue-25-oct-23-nov-19-2019-30fecdc6f9b1) and [BlockCommons](https://www.blockcommons.red/politeia-digest/issue025/).
