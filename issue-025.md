@@ -1,14 +1,13 @@
-# Politeia Digest #25 - Oct 23 - Nov 18 2019
+# Politeia Digest #25 - Oct 23 - Nov 19 2019
 
 ![Image credit: @sænder](img/issue025/025-title.png)
 
-**Treasury balance: {} (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 634,178 (approx +14,191 DCR/month) - $13 million (+${291k/month) based on $20.50 DCR price**
 
 ## New proposals
 
 **[Decred Latam Marketing and Events Proposal](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e)**
-
-Published Nov 7 by elian | {} comments ()
+Published Nov  7 by elian | 21 comments (+21)
 
 This proposal requests a budget of $72,000 for 6 months of marketing and outreach activities in Latin America. This budget would cover marketing, creation of Spanish content, Spanish community outreach and operations in events across Latin America - although the scope excludes Brazil, where there is already a well established Decred community.
 
@@ -17,8 +16,7 @@ Almost all of the comments express support for the proposal and the efforts in L
 Questions ask for clarity on how the budget would be distributed and spent. @elian [explained](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e/comments/13) that around 50% will go to contractors' hours (paid at $30/hr), while the other 50% will go towards event expenses (transportation, sponsorship, swag). The full $12,000 will be claimed each month, with the budget for the largest event (Talent Land, expected to cost $12-15k) being collected over the course of several months so that it can be paid out when needed.
 
 **[TinyDecred Budget](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451)**
-
-Published Nov 15 by buck54321 | {} comments ()
+Published Nov 15 by buck54321 | 10 comments (+10)
 
 This proposal requests a budget of $30,000 for further development of TinyDecred, a set of Python tools and wallet which was [adopted](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124) by stakeholders in August. The proposal would establish a budget of $30,000 which would then be billed against at standard hourly rates until it is exhausted. The proposal lists a number of objectives and the approximate number of hours that each would take for completion. Objectives include full node interoperability (using dcrd), a Python SPV mode, an integrated Lightning wallet, and integrations with Decred DEX and Privacy. One interesting objective is a tutorial and trivia game for introducing people to TinyDecred.
 
@@ -45,10 +43,6 @@ Voting finished Oct 28 | 30 comments (+2). Final voting figures: 317 Yes votes, 
 Politeia's redesigned frontend went live on Oct 29, updating the look to better match other Decred software and significantly improving the mobile experience. A number of performance improvements were also bundled with the redesign.
 
 @richardred has produced a [report](https://blockcommons.red/publication/mm-tracking-1/) about the market making activities of i2 Trading, taking a look at the amount of liquidity available on the order books over time and considering how much of it was provided by i2.
-
-From Oct {} there were:
-
-- 
 
 ## About this issue
 
