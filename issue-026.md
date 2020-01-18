@@ -1,20 +1,20 @@
-# Politeia Digest #26 - Nov 20 2019 - Jan 17 2019
+# Politeia Digest #26 - Nov 20 2019 - Jan 17 2020
 
 ![Image credit: @sænder](img/issue026/026-title.png)
 
-**Treasury balance: 635,697 (approx +13,774 DCR/month) - $13 million (+$282k/month) based on $20.50 DCR price**
+**Treasury balance: 635,697 DCR (approx +13,774 DCR/month) - $13 million (+$282k/month) based on $20.50 DCR price**
 
 ## New proposals
 
 **[Ditto Communications Proposal for Decred: Phase 3](https://proposals.decred.org/proposals/012b4e335f25704e28ef196d650316dca421f730225d39e37b31b3c646eb8497)**
 
-Published Jan 7 by liz_bagot, last updated Jan 10 | 79 comments
+Published Jan 7 by liz\_bagot, last updated Jan 10 | 79 comments
 
 Latest voting figures: 1,603 Yes votes, 3,665 No votes (30.4% Yes) - voter participation of 13%, support from 4% of tickets.
 
-Ditto's third proposal requested a reduced amount ($17,500, 30% down from their current rate) to continue providing the same kind of services as before. The proposal also gives an overview of the first and second phases in terms of the level of coverage achieved and other contributions. Most of the early high-scoring comments on the proposal expressed concerns about the cost and asked whether the results are worth it. Many comments express support for the efforts of the Ditto team members who have worked on Decred. The other strong theme to early comments was that generating coverage in top tier media is the most valued aspect of what Ditto have been doing. A number of comments expressed doubt about Ditto's role in areas with a stronger community effort, as the relatively high rate they are paid at may discourage other contributors.
+Ditto's third proposal requested a reduced monthly amount ($17,500, 30% down from their current rate of $25,000) to continue providing the same kind of services as before. The proposal also gives an overview of the first and second phases in terms of the level of coverage achieved and other contributions. Most of the early high-scoring comments on the proposal expressed concerns about the cost and asked whether the results are worth it. Many comments express support for the efforts of the Ditto team members who have worked on Decred. The other strong theme to early comments was that generating coverage in top tier media is the most valued aspect of what Ditto have been doing. A number of comments expressed doubt about Ditto's role in areas with a stronger community effort, as the relatively high rate they are paid at may discourage other contributors.
 
-The proposal was edited by @liz_bagot on Jan 10 to reduce the scope of the offer, focusing on media relations and reducing the retainer to $10,000/month. As part of this reduction the Ditto team working on Decred would be cut to two members, Margaret Huang and Leslie Ankey, who would pursue top tier crypto and non crypto media, including podcasts. Since the proposal's cost was reduced the new comments have tended to be more neutral or positive about it.
+The proposal was edited by @liz\_bagot on Jan 10 to reduce the scope of the offer, focusing on media relations and reducing the retainer to $10,000/month. As part of this reduction the Ditto team working on Decred would be cut to two members, Margaret Huang and Leslie Ankey, who would pursue top tier crypto and non crypto media, including podcasts. Since the proposal's cost was reduced the new comments have tended to be more neutral or positive about it.
 
 **[PR Proposal for Decred by Monde Public Relations](https://proposals.decred.org/proposals/bdd02d82547bd78fc95939c1e2b3df21ebec6e8d31444df5bea3c133b0199f05)**
 
@@ -42,7 +42,7 @@ Published Jan 13 by richard-red | 19 comments
 
 *Coverage by @s_ben:*
 
-This proposal requests renewed funding for the Decred Open Source Research program. It requests $25,000, which is expected to cover six months of expenses. This is a $5,000 increase from the $20,000 approved in [phase 2](https://proposals.decred.org/proposals/67de0e901143400ae2f247391c4d5028719ffea8308fbc5854745ad859fb993f) of the Open Source Research program. The additional $5,000 is in anticipation of collaboration with other Decred contributors, who would bill hourly against the proposal. Proposed areas of research include auditing stakeholders’ privacy when participating in governance, analyzing voting patterns, on-chain analysis of block rewards to profile what constituents are doing with their DCR, and collaborating with other researchers looking at Decred’s on-chain data (e.g. @checkmate and @permabullnino). Other ideas include analyzing Decred-related social media activity, and creating a website to showcase outputs from active Decred research projects.
+This proposal requests renewed funding for the Decred Open Source Research program. It requests $25,000, which is expected to cover six months of expenses. This is a $5,000 increase from the $20,000 approved in [phase 2](https://proposals.decred.org/proposals/67de0e901143400ae2f247391c4d5028719ffea8308fbc5854745ad859fb993f) of the Open Source Research program. The additional $5,000 is in anticipation of collaboration with other Decred contributors, who would bill hourly against the proposal. Proposed areas of research include auditing stakeholders’ privacy when participating in governance, analyzing voting patterns, on-chain analysis of block rewards to profile what constituents are doing with their DCR, and collaborating with other researchers looking at Decred’s on-chain data (e.g. @Checkmate and @permabullnino). Other ideas include analyzing Decred-related social media activity, and creating a website to showcase outputs from active Decred research projects.
 
 Comments on the proposal are generally supportive, with noted appreciation by several commenters for previous research work related to auditing the performance of market makers hired in a [previous proposal](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9) and educational resources on [cryptocommons.cc](https://cryptocommons.cc/). Some expressed concern around spending on research generally during the bear market, and in particular around researching other projects. In response, richard-red has added a summary of deliverables from phase 2, ordered by time billed for each component, and capped the budget that can be spent on non Decred-related research at $10,000.
 
@@ -50,7 +50,7 @@ Comments on the proposal are generally supportive, with noted appreciation by se
 
 Published Jan 17 by dezryth | 2 comments
 
-This proposal requests a budget of up to $8,400 ($1,400/month) for six months of work managing the Decred Facebook account, a Facebook advertising campaign, and attending cryptocurrency events. @dezryth became a contractor in Oct 2017 and managed the project's Facebook account as well as contributing to marketing events and content production. After a hiatus in 2019 when he stopped billing but kept the Facebook account minimally active, @dezryth would like to jump back into this role and also start a Facebook advertising campaign with $200/month to grow the account's following. @dezryth has volunteered to publish his invoices on his website to be transparent about how much is being billed for his work on Facebook and around events. The work would be billed at $30/hour.
+This proposal requests a budget of up to $8,400 for six months of work ($1,400/month) managing the Decred Facebook account, a Facebook advertising campaign, and attending cryptocurrency events. @dezryth became a contractor in Oct 2017 and managed the project's Facebook account as well as contributing to marketing events and content production. After a hiatus in 2019 when he stopped billing but kept the Facebook account minimally active, @dezryth would like to jump back into this role and also start a Facebook advertising campaign with $200/month to grow the account's following. @dezryth has volunteered to publish his invoices on his website to be transparent about how much is being billed for his work on Facebook and around events. The work would be billed at $30/hour.
 
 ## Approved proposals
 
@@ -92,7 +92,7 @@ i2's performance according to this measure is significantly better than @richard
 
 ## About this issue
 
-Snapshot for this issue based on this [commit](https://github.com/decred-proposals/mainnet/commit/dc094d7a9fe9a4fd5787353b7d75cfae3e0effeb).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/dc094d7a9fe9a4fd5787353b7d75cfae3e0effeb).
 
 Content for this edition was authored by @richardred and @s_ben with fixes from @bee.
 
