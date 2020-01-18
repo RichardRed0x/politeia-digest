@@ -7,6 +7,7 @@
 ## New proposals
 
 **[Ditto Communications Proposal for Decred: Phase 3](https://proposals.decred.org/proposals/012b4e335f25704e28ef196d650316dca421f730225d39e37b31b3c646eb8497)**
+
 Published Jan  7 by liz_bagot, last updated Jan 10 - 79 comments
 
 Latest voting figures: 1,603 Yes votes, 3,665 No votes (30.4% Yes) - voter participation of 13%, support from 4% of tickets.
@@ -16,6 +17,7 @@ Ditto's third proposal requested a reduced amount ($17,500, 30% down from their 
 The proposal was edited by @liz_bagot on Jan 10 to reduce the scope of the offer, focusing on media relations and reducing the retainer to $10,000/month. As part of this reduction the Ditto team working on Decred would be cut to two members, Margaret Huang and Leslie Ankey, who would pursue top tier crypto and non crypto media, including podcasts. Since the proposal's cost was reduced the new comments have tended to be more neutral or positive about it. 
 
 **[PR Proposal for Decred by Monde Public Relations ](https://proposals.decred.org/proposals/bdd02d82547bd78fc95939c1e2b3df21ebec6e8d31444df5bea3c133b0199f05)**
+
 Published Jan 10, by lindseymmc, last updated Jan 11 - 18 comments 
 
 Latest voting figures: 2,725 Yes votes, 1,304 No votes (67.6% Yes) - voter participation of 10%, support from 7% of tickets.
@@ -27,6 +29,7 @@ The proposed term was originally 1 year but Lindsey edited this down to 6 months
 **Additional Media Alert: @Exitus has produced a [video](https://www.youtube.com/watch?v=uzhc2CKI2wk) about the first round of 2020 Politeia proposals, focusing on the two PR proposals. Well worth a look.**  
 
 **[Decred Stickers: Enlarge Decred community](https://proposals.decred.org/proposals/4acb95564d36488a7ee64683a84dd7954982b2f4743e2f7a15477231f863442f)**
+
 Published Jan 7 by block25 | 24 comments
 
 Latest voting figures: 392 Yes votes, 4,524 No votes (8% Yes) - voter participation of 12.2%, support from 1% of tickets.
@@ -44,6 +47,7 @@ This proposal requests renewed funding for the Decred Open Source Research progr
 Comments on the proposal are generally supportive, with noted appreciation by several commenters for previous research work related to auditing the performance of market makers hired in a [previous proposal](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9) and educational resources on [cryptocommons.cc](https://cryptocommons.cc/). Some expressed concern around spending on research generally during the bear market, and in particular around researching other projects. In response, richard-red has added a summary of deliverables from phase 2, ordered by time billed for each component, and capped the budget that can be spent on non Decred-related research at $10,000.
 
 **[Facebook Manager and Events Individual Contractor Budget](https://proposals.decred.org/proposals/063e38270b475ad680e98c12d1a48e322f4e8defe40b265272ea60c6d2202b13)**
+
 Published Jan 17 by  dezryth | 2 comments
 
 This proposal requests a budget of up to $8,400 ($1,400/month) for six months of work managing the Decred Facebook account, a Facebook advertising campaign, and attending cryptocurrency events. @dezryth became a contractor in Oct 2017 and managed the project's Facebook account as well as contributing to marketing events and content production. After a hiatus in 2019 when he stopped billing but kept the Facebook account minimally active, @dezryth would like to jump back into this role and also start a Facebook advertising campaign with $200/month to grow the account's following. @dezryth has volunteered to publish his invoices on his website to be transparent about how much is being billed for his work on Facebook and around events. The work would be billed at $30/hour. 
@@ -51,11 +55,13 @@ This proposal requests a budget of up to $8,400 ($1,400/month) for six months of
 ## Approved proposals
 
 **[Decred Latam Marketing and Events Proposal](https://proposals.decred.org/proposals/5af0ce1cd325be6be39109c2750f34095c4e8feeea962ede058a1e4f4a61473e) - voting finished Nov 28 - 30 comments (+9)**
+
 9,023 Yes votes, 2,975 No votes (75.2% Yes) - voter participation of 29.1%, support from 22% of tickets.
 
 $72,000 budget for marketing activities in Latin America.
 
 **[TinyDecred Budget](https://proposals.decred.org/proposals/ad0f9688b3467734e2581604914b2cc32c6eb7991dff460eff41d21f66d88451) - voting finished Dec 10 - 19 comments (+9)**
+
 11,212 Yes votes, 1,962 No votes (85.1% Yes) - voter participation of 32.6%, support from 27% of tickets.
 
 $30,000 for further development of TinyDecred, a set of Python tools and wallet which was [adopted](https://proposals.decred.org/proposals/20e967dad9e7398901decf3cfe0acf4e0853f6558a62607265c63fe791b8b124) by stakeholders in August.
@@ -63,6 +69,7 @@ $30,000 for further development of TinyDecred, a set of Python tools and wallet 
 ## Rejected proposals
 
 **[PlusBit-POS-App for Decred (DCR)](https://proposals.decred.org/proposals/e559188b0febcab29c49c1f7dd5c66645e31be00894a150ef7d0b8ceb6486605) - voting finished Dec 10 - 26 comments**
+
 4,823 Yes votes, 7,526 No votes (39.1% Yes) - voter participation of 30.6%, support from 12% of tickets.
 
 This proposal requested $650 to produce a Point of Sale app which would allow merchants to take payment in DCR at physical points of sale. The app does not take custody of funds or charge fees but it is not open source. There are plans to release it as open source and to create a version of the software which accepts multiple cryptocurrencies.
