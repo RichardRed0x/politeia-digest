@@ -34,7 +34,7 @@ Published Jan 7 by block25 | 24 comments
 
 Latest voting figures: 392 Yes votes, 4,524 No votes (8% Yes) - voter participation of 12.2%, support from 1% of tickets.
 
-This proposal requests $1,400 to produce a Decred Stickers Pack of 15 stickers, one-page summary of Decred, and a website where these can be downloaded from. Popular comments point out that there are already Decred stickers available on a number of platforms.
+This proposal requests $1,400 to produce a Decred Stickers Pack of 15 stickers (for printing or use in Telegram), one-page summary of Decred, and a website where these can be downloaded from. Popular comments point out that there are already Decred stickers available on a number of platforms and that the provided examples are slightly edited existing assets.
 
 **[Decred Open Source Research Program: Phase 3](https://proposals.decred.org/proposals/e3675649075a2f92269d8cdc2e1dfd71b16796477df31de7d2868cccfcffb13f)**
 
