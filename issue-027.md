@@ -20,7 +20,7 @@ Comments on the proposal are very positive about @Exitus' prior work, and many m
 
 Published Feb  3 by checkmate | 30 comments 
 
-This proposal requests a budget of $17,500 to continue @checkmate's research on fundamental metrics. The proposal gives an overview of the Phase 1 deliverables and sets out two components of Phase 2. The main component of Phase 2 ($15,000) is a continuation of the core research work, data driven analysis and armchair philosophy - a minimum of 4 but target of 5-6 papers of similar quality to Phase 1. The second component of the proposal is a $2,500 budget to specify new charts to be added to the dcrdata offering, working with @permabullnino. This has already been discussed with the dcrdata developers, who are supportive of the idea. Funding for the development work would not be covered by this proposal. @Checkmate has indicated that he expects the budget for this proposal to last for ~8 months.
+This proposal requests a budget of $17,500 to continue @checkmate's research on fundamental metrics. The proposal gives an overview of the Phase 1 deliverables and sets out two components of Phase 2. The main component of Phase 2 ($15,000) is a continuation of the core research work, data driven analysis and armchair philosophy, including a minimum of 4 papers (with a target of 5-6) of similar quality to Phase 1. The second component of the proposal is a $2,500 budget to specify new charts to be added to the dcrdata offering, working with @permabullnino. This has already been discussed with the dcrdata developers, who are supportive of the idea. Funding for the development work would not be covered by this proposal. @Checkmate has indicated that he expects the budget for this proposal to last for ~8 months.
 
 Most of the comments on the proposal are positive, but there are also some highly critical comments, although these tend to have lower scores. There are also more down-votes than usual in the comments for this proposal.
 
@@ -51,7 +51,7 @@ Comments criticize the rambling nature of the proposal and its lack of coherent 
 
 Voting finished Jan 30 | 26 comments (+24). Final voting figures: 6,526 Yes votes, 2,029 No votes (76.3% Yes) - voter participation of 20.8%, support from 16% of tickets.
 
-A variety of well know community members commented to support dezryth's proposal. The proposal was edited to remove Facebook ad spending, which some early comments had objected to.
+A variety of well known community members commented to support dezryth's proposal. The proposal was edited to remove Facebook ad spending, which some early comments had objected to.
 
 **[PR Proposal for Decred by Monde Public Relations ](https://proposals.decred.org/proposals/bdd02d82547bd78fc95939c1e2b3df21ebec6e8d31444df5bea3c133b0199f05)**
 
