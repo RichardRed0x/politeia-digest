@@ -75,6 +75,6 @@ Voting finished Jan 22 | 24 comments (+0). Final voting figures: 421 Yes votes, 
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/1c782447e0c5892ce3019e5ede53da06f04f9127).
 
-Content for this edition was authored by @richardred 
+Content for this edition was authored by @richardred with edits from @s_ben
 
 Image credit: @sænder
