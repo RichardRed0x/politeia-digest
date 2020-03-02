@@ -11,13 +11,15 @@ Published Feb  9 by Haon, edited Feb 18  | 32 comments (+30)
 
 Latest voting figures: 3,042 Yes votes, 5,261 No votes (36.6% Yes) - voter participation of 20.1%, support from 7% of tickets.
 
-*Recap: This proposal requests $75,000 for marketing and events in Europe, to cover the remainder of 2020. There is $50,000 budgeted for one large event (like Web Summit, where the project has had a presence in previous years) and several smaller events. $25,000 is budgeted for ambassador hours, accommodation and transportation. The proposal goes beyond events to cover marketing, user support, creation of English content and local translations and community outreach. The proposal is supported by a group of independent contractors: @Haon, @jholdstock, @kozel, @jazzah, @mm and @karamble.*
+The proposal was edited on Feb 18 to reduce the requested budget to $49,000 (from $75,000) and remove Web Summit from the proposal, with a plan to submit a separate proposal for that specific event. 
 
-This proposal was edited on Feb 18 to reduce the requested budget to $49,000 and remove Web Summit from the proposal, with a plan to submit a separate proposal for that specific event. The revised proposal also provided a projection of how the $49,000 would be spent - $25k for ambassador hours  (coordination, content, education, promotions), $15k for smaller events (crypto conferences, developer meetups), and $9k for transport and accommodation expenses. Contractors would bill at their hourly rate and submit expense claims with receipts as usual, any portion of the budget which is not spent would remain in the Treasury.
+This proposal covers marketing and events spending in Europe for the remainder of 2020. $25,000 is budgeted for ambassador hours, accommodation and transportation. The proposal goes beyond events to cover marketing, user support, creation of English content and local translations and community outreach. The proposal is supported by a group of independent contractors: @Haon, @jholdstock, @kozel, @jazzah, @mm and @karamble.
+
+The revised proposal also provided a projection of how the $49,000 would be spent - $25k for ambassador hours  (coordination, content, education, promotions), $15k for smaller events (crypto conferences, developer meetups), and $9k for transport and accommodation expenses. Contractors would bill at their hourly rate and submit expense claims with receipts as usual, any portion of the budget which is not spent would remain in the Treasury.
 
 The highest scoring comments are mostly those which were made soon after the proposal was submitted, relating to the first version with less detail and Web Summit included in the costing.
 
-@bee [made](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b/comments/21) the point that user support is an important component of what the proposal offers, that @Haon is a well established community member who can be trusted to manage the budget, but that reporting has not been great for some of the larger events and there are question marks about their value because they do not seem to result in many observable outcomes. @raedah [commented](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b/comments/30) to say  that while he supports the proposal in principle, the level of detail it provides is still not sufficient and approving it would set a bad example.
+@bee [made](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b/comments/21) the point that user support is an important component of what the proposal offers, that @Haon is a well established community member who can be trusted to manage the budget, but that reporting has not been great for some of the larger events and there are question marks about their value because they do not seem to result in many observable outcomes. @raedah [commented](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b/comments/30) to say  that while he supports the proposal in principle, the level of detail it provides is still not sufficient and approving it would set a bad example. New community member nitehawks [made](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b/comments/29) the case for approving the proposal, and cautioned against micro-managing the contractors who do this work.
 
 ## Approved proposals
 
@@ -48,4 +50,3 @@ Snapshot of Politeia data for this issue is based on this [commit](https://githu
 Content for this edition was authored by @richardred with feedback from @degeri
 
 Image credit: @sænder
-
