@@ -25,7 +25,7 @@ The highest scoring comments are mostly those which were made soon after the pro
 
 **[Video Content Production for Decred](https://proposals.decred.org/proposals/95cfb73254a032b2c199c37bb499d6f172d044b1f38016279c5bbca6572251f0)**
 
-Voting finished Feb 14 | 40 comments (+6). Final voting figures: 1,766 Yes votes, 6,478 No votes (21.4% Yes) - voter participation of 20.1%, support from 4% of tickets.
+Voting finished Feb 14 | 40 comments (+6). Final voting figures: 9,409 Yes votes, 765 No votes (92.5% Yes) - voter participation of 24.8%, support from 23% of tickets.
 
 @Exitus is on the job already with the first bi-weekly news [update](https://www.youtube.com/watch?v=RMqrIZcR-Iw).
 
@@ -47,6 +47,6 @@ Voting finished Feb 14 | 40 comments (+34). Final voting figures: 1,766 Yes vote
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/tree/e6c828cae46fbd4a9fc058539266af8e5eb43277).
 
-Content for this edition was authored by @richardred with feedback from @degeri
+Content for this edition was authored by @richardred with feedback from @degeri.
 
 Image credit: @sænder
