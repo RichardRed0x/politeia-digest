@@ -1,6 +1,6 @@
 # Politeia Digest #28 - Feb 12 - Mar 1 2020
 
-![Image credit: @sænder](img/issue028/028-title.png)
+![Image credit: @sænder](img/issue028/028-title.jpg)
 
 **Treasury balance: 643,032 DCR (approx +13,637 DCR/month) - $11.4 million (+$240k/month) based on $17.67 DCR price**
 
@@ -8,6 +8,8 @@
 
 **[Decred Europe Marketing and Events Proposal](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b)**
 Published Feb  9 by Haon, edited Feb 18  | 32 comments (+30)
+
+Latest voting figures: 3,042 Yes votes, 5,261 No votes (36.6% Yes) - voter participation of 20.1%, support from 7% of tickets.
 
 *Recap: This proposal requests $75,000 for marketing and events in Europe, to cover the remainder of 2020. There is $50,000 budgeted for one large event (like Web Summit, where the project has had a presence in previous years) and several smaller events. $25,000 is budgeted for ambassador hours, accommodation and transportation. The proposal goes beyond events to cover marketing, user support, creation of English content and local translations and community outreach. The proposal is supported by a group of independent contractors: @Haon, @jholdstock, @kozel, @jazzah, @mm and @karamble.*
 
@@ -29,21 +31,21 @@ Voting finished Feb 14 | 40 comments (+6). Final voting figures: 1,766 Yes votes
 
 Voting finished Feb 20 | 39 comments (+0). Final voting figures: 7,125 Yes votes, 1,674 No votes (81% Yes) - voter participation of 21.5%, support from 17% of tickets.
 
-**[Content Production for Decred in russian](https://proposals.decred.org/proposals/92e3f2176b332c1aea5887acd2324c2cd730ec450e563df52ddae9d5927d5d36)**
-
-Voting finished Feb 14 | 40 comments (+34). Final voting figures: 1,766 Yes votes, 6,478 No votes (21.4% Yes) - voter participation of 20.1%, support from 4% of tickets.
-
 ## Rejected proposals
 
 **[Decred - Creative Economy I + D + I [Research and Education proposal]](https://proposals.decred.org/proposals/d5203291271ad7399dbdf57050e53bbd074a40e746d5778cb5f78596570dc162)**
 
 Voting finished Feb 26 | 26 comments (+13). Final voting figures: 189 Yes votes, 6,158 No votes (3% Yes) - voter participation of 15.6%, support from 0% of tickets.
 
+**[Content Production for Decred in russian](https://proposals.decred.org/proposals/92e3f2176b332c1aea5887acd2324c2cd730ec450e563df52ddae9d5927d5d36)**
+
+Voting finished Feb 14 | 40 comments (+34). Final voting figures: 1,766 Yes votes, 6,478 No votes (21.4% Yes) - voter participation of 20.1%, support from 4% of tickets.
+
 ## About this issue
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/tree/e6c828cae46fbd4a9fc058539266af8e5eb43277).
 
-Content for this edition was authored by @richardred
+Content for this edition was authored by @richardred with feedback from @degeri
 
 Image credit: @sænder
 
