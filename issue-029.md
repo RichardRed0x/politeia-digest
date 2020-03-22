@@ -2,13 +2,15 @@
 
 ![Image credit: @sænder](img/issue029/029-title.jpg)
 
-**Treasury balance: XXX DCR (approx +X DCR/month) - $X million (+$Xk/month) based on $X DCR price**
+**Treasury balance: 634,943 DCR (approx +13,369 DCR/month) - $7.2 million (+$15k/month) based on $11.32 DCR price**
 
 ## New proposals
 
 **[Decred Brazil Marketing and Events Proposal](https://proposals.decred.org/proposals/bc20f986c3ea2fed2ea074c377a89f1a4b956ea0d527a8b6c099a5a8f175beb5)**
 
-Published Mar 6 by emiliomann | edited Mar 20 | 23 comments ()
+Published Mar 6 by emiliomann | edited Mar 20 | 23 comments
+
+Latest voting figures: 2,160 Yes votes, 2,519 No votes (46.2% Yes) - voter participation of 11.6%, support from 5% of tickets.
 
 This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus Party series, Bitconf São Paulo and meetups in a list of other cities.
 
@@ -18,7 +20,9 @@ The highest scoring comments (from @guang and @praxis) raised questions about sp
 
 **[US Marketing & Project Release Coordination 2020](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af)**
 
-Published Mar 10 by dustorf | edited Mar 16 | voting started Mar 19 | 40 comments ()
+Published Mar 10 by dustorf | edited Mar 16 | voting started Mar 19 | 55 coimments
+
+Latest voting figures: 1,452 Yes votes, 2,060 No votes (41.3% Yes) - voter participation of 8.7%, support from 4% of tickets.
 
 This proposal requests a maximum budget of $177,800 for US-based marketing activities and release coordination in 2020.
 
@@ -66,9 +70,11 @@ This proposal requests $5,000 for integrating DCR on an app that allows users to
 
 Published Feb 9 by Haon | edited Feb 18 | 34 comments (+2)
 
+3,857 Yes votes, 6,393 No votes (38% Yes) - voter participation of 25%, support from 9% of tickets.
+
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/tree/e6c828cae46fbd4a9fc058539266af8e5eb43277).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/7e4397b2eb9d33fe50f562e6cf033285a23a7841).
 
 Content for this edition was authored by @richardred with fixes from @bee and @degeri.
 
