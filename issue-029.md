@@ -36,7 +36,6 @@ It lays out budgets for a number of distinct sub-projects, and lists the contrib
 | Public Relations Coordination           | 12     | 1,000          | 12,000              |
 | Release Planning/Coordination           | 5      | 6,000          | 30,000              |
 | Marketing Updates                       | 1      | 20,000         | 20,000              |
-|                                         |        |                |                     |
 | Total                                   |        |                | 177,800             |
 
 The first version of the proposal included a budget for Community Organizers, who would organize and attend events to represent Decred in the US. In the first version it was noted as being subject to Covid-19 outbreak related disruption. It was scrapped outright in the final edit before voting started, reducing the total budget requested by $24,000.
