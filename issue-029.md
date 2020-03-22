@@ -10,7 +10,7 @@
 
 Published Mar 6 by emiliomann, edited Mar 20 | 23 comments ()
 
-This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus party series, Bitconf São Paulo and meetups in a list of other cities.
+This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus Party series, Bitconf São Paulo and meetups in a list of other cities.
 
 The majority of the budget ($78k) is for the hours worked by the 18 listed contractors, $20k for travel and accommodation/subsistence expenses associated with attending events, $8k for sponsorships or other event fees, $2k for swag. The proposal was edited to clarify that plans for events are currently on hold due to Covid-19, and if they do not resume that part of the budget will not be billed for.
 
@@ -57,9 +57,9 @@ While this project has been under discussion, the cryptocurrency space experienc
 
 **[DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card](https://proposals.decred.org/proposals/d3b16861a7e555db2fdd25b589123f4b6c4289c857fbdff329a4ffb1cb60c4d9)**
 
-Published Mar 19 | 2 comments
+Published Mar 19 by eabz | 2 comments
 
-This proposal requests $5,000 for integrating DCR on an app that allows users to store cryptocurrency, buy gift cards, and operate a debit card (EU only). The funding is intended to cover "risks management for cryptocurrency conversion and to pay for running an instance of blockbook for Decred". The proposal also offers a lifetime low fee rate, dropping usual fees of 4% for gift card purchases and 2% for trades between coins to 1% for DCR. There have not been many comments on the proposal yet but in the #proposals channel people are asking about why the app is not open source, and @Enrique Berruta has [indicated](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1584818174993KpieD:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) that it will be released as open source "next week".
+This proposal requests $5,000 for integrating DCR on an app that allows users to store cryptocurrency, buy gift cards, and operate a debit card (EU only). The funding is intended to cover "risks management for cryptocurrency conversion and to pay for running an instance of blockbook for Decred". The proposal also offers a lifetime low fee rate, dropping usual fees of 4% for gift card purchases and 2% for trades between coins to 1% for DCR. There have not been many comments on the proposal yet but in the #proposals channel people are asking about why the app is not open source, and @Enrique Berrueta has [indicated](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1584818174993KpieD:decred.org) that it will be released as open source "next week".
 
 ## Rejected proposals
 
@@ -71,6 +71,6 @@ Published Feb 9 by Haon, edited Feb 18 | 34 comments (+2)
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/tree/e6c828cae46fbd4a9fc058539266af8e5eb43277).
 
-Content for this edition was authored by @richardred
+Content for this edition was authored by @richardred with fixes from @bee and @degeri.
 
 Image credit: @sænder
