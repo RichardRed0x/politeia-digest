@@ -8,7 +8,7 @@
 
 **[Decred Brazil Marketing and Events Proposal](https://proposals.decred.org/proposals/bc20f986c3ea2fed2ea074c377a89f1a4b956ea0d527a8b6c099a5a8f175beb5)**
 
-Published Mar 6 by emiliomann, edited Mar 20 | 23 comments ()
+Published Mar 6 by emiliomann | edited Mar 20 | 23 comments ()
 
 This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus Party series, Bitconf São Paulo and meetups in a list of other cities.
 
@@ -18,7 +18,7 @@ The highest scoring comments (from @guang and @praxis) raised questions about sp
 
 **[US Marketing & Project Release Coordination 2020](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af)**
 
-Published Mar 10 by dustorf, edited Mar 16 - voting started on Mar 19 - 40 comments ()
+Published Mar 10 by dustorf | edited Mar 16 | voting started Mar 19 | 40 comments ()
 
 This proposal requests a maximum budget of $177,800 for US-based marketing activities and release coordination in 2020.
 
@@ -65,7 +65,7 @@ This proposal requests $5,000 for integrating DCR on an app that allows users to
 
 **[Decred Europe Marketing and Events Proposal](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b)**
 
-Published Feb 9 by Haon, edited Feb 18 | 34 comments (+2)
+Published Feb 9 by Haon | edited Feb 18 | 34 comments (+2)
 
 ## About this issue
 
