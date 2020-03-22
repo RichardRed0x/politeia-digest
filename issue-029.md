@@ -25,18 +25,18 @@ This proposal requests a maximum budget of $177,800 for US-based marketing activ
 It lays out budgets for a number of distinct sub-projects, and lists the contributors who are leading on each one:
 
 | Tactic                                  | Number | Cost Per (USD) | Extended Cost (USD) |
-| --------------------------------------- | ------ | -------------- | ------------------- |
-| Decred Journal                          | 12     | 3,500          | 42,000              |
-| Politeia Digest                         | 12     | 750            | 9,000               |
-| Decred Drive                            | 12     | 400            | 4,800               |
-| Monthly Newsletter                      | 9      | 500            | 4,500               |
-| Original Content Generation             | 12     | 2,000          | 24,000              |
-| Decred in Depth Podcast/Rough Consensus | 30     | 800            | 24,000              |
-| Decred Assembly                         | 5      | 1,500          | 7,500               |
-| Public Relations Coordination           | 12     | 1,000          | 12,000              |
-| Release Planning/Coordination           | 5      | 6,000          | 30,000              |
-| Marketing Updates                       | 1      | 20,000         | 20,000              |
-| Total                                   |        |                | 177,800             |
+| --------------------------------------- | -----: | -------------: | ------------------: |
+| Decred Journal                          |     12 |          3,500 |              42,000 |
+| Politeia Digest                         |     12 |            750 |               9,000 |
+| Decred Drive                            |     12 |            400 |               4,800 |
+| Monthly Newsletter                      |      9 |            500 |               4,500 |
+| Original Content Generation             |     12 |          2,000 |              24,000 |
+| Decred in Depth Podcast/Rough Consensus |     30 |            800 |              24,000 |
+| Decred Assembly                         |      5 |          1,500 |               7,500 |
+| Public Relations Coordination           |     12 |          1,000 |              12,000 |
+| Release Planning/Coordination           |      5 |          6,000 |              30,000 |
+| Marketing Updates                       |      1 |         20,000 |              20,000 |
+| Total                                   |        |                |             177,800 |
 
 The first version of the proposal included a budget for Community Organizers, who would organize and attend events to represent Decred in the US. In the first version it was noted as being subject to Covid-19 outbreak related disruption. It was scrapped outright in the final edit before voting started, reducing the total budget requested by $24,000.
 
