@@ -10,7 +10,7 @@
 
 Published Mar 6 by emiliomann | edited Mar 20 | 23 comments
 
-Latest voting figures: 2,160 Yes votes, 2,519 No votes (46.2% Yes) - voter participation of 11.6%, support from 5% of tickets.
+Voting figures as of writing: 2,160 Yes votes, 2,519 No votes (46.2% Yes) - voter participation of 11.6%, support from 5% of tickets.
 
 This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus Party series, Bitconf São Paulo and meetups in a list of other cities.
 
@@ -20,9 +20,9 @@ The highest scoring comments (from @guang and @praxis) raised questions about sp
 
 **[US Marketing & Project Release Coordination 2020](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af)**
 
-Published Mar 10 by dustorf | edited Mar 16 | voting started Mar 19 | 55 coimments
+Published Mar 10 by dustorf | edited Mar 16 | voting started Mar 19 | 55 comments
 
-Latest voting figures: 1,452 Yes votes, 2,060 No votes (41.3% Yes) - voter participation of 8.7%, support from 4% of tickets.
+Voting figures as of writing: 1,452 Yes votes, 2,060 No votes (41.3% Yes) - voter participation of 8.7%, support from 4% of tickets.
 
 This proposal requests a maximum budget of $177,800 for US-based marketing activities and release coordination in 2020.
 
@@ -70,7 +70,7 @@ This proposal requests $5,000 for integrating DCR on an app that allows users to
 
 Published Feb 9 by Haon | edited Feb 18 | 34 comments (+2)
 
-3,857 Yes votes, 6,393 No votes (38% Yes) - voter participation of 25%, support from 9% of tickets.
+Final voting figures: 3,857 Yes votes, 6,393 No votes (38% Yes) - voter participation of 25%, support from 9% of tickets.
 
 ## About this issue
 
