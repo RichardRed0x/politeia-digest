@@ -7,6 +7,7 @@
 ## New proposals
 
 **[Decred Brazil Marketing and Events Proposal](https://proposals.decred.org/proposals/bc20f986c3ea2fed2ea074c377a89f1a4b956ea0d527a8b6c099a5a8f175beb5)**
+
 Published Mar  6 by emiliomann, edited Mar 20 | 23 comments ()
 
 This proposal requests a budget of $108,000 for marketing and events in Brazil, to cover until the end of 2020. The proposal comes from @emiliomann, an early member of the Brazilian Decred community who has been leading on marketing efforts there since the beginning. The scope covers operating events, meetups, sponsors and marketing in Brazil, including the creation of marketing material, videos and other content in Portuguese. Events include the Campus party series, Bitconf São Paulo and meetups in a list of other cities.
@@ -16,6 +17,7 @@ The majority of the budget ($78k) is for the hours worked by the 18 listed contr
 The highest scoring comments (from @guang and @praxis) raised questions about spending at this rate during the current market conditions, and about the impact of Covid-19. @emiliomann responded to all of these questions and edited the proposal to clarify how its execution will be amended in response to Covid-19. There are also other positive-scoring comments which express support for the proposal.
 
 **[US Marketing & Project Release Coordination 2020](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af)**
+
 Published Mar 10 by  dustorf, edited Mar 16 - voting started on Mar 19 - 40 comments ()
 
 This proposal requests a maximum budget of $177,800 for US-based marketing activities and release coordination in 2020.  
@@ -54,6 +56,7 @@ It should be noted that there are also a number of positively-scoring [comments]
 While this project has been under discussion, the cryptocurrency space experienced a sharp decline in prices globally (alongside other assets like stocks), and there are a [number](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af/comments/21) of [comments](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af/comments/36) which make the general point that spending on this kind of activity should be reduced during times when the USD/DCR exchange rate is so low. Others [suggest](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af/comments/51) this is a time to keep going strong. The question of metrics to measure success of marketing efforts was also [discussed](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af/comments/15).
 
 **[DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card](https://proposals.decred.org/proposals/d3b16861a7e555db2fdd25b589123f4b6c4289c857fbdff329a4ffb1cb60c4d9)**
+
 Published Mar 19 | 2 comments 
 
 This proposal requests $5,000 for integrating DCR on an app that allows users to store cryptocurrency, buy gift cards, and operate a debit card (EU only). The funding is intended to cover "risks management for cryptocurrency conversion and to pay for running an instance of blockbook for Decred". The proposal also offers a lifetime low fee rate, dropping usual fees of 4% for gift card purchases and 2% for trades between coins to 1% for DCR. There have not been many comments on the proposal yet but in the #proposals channel people are asking about why the app is not open source, and @Enrique Berruta has [indicated](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1584818174993KpieD:decred.org?via=decred.org&via=matrix.org&via=zettaport.com) that it will be released as open source "next week".
@@ -61,6 +64,7 @@ This proposal requests $5,000 for integrating DCR on an app that allows users to
 ## Rejected proposals
 
 **[Decred Europe Marketing and Events Proposal](https://proposals.decred.org/proposals/6ceb278ecd96589f5c9dabcd7ce986bc58ebfe2d4dbb793dd5b21818711b453b)**
+
 Published Feb  9 by Haon, edited Feb 18  | 34 comments (+2)
 
 ## About this issue
