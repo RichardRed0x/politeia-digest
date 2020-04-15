@@ -8,7 +8,7 @@
 
 **[DCR Comic: a visual guide to Decred - Season 2](https://proposals.decred.org/proposals/2f08f8518bc7672069a10ac6461fd9ab341d4a9e4c343fd4a7ec426250f3896f)**
 
-Published Mar 23 by {} | last updated Apr 6 | voting started Apr 9 | 20 comments ({})
+Published Mar 23 by pablito | edited Apr 6 | voting started Apr 9 | 20 comments ({})
 
 {Latest voting figures: 0 Yes votes, 0 No votes (NaN% Yes) - voter participation of 0%, support from 0% of tickets.}
 
@@ -18,7 +18,7 @@ Comments on the proposal include [one](https://proposals.decred.org/proposals/2f
 
 **[Decred Daily Initiatives Proposal](https://proposals.decred.org/proposals/7d42c6f4bf3059b64789185af615c1df97cb61a379425933be5ff01d074ed4d5)**
 
-Published Mar 26 by {} | last updated Apr 4 | voting started Apr 9 | 15 comments ({})
+Published Mar 26 by coin4 | edited Apr 4 | voting started Apr 9 | 15 comments ({})
 
 {Latest voting figures: 0 Yes votes, 0 No votes (NaN% Yes) - voter participation of 0%, support from 0% of tickets.}
 
@@ -30,7 +30,7 @@ Comments on the proposal express appreciation for the twitter account but some h
 
 **[High-Profile Billboard Marketing Campaign](https://proposals.decred.org/proposals/bce7bf3cd1f74d571d23ac8a330ddf29a14a547ed0cc9c995f1a97dce733d1e1)**
 
-Published Apr 9 by {} | last updated Apr 11 | 17 comments ({})
+Published Apr 9 by remihoh | edited Apr 11 | 17 comments ({})
 
 This proposal requests $24,450 to run a billboard marketing campaign with 50 billboards in Hollywood and West Los Angeles for 4 weeks, targeting a "wealthy and impressionable audience". $20K would be spent on the billboard packages, $3,200 on design and creation of the content, $1,250 on production costs. @remihoh has previously raised the topic of a billboard campaign in the [proposals](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15859755747605SIprH:decred.org?via=decred.org&via=matrix.org&via=manam.freedombox.rocks) channel.
 
@@ -38,7 +38,7 @@ While most of the comments express some degree of interest in a billboard campai
 
 **[Decred Content Marketing with CriptoNoticias](https://proposals.decred.org/proposals/83b59ef5ab40193a86073abbd93cea13ed6d071eecc78918ab5cf98cba7c7a67)**
 
-Published Apr 11 by {} | last updated Apr 13 | 7 comments ({})
+Published Apr 11 by criptonoticias | edited Apr 13 | 7 comments ({})
 
 This proposal requests $5,900 for a content marketing campaign with CriptoNoticias, a popular Spanish-language cryptocurrency news site. Items covered by this budget include a Criptopedia page ($2,000), tutorial and video ($1,500), and 2 SEO articles ($2,400) - to be published as sponsored content on the CriptoNoticias site.
 
@@ -48,7 +48,7 @@ Early comments and discussion in the proposals channel suggest that CriptoNotici
 
 **[DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card](https://proposals.decred.org/proposals/d3b16861a7e555db2fdd25b589123f4b6c4289c857fbdff329a4ffb1cb60c4d9)**
 
-Published Mar 19 by {} | last updated Mar 20 | 6 comments (+4)
+Published Mar 19 by eabz | edited Mar 20 | 6 comments (+4)
 
 This proposal had only 1 new comment in 17 days and no comments from the proposal owner for 25 days, and was therefore marked as abandoned. None of the comments on the proposal were supportive, some stated that they would object to funding any integration like this.
 
