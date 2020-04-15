@@ -58,13 +58,13 @@ This proposal had only 1 new comment in 17 days and no comments from the proposa
 
 Published Mar 10 by Dustorf | edited Mar 16 | approved Mar 27 | 58 comments (+3)
 
-9,372 Yes votes, 3,288 No votes (74% Yes) - voter participation of 31%.
+Final voting figures: 9,372 Yes votes, 3,288 No votes (74% Yes) - voter participation of 31%.
 
 **[Decred Brazil Marketing and Events Proposal](https://proposals.decred.org/proposals/bc20f986c3ea2fed2ea074c377a89f1a4b956ea0d527a8b6c099a5a8f175beb5)**
 
 Published Mar 6 by @emiliomann | edited Mar 20 | approved Mar 27 | 66 comments (+43)
 
-8,916 Yes votes, 4,687 No votes (66% Yes) - voter participation of 34%.
+Final voting figures: 8,916 Yes votes, 4,687 No votes (66% Yes) - voter participation of 34%.
 
 ## Other News
 
