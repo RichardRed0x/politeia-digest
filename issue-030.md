@@ -48,7 +48,7 @@ Early comments and discussion in the proposals channel suggest that CriptoNotici
 
 **[DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card](https://proposals.decred.org/proposals/d3b16861a7e555db2fdd25b589123f4b6c4289c857fbdff329a4ffb1cb60c4d9)**
 
-Published Mar 19 by eabz | edited Mar 20 | 6 comments (+4)
+Published Mar 19 by eabz | edited Mar 20 | abandoned Apr 14 | 6 comments (+4)
 
 This proposal had only 1 new comment in 17 days and no comments from the proposal owner for 25 days, and was therefore marked as abandoned. None of the comments on the proposal were supportive, some stated that they would object to funding any integration like this.
 
@@ -56,13 +56,13 @@ This proposal had only 1 new comment in 17 days and no comments from the proposa
 
 **[US Marketing & Project Release Coordination 2020](https://proposals.decred.org/proposals/c830ea5afea45a0aabf4092d1bea51fb10b8bfa2d8474aac03224f0f94d3d1af)**
 
-Published Mar 10 by Dustorf | edited Mar 16 | 58 comments (+3)
+Published Mar 10 by Dustorf | edited Mar 16 | approved Mar 27 | 58 comments (+3)
 
 9,372 Yes votes, 3,288 No votes (74% Yes) - voter participation of 31%.
 
 **[Decred Brazil Marketing and Events Proposal](https://proposals.decred.org/proposals/bc20f986c3ea2fed2ea074c377a89f1a4b956ea0d527a8b6c099a5a8f175beb5)**
 
-Published Mar 6 by @emiliomann | edited Mar 20 | 66 comments (+43)
+Published Mar 6 by @emiliomann | edited Mar 20 | approved Mar 27 | 66 comments (+43)
 
 8,916 Yes votes, 4,687 No votes (66% Yes) - voter participation of 34%.
 
