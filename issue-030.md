@@ -4,7 +4,7 @@
 
 **Treasury balance: {} (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
 
-## New proposals
+## Proposals open for voting
 
 **[DCR Comic: a visual guide to Decred - Season 2](https://proposals.decred.org/proposals/2f08f8518bc7672069a10ac6461fd9ab341d4a9e4c343fd4a7ec426250f3896f)**
 
@@ -27,6 +27,8 @@ This proposal requests $5,280 to fund the [@Decred_Daily](https://twitter.com/De
 Aggregating content for the twitter account would cost $660/month, while translations of a monthly recap and bi-weekly statistics recap into Spanish and Russian would cost $40/month each, bringing total costs associated with running the twitter account and generating content for the website to $4,440 over the 6 months. The remaining $840 budget is for making a website "with all necessary news and tutorials".
 
 Comments on the proposal express appreciation for the twitter account but some have reservations about funding it through the proposal. One comment suggested including translations, and the proposal was edited to add this component. @coin4 has responded to all of the comments about the proposal.
+
+## New proposals
 
 **[High-Profile Billboard Marketing Campaign](https://proposals.decred.org/proposals/bce7bf3cd1f74d571d23ac8a330ddf29a14a547ed0cc9c995f1a97dce733d1e1)**
 
