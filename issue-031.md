@@ -34,7 +34,7 @@ This proposal offers to produce either a 2 ($39K) or 6 ($110K) part series of 7-
 
 **[CoinStory - The History and Evolution of Cryptocurrencies (Book)](https://proposals.decred.org/proposals/4affceb07f5b8126366e8b73ed3d164ebc010bc6fefba19375c4c2e2b252beb0)**
 
-Published May 18 by spider333 | last edited May 20 - 19 comments
+Published May 18 by spider333 | last edited May 20 | 19 comments
 
 in this proposal David Stancell requests $1,000 USD as sponsorship of a book publication. The book is about the history of cryptocurrencies and will feature a limited mention of Decred in the altcoins section. If the proposal is approved the Decred logo and link would appear as a sponsor of the book on its website. David is also seeking funding from other sources, and estimates that he will need around $8,000 to publish the book. In [response](https://proposals.decred.org/proposals/4affceb07f5b8126366e8b73ed3d164ebc010bc6fefba19375c4c2e2b252beb0/comments/15) to a comment David suggested the book may be open sourced in future, but this was not part of the immediate plan. Two early chapters of the book are available on its [website](https://coinstory.tech/).
 
@@ -42,7 +42,7 @@ Early comments asked about David's views on Decred and whether he has looked int
 
 **[Decred Latam Marketing and Events Proposal 2](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)**
 
-Published May 19 by 3lian | last edited May 20 - 17 comments
+Published May 19 by 3lian | last edited May 20 | 17 comments
 
 This proposal requests $46,000 to continue (previous [proposal](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)) the pandemic-attenuated activities of the Latam team for 6 months. It provides an in depth account of the concluding phase, which saw all events being cancelled. The Latam team have paid deposits up front for some events, which will be carried over to whenever the event can resume. The proposal reports spending of $82,072.38, which is $10K over the first proposal's budget of $72K. A version of the proposal on [GitHub](https://gist.github.com/3lian/4f33c0133d5fb4dc3db6114fa32bc13e) has tables with detailed breakdowns of spending on the proposal.
 
