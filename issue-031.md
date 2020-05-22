@@ -52,13 +52,13 @@ The Latam team have shifted focus to online activities, and for the next phase p
 
 **[DCR Comic: a visual guide to Decred - Season 2](https://proposals.decred.org/proposals/2f08f8518bc7672069a10ac6461fd9ab341d4a9e4c343fd4a7ec426250f3896f)**
 
-Published 23 Mar by pablito | edited 6 Apr | 22 comments (+1)
+Published Mar 23 by pablito | edited Apr 6 | 22 comments (+1)
 
 Final voting figures: 3,926 Yes votes, 4,009 No votes (49.5% Yes) - voter participation of 19.2%.
 
 **[Decred Daily Initiatives Proposal](https://proposals.decred.org/proposals/7d42c6f4bf3059b64789185af615c1df97cb61a379425933be5ff01d074ed4d5)**
 
-Published 26 Mar by coin4 | edited 4 Apr | 17 comments (+2)
+Published Mar 26 by coin4 | edited Apr 4 | 17 comments (+2)
 
 Final voting figures: 3,066 Yes votes, 3,938 No votes (44% Yes) - voter participation of 17%.
 
