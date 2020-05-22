@@ -7,6 +7,7 @@
 ## New proposals
 
 **[DCR On-Chain Research: Phase 2](https://proposals.decred.org/proposals/68a32c1f36d24a17e5eb69d6d1b6adb587ca45c9c7e64e85c353e7dba7fca545)**
+
 Published May 13 by permabullnino | 21 comments
 
 The second research proposal from @permabullnino (first [proposal](https://proposals.decred.org/proposals/f0d1bd7447182328b44c691de88cb660b63df17f1f3a94990af19acea57c09bb)) requests $16,000 to cover 8-10 months of work, continuing the themes from the first phase but with more varied outputs. Long-form posts will be reduced in response to feedback from phase 1, with more medium-length posts and a monthly newsletter that provides updates produced with already established tools. @permabullnino reports an average monthly spend from phase 1 of $1,900, and projects a monthly spend of $1,600-$2,000 for phase 2. @permabullnino also reports that he has started automating the deployment of his existing tools and offers a [repository](https://github.com/permabullnino/nino_on_chain) where these can be found.
@@ -14,6 +15,7 @@ The second research proposal from @permabullnino (first [proposal](https://propo
 Comments are generally supportive, although @goodriver makes a verbose argument against the proposal across a number of lengthy comments, in a back and forth with @permabull and @checkmate that also spills over to the Decred OnChain proposal.
 
 **[Decred OnChain - A Research and Charting Resource](https://proposals.decred.org/proposals/023091831f6434f743f3a317aacf8c73a123b30d758db854a2f294c0b3341bcc)**
+
 Published May 17 by checkmate | 42 comments
 
 This proposal requests $7,800 to develop an MVP Decred charting site, the MVP would have 5 live chart types with associated explanatory texts. The selection of charts is based on @permabullnino and @checkmate's research, and the charts would be linked to their papers on the relevant subjects. Also on the team are @nachito and @pablito (of DCRComic, working on design), @svitekpavel (developer) and @stan (UX & Product). Design of the site has already begun, and some wireframes and other assets are included in the proposal.
@@ -25,11 +27,13 @@ The proposal aims for 12 week delivery, and the budget would be split between de
 This proposal enjoyed a remarkably positive and highly upvoted comment from @praxis, which praised it for its competent team, low asking price and developed concept. There were positive comments from some other well known contributors, and some negative comments from less familiar personas.
 
 **[TV Marketing For Decred (DCR)](https://proposals.decred.org/proposals/9eaafc20f206776e38642e272233390f351c5562c3835369a558cc7d7e341018)**
+
 Published May 18 by w3bt | 11 comments
 
 This proposal offers to produce either a 2 ($39K) or 6 ($110K) part series of 7-12 minute interviews, to be broadcast by FMW TV's broadcast network. The proposal contains a lot of numbers, maybe more than any other proposal, but it is not clear how relevant some of them are. Claims like "TV exposure has the potential to increase... token price +901%" have been identified as raising red flags by several commenters, and questions have been asked about whether the high profile TV channel names being dropped are reflective of what would be delivered. So far there are no responses from the proposal owner.
 
 **[CoinStory - The History and Evolution of Cryptocurrencies (Book)](https://proposals.decred.org/proposals/4affceb07f5b8126366e8b73ed3d164ebc010bc6fefba19375c4c2e2b252beb0)**
+
 Published May 18 by spider333 | last edited May 20 - 19 comments 
 
 in this proposal David Stancell requests $1,000 USD as sponsorship of a book publication. The book is about the history of cryptocurrencies and will feature a limited mention of Decred in the altcoins section. If the proposal is approved the Decred logo and link would appear as a sponsor of the book on its website. David is also seeking funding from other sources, and estimates that he will need around $8,000 to publish the book. In [response](https://proposals.decred.org/proposals/4affceb07f5b8126366e8b73ed3d164ebc010bc6fefba19375c4c2e2b252beb0/comments/15) to a comment David suggested the book may be open sourced in future, but this was not part of the immediate plan. Two early chapters of the book are available on its [website](https://coinstory.tech/). 
@@ -37,6 +41,7 @@ in this proposal David Stancell requests $1,000 USD as sponsorship of a book pub
 Early comments asked about David's views on Decred and whether he has looked into the project, and how prominently it will feature in the book and on the website. The initial version of the proposal did not include any amount or terms but it was quickly edited to add these. David has been responding to questions and is [considering](https://proposals.decred.org/proposals/4affceb07f5b8126366e8b73ed3d164ebc010bc6fefba19375c4c2e2b252beb0/comments/16) dropping the ask to $500, and also looking at which other aspects of Decred might be relevant for the book as he learns more about the project.
 
 **[Decred Latam Marketing and Events Proposal 2](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)**
+
 Published May 19 by 3lian | last edited May 20 - 17 comments 
 
 This proposal requests $46,000 to continue (previous [proposal](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)) the pandemic-attenuated activities of the Latam team for 6 months. It provides an in depth account of the concluding phase, which saw all events being cancelled. The Latam team have paid deposits up front for some events, which will be carried over to whenever the event can resume. The proposal reports spending of $82,072.38, which is $10K over the first proposal's budget of $72K. A version of the proposal on [GitHub](https://gist.github.com/3lian/4f33c0133d5fb4dc3db6114fa32bc13e) has tables with detailed breakdowns of spending on the proposal.
