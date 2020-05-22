@@ -2,7 +2,7 @@
 
 ![Image credit: @sænder](img/issue031/031-title.png)
 
-**Treasury balance: 627,750 DCR (approx +13,000 DCR/month) - $8.9 million (+$183k/month) based on $14.10 DCR price**
+**Treasury balance: 627,750 DCR (approx +13,000 DCR/month) - $8.9 million (+$183K/month) based on $14.10 DCR price**
 
 ## New proposals
 
@@ -22,7 +22,7 @@ This proposal requests $7,800 to develop an MVP Decred charting site, the MVP wo
 
 ![](img/issue031/decred-on-chain-design.png)
 
-The proposal aims for 12 week delivery, and the budget would be split between design ($3k) and development ($4.8k). The work on specifying the charts would be completed as part of @checkmate's already approved [proposal](https://proposals.decred.org/proposals/a677e236cb2e0fdd485980cd5d789e668d00fdc5235d01e7345d2195b8679066), which has a budget of $2.5k for this kind of activity (although originally intended to be integrated in dcrdata).
+The proposal aims for 12 week delivery, and the budget would be split between design ($3K) and development ($4.8K). The work on specifying the charts would be completed as part of @checkmate's already approved [proposal](https://proposals.decred.org/proposals/a677e236cb2e0fdd485980cd5d789e668d00fdc5235d01e7345d2195b8679066), which has a budget of $2.5K for this kind of activity (although originally intended to be integrated in dcrdata).
 
 This proposal enjoyed a remarkably positive and highly upvoted comment from @praxis, which praised it for its competent team, low asking price and developed concept. There were positive comments from some other well known contributors, and some negative comments from less familiar personas.
 
