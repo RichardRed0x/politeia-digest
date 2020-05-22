@@ -1,6 +1,6 @@
 # Politeia Digest #31 - Apr 16 - May XX 2020
 
-![Image credit: {name}](img/{path})
+![Image credit: @sænder](img/issue031/031-title.png)
 
 **Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
 
@@ -18,7 +18,7 @@ Published May 17 by checkmate | 34 comments ()
 
 This proposal requests $7,800 to develop an MVP Decred charting site, the MVP would have 5 live chart types with associated explanatory texts. The selection of charts is based on @permabullnino and @checkmate's research, and the charts would be linked to their papers on the relevant subjects. Also on the team are @nachito and @pablito (of DCRComic, working on design), @svitekpavel (developer) and @stan (UX & Product). Design of the site has already begun, and some wireframes and other assets are included in the proposal.
 
-{image}
+![](img/issue031/decred-on-chain-design.png)
 
 The proposal aims for 12 week delivery, and the budget would be split between design ($3k) and development ($4.8k). The work on specifying the charts would be completed as part of @checkmate's already approved [proposal](https://proposals.decred.org/proposals/a677e236cb2e0fdd485980cd5d789e668d00fdc5235d01e7345d2195b8679066), which has a budget of $2.5k for this kind of activity (although originally intended to be done with dcrdata).
 
