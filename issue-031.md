@@ -74,6 +74,6 @@ Decred Contractor Clearance support in the CMS is reaching maturity with a big c
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/0731e56a10df440a2faaee31b56a6e24bc81cfac).
 
-Content for this edition was authored by @richardred with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
