@@ -1,6 +1,6 @@
 # Politeia Digest #31 - Apr 16 - May 22 2020
 
-![Image credit: @sænder](img/issue031/031-title.png)
+![Image credit: @sænder](img/issue031/031-title.jpg)
 
 **Treasury balance: 627,750 DCR (approx +13,000 DCR/month) - $8.9 million (+$183K/month) based on $14.10 DCR price**
 
@@ -46,7 +46,9 @@ Published May 19 by 3lian | last edited May 20 | 17 comments
 
 This proposal requests $46,000 to continue (previous [proposal](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)) the pandemic-attenuated activities of the Latam team for 6 months. It provides an in depth account of the concluding phase, which saw all events being cancelled. The Latam team have paid deposits up front for some events, which will be carried over to whenever the event can resume. The proposal reports spending of $82,072.38, which is $10K over the first proposal's budget of $72K. A version of the proposal on [GitHub](https://gist.github.com/3lian/4f33c0133d5fb4dc3db6114fa32bc13e) has tables with detailed breakdowns of spending on the proposal.
 
-The Latam team have shifted focus to online activities, and for the next phase plan to focus on the creation of a number of Spanish media products: a monthly translation of Decred Journal and video version, 2 monthly #HablemosDecred community calls, 2 monthly crypto 101 shows and 1 monthly ad-hoc panel. Other areas of focus going forward are public relations and enhancing Decred's presence in Spanish crypto media, as well as developer recruitment, academic awareness and user support.
+The Latam team have shifted focus to online activities, and for the next phase plan to focus on the creation of a number of Spanish media products: a monthly translation of Decred Journal and video version, 2 monthly #HablemosDecred community calls, 2 monthly crypto 101 shows and 1 monthly ad-hoc panel. Other areas of focus going forward are public relations and enhancing Decred's presence in Spanish crypto media, as well as developer recruitment, academic awareness and user support. The proposal team have put out a [video](https://www.youtube.com/watch?v=2VNZKWA5Bdg) about the proposal.
+
+Comments on the proposal are almost universally positive, except one that points to relatively flat social media metrics and calls shenanigans.
 
 ## Rejected proposals
 
@@ -66,9 +68,11 @@ Final voting figures: 3,066 Yes votes, 3,938 No votes (44% Yes) - voter particip
 
 Check out the [segment](https://www.youtube.com/watch?v=HexsUmqA7-Y) of the Decred Consensus program with @lukebp talking about Politeia.
 
-In the ChangeLog [segment](https://www.youtube.com/watch?v=OmwI62HZerg) of the program @jy-p gave an update on the decentralization of Treasury spending work by @moo31337, and also presented some Treasury spending figures.
+In the ChangeLog [segment](https://www.youtube.com/watch?v=OmwI62HZerg) of the program @jy-p gave an update on the decentralization of Treasury spending work by @moo31337, and also presented some Treasury spending figures. 
 
 Decred Contractor Clearance support in the CMS is reaching maturity with a big chunk of work from @ay-p being [merged](https://github.com/decred/politeia/pull/1104), as [tweeted](https://twitter.com/lukebp_/status/1262871839035977728) by @lukebp. Several DCCs have already been granted but the process of collecting approvals has had some rough edges until now.
+
+The Decred bi-weekly news [update](https://www.youtube.com/watch?v=9i56ly5SS6M) from @Exitus has coverage of the same Politeia proposals considered above in video form, plus updates from across the project.
 
 ## About this issue
 
