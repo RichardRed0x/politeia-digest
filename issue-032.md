@@ -1,6 +1,6 @@
 # Politeia Digest #32 - May 23 - June 12 2020
 
-![Image credit: {name}](img/{path})
+![Image credit: @sænder](img/issue032/032-title.jpg)
 
 **Treasury balance: 633,896 DCR (approx +12,847 DCR/month) - $10.5 million (+$213k/month) based on $16.55 DCR price**
 
@@ -66,6 +66,6 @@ The Latam proposal's voting period had an [exciting](https://twitter.com/elianhu
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/bd11f737bfd8acadfe693420ab66ca9c02846dd6).
 
-Content for this edition was authored by {name} with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from {name}.
 
-Image credit: {name}
+Image credit: @sænder
