@@ -10,7 +10,7 @@
 
 Published 1 Jun by degeri | updated 6 Jun | 8 comments
 
-The bounty program is up for renewal, with a budget of $5,000 requested to cover its maintenance and administration for 1 year, and up to $100,000 to be made available for bounty payouts. For the last 10 months the proposal reports spending figures of $1,780 in running costs and $3,475 in payouts, in the last year there have been 60 submissions from 36 different email addresses.
+The bug bounty program is up for renewal, with a budget of $5,000 requested to cover its maintenance and administration for 1 year, and up to $100,000 to be made available for bounty payouts. For the last 10 months the proposal reports spending figures of $1,780 in running costs and $3,475 in payouts, in the last year there have been 60 submissions from 36 different email addresses.
 
 Comments are supportive of the proposal and how it has been managed by @degeri. @matheusd [suggested](https://proposals.decred.org/proposals/2170df6af2cda7d048039d893cc8438b001577989441a33709820f56df7075c0/comments/1) adding details of the submission and payout process to the proposal, with the answers being edited into the proposal. There's a 10% reduction in payouts for not using PGP to encrypt emails. Payments are now handled through the CMS, an effort is made to process the payouts alongside contractor payments for the month the bug was submitted (so that they are paid at the same DCR/USD rate as contractor work for the month).
 
@@ -36,15 +36,15 @@ The comments remain sceptical about this proposal, with the use of optimistic pr
 
 **[Decred OnChain - A Research and Charting Resource](https://proposals.decred.org/proposals/023091831f6434f743f3a317aacf8c73a123b30d758db854a2f294c0b3341bcc)**
 
-Voting figures: 13,250 Yes votes, 2,072 No votes (86.5% Yes) - voter participation of 38%
+Final voting figures: 13,250 Yes votes, 2,072 No votes (86.5% Yes) - voter participation of 38%.
 
 $7,800 for design and development of a Decred charts/metrics site.
 
 **[Decred Latam Marketing and Events Proposal 2](https://proposals.decred.org/proposals/3c02b677462d6d22d61bf786798e975b38df7a203c2467429d4ec91f75ef0c40)**
 
-Final voting figures: 9,952 Yes votes, 6,451No votes (60.7% Yes) - voter participation of 41%
+Final voting figures: 9,952 Yes votes, 6,451 No votes (60.7% Yes) - voter participation of 41%.
 
-$46,000 for marketing efforts in Latam which shift towards online events and media production.
+$46,000 for marketing efforts in Latin America which shift towards online events and media production.
 
 **[DCR On-Chain Research: Phase 2](https://proposals.decred.org/proposals/68a32c1f36d24a17e5eb69d6d1b6adb587ca45c9c7e64e85c353e7dba7fca545)**
 
@@ -60,12 +60,12 @@ Final voting figures: 1,576 Yes votes, 11,956 No votes (11.6% Yes) - voter parti
 
 ## Other News
 
-The Latam proposal's voting period had an [exciting](https://twitter.com/elianhuesca/status/1270049855088574465) conclusion, as it hovered around the critical 60% approval mark in the final few hours. With 4 proposals voting at the same time, and high turnout across the board, the server missed some votes which made it into the git repository but not the server cache, and [consequently](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15917288647126pELFC:decred.org?via=decred.org&via=matrix.org&via=planetdecred.org) the totals displayed on the site were slightly off (32 votes were missed) for around a day until @lukebp deployed a fix. The missing votes did not affect the outcome.
+The Latam proposal's voting period had an [exciting](https://twitter.com/elianhuesca/status/1270049855088574465) conclusion, as it hovered around the critical 60% approval mark in the final few hours. With 4 proposals voting at the same time, and high turnout across the board, the server missed some votes which made it into the Git repository but not the server cache, and [consequently](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15917288647126pELFC:decred.org) the totals displayed on the site were slightly off (32 votes were missed) for around a day until @lukebp deployed a fix. The missing votes did not affect the outcome.
 
 ## About this issue
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/bd11f737bfd8acadfe693420ab66ca9c02846dd6).
 
-Content for this edition was authored by @richardred with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
