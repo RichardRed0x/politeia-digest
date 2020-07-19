@@ -46,7 +46,7 @@ The proposal originally requested a budget of $2,000/month but this was reduced 
 
 The issue with comments made while the server is journaling (resulting in quite a few duplicated comments) received a quick fix (comments during this window are rejected) and is soon to make this a daily rather than hourly occurrence.
 
-On Jun 8 @lukebp [tweeted](https://twitter.com/lukebp_/status/1270075883487850496?s=20) about RFP front end work from @amass being merged. That testnet RFP has now been approved, and the subsequent RFP process unfolded in which the Underwater Decred Citadel proposal won out.
+On Jun 8 @lukebp [tweeted](https://twitter.com/lukebp_/status/1270075883487850496) about RFP front end work from @amass being merged. That testnet RFP has now been approved, and the subsequent RFP process unfolded in which the Underwater Decred Citadel proposal won out.
 
 !["This is what it looks like when (testnet) Decred stakholders vote to approve an underwater citadel"](img/issue033/citadel-rfp.png)
 
