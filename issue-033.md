@@ -1,8 +1,8 @@
 # Politeia Digest #33 - June 13 - July 19 2020
 
-![Image credit: {name}](img/{path})
+![Image credit: @sænder](img/issue033/033-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 625,512 DCR (approx +12,650 DCR/month) - $9.64 million (+$195k/month) based on $15.42 DCR price**
 
 ## New proposals
 
@@ -30,6 +30,8 @@ Published 1 Jun by degeri | edited 6 Jun | 8 comments (+0)
 
 Final voting figures: 12,746 Yes votes, 262 No votes (98% Yes) - voter participation of 32%.
 
+Bounty approval is up on phase 1 (90%) and phase 2 (94%), and at 98% it is the third-highest approval percentage of all proposals.
+
 ## Rejected proposals
 
 **[Content Production for Decred in russian](https://proposals.decred.org/proposals/df11d7ac85061e6a02d6503555e585a1a37fffd82101eeea14670537c951926f)**
@@ -48,12 +50,18 @@ The issue with comments made while the server is journaling (resulting in quite 
 
 On Jun 8 @lukebp [tweeted](https://twitter.com/lukebp_/status/1270075883487850496?s=20) about RFP front end work from @amass being merged. That testnet RFP has now been approved, and the subsequent RFP process unfolded in which the Underwater Decred Citadel proposal won out. 
 
-!["This is what it looks like when (testnet) Decred stakholders vote to approve an underwater citadel"](img/issue033/citadel-rfp.png)
+!["This is what it looks like when (testnet) Decred stakeholders vote to approve an underwater citadel"](img/issue033/citadel-rfp.png)
+
+The Latam Marketing and Events Proposal 2, which narrowly passed with 60.4% approval, surveyed the community on [reddit](https://www.reddit.com/r/decred/comments/gzw6hl/what_are_the_thoughts_of_the_394/) about reasons for voting no, in an effort to improve their performance and prospects for renewal. The first [report](https://www.reddit.com/r/decred/comments/hn4sve/activities_report_decred_en_espa%C3%B1ol_proposal_2/) from the proposal has also been published.
+
+A proposal was submitted suggesting a new name for the project ("Bitcoin Evolution"), but without details of implementation it was deemed not ready for publication. @Decredinator [posted](https://www.reddit.com/r/decred/comments/hh2ult/a_better_name_for_decred_to_broaden_the_reach_of/) the proposal to reddit for discussion.
+
+Just before publication of the digest, a new [pre-proposal](https://pastebin.com/LqqWH0sJ) has been [unveiled](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$LFaTgEraOPCXQ0HMl0wM8aVmko-cBCToR76jNOgQfTg?via=decred.org&via=matrix.org&via=planetdecred.org) in the #proposals room, seeking $51,500 for integrations on two travel sites, plus related promotions.
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/0ca1a6fd3958e60f53db27d624d47a0e18d1c7e5).
 
-Content for this edition was authored by richardred with fixes from {name}.
+Content for this edition was authored by @richardred with tips from @bee and a fix from @degeri.
 
-Image credit: {name}
+Image credit: @sænder
