@@ -6,7 +6,7 @@
 
 ## New proposals
 
-**[PR by Monde Public Relations - Phase Two](https://proposals.decred.org/proposals/c81926b1958e54b2f294085da4ab03e9a63223f8ccd32e74a43493bf62de6185)** 
+**[PR by Monde Public Relations - Phase Two](https://proposals.decred.org/proposals/c81926b1958e54b2f294085da4ab03e9a63223f8ccd32e74a43493bf62de6185)**
 
 Published 10 Jul by lindseymmc | 17 comments
 
@@ -16,11 +16,11 @@ Comments are generally supportive of the effort put in by @lindseymmc, and appre
 
 **[Augmented Reality posters](https://proposals.decred.org/proposals/dedf452074752d7e29304a0566643feb26d1d130596e04c613e15de113ac2d08)**
 
-Published 16 Jul by mission | 11 comments 
+Published 16 Jul by mission | 11 comments
 
 This proposal requests $15,000 for 10 Augmented Reality Posters, or $1,500 each. @mission and their partner provided [examples](http://www.users.pjwstk.edu.pl/~s2946/decred.pdf) of their previous AR work, and propose setting up a channel where they can receive feedback on the posters from the community.
 
-Comments question the lack of detail about process or motivations in the proposal and the difficulty of assessing the quality of posters and whether they are worth $1,500 each. 
+Comments question the lack of detail about process or motivations in the proposal and the difficulty of assessing the quality of posters and whether they are worth $1,500 each.
 
 ## Approved proposals
 
@@ -36,7 +36,7 @@ Bounty approval is up on phase 1 (90%) and phase 2 (94%), and at 98% it is the t
 
 **[Content Production for Decred in russian](https://proposals.decred.org/proposals/df11d7ac85061e6a02d6503555e585a1a37fffd82101eeea14670537c951926f)**
 
-Published 19 Jun by ivandecredfan | edited 23 Jun | 23 comments 
+Published 19 Jun by ivandecredfan | edited 23 Jun | 23 comments
 
 Final voting figures: 3,093 Yes votes, 5,624 No votes (35.5% Yes) - voter participation of 21%.
 
@@ -46,9 +46,9 @@ The proposal originally requested a budget of $2,000/month but this was reduced 
 
 ## Other News
 
-The issue with comments made while the server is journaling (resulting in quite a few duplicated comments) received a quick fix (comments during this window are rejected) and is soon to make this a daily rather than hourly occurrence. 
+The issue with comments made while the server is journaling (resulting in quite a few duplicated comments) received a quick fix (comments during this window are rejected) and is soon to make this a daily rather than hourly occurrence.
 
-On Jun 8 @lukebp [tweeted](https://twitter.com/lukebp_/status/1270075883487850496?s=20) about RFP front end work from @amass being merged. That testnet RFP has now been approved, and the subsequent RFP process unfolded in which the Underwater Decred Citadel proposal won out. 
+On Jun 8 @lukebp [tweeted](https://twitter.com/lukebp_/status/1270075883487850496) about RFP front end work from @amass being merged. That testnet RFP has now been approved, and the subsequent RFP process unfolded in which the Underwater Decred Citadel proposal won out.
 
 !["This is what it looks like when (testnet) Decred stakeholders vote to approve an underwater citadel"](img/issue033/citadel-rfp.png)
 
