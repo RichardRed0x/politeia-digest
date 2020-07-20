@@ -62,6 +62,6 @@ Just before publication of the digest, a new [pre-proposal](https://pastebin.com
 
 Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/0ca1a6fd3958e60f53db27d624d47a0e18d1c7e5).
 
-Content for this edition was authored by @richardred with tips from @bee and a fix from @degeri.
+Content for this edition was authored by @richardred with tips and fixes from @bee and @degeri.
 
 Image credit: @sænder
