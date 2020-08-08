@@ -16,7 +16,7 @@ Comments are a mix of those which oppose paying for moderation activities, those
 
 **[A practical marketing opportunity - Massively boost the use case for DCR](https://proposals.decred.org/proposals/2dcbc3e)**
 
-Published 25 Jul by travelwithben | edited 28 Jul | 11 comments
+Published 29 Jul by travelwithben | 11 comments
 
 The award for best proposal title goes to... any other proposal than this one. This proposal requests $51,500 for integration of DCR on two travel websites ([travala.com](https://www.travala.com/) and [travelbybit.com](https://travelbybit.com/)), costing $30,000, plus some advertising ($12,000), a video ($3,000), blog posts ($1,500), and a whitelabel travel site matching the Decred branding ($5,000).
 
