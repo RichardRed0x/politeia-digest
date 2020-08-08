@@ -1,8 +1,8 @@
 # Politeia Digest #34 - July 20 - Aug 8 2020
 
-![Image credit: @sænder](img/{path})
+![Image credit: @sænder](img/issue034/034-title.jpg)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 633,562 DCR (approx +12,470 DCR/month) - $10.3 million (+$203k/month) based on $16.26 DCR price**
 
 ## New proposals
 
@@ -13,6 +13,8 @@ Published 25 Jul by bee | edited 28 Jul | 28 comments
 This proposal requests a maximum of $9,000 (expected ~$4,800) for 6 months of payments for moderators of Decred communications platforms. This proposal covers work that has historically been billed for by some contractors but not others. The platforms (and estimates) are Discord ($240), Matrix ($120), Politeia ($300), Telegram ($120) with a $160 reserve for contingencies. If the proposal is approved this work would be made more transparent and with clear limits on billing. If the proposal is rejected contractors would no longer be compensated for this work. The proposal originally included Reddit moderation work, but this was removed after it was pointed out on the associated Reddit [post](https://www.reddit.com/r/decred/comments/hxxd9s/moderation_of_decred_communications_politeia/) that paid moderation is forbidden by the terms of the Reddit user agreement.
 
 Comments are a mix of those which oppose paying for moderation activities, those which support the proposal, and those which support paying for some platforms but not others. Reddit seemed to be the most controversial platform, but it was removed after a few days. Spare a thought for @bee, who organized the proposal, submitted it, has been answering questions, and only moderates Reddit - which has now been removed from the scope of the proposal.
+
+> I don't feel bad about that. It was good to learn about Reddit terms and realize to what degree we are [guests](https://www.redditinc.com/policies/user-agreement) there, it triggered more thinking for the "ideal" forum-like platform with proper accountability and knowledge preservation, and it was good to learn the value of all the coordination work as soon as you have >1 person involved. - @bee
 
 **[A practical marketing opportunity - Massively boost the use case for DCR](https://proposals.decred.org/proposals/2dcbc3e)**
 
@@ -66,7 +68,7 @@ This proposal from @lindseymmc for continuation of PR services at $3,500/month f
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/4cd50a36818324d34991a8cb115a337543d82c58).
 
 Content for this edition was authored by @richardred with fixes from @bee.
 
