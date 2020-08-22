@@ -16,9 +16,9 @@ This proposal requests budgets for three design subdomains covering the next six
 
 * UI/UX budget of $35,000 covers all of the software repositories with graphical components (Politeia, Decrediton, Mobile, CMS and dcrweb).
 * Identity budget of $16,000 covers new staking onboarding graphics and motion assets, key visuals and illustrations, and DCR identity assets.
-* Visual Comms budget of $14,000 covers support with requests for design assets to be used with releases etc., renders for the Decred Journal and Politeia Digest,  presentation assets, and contributor portraits.
+* Visual Comms budget of $14,000 covers support with requests for design assets to be used with releases etc., renders for the Decred Journal and Politeia Digest, presentation assets, and contributor portraits.
 
-The proposal notes that the requested budgets are set higher than the burn rate for the last 6 months, if there is surplus in the budget this may be used to fund new design contributors. The proposal includes an overview of the contributors. EETER.CO has worked on most of Decred's design efforts since the project launched and is involved in all three subdomains. Corporate contractor b42 also works on many of the UI/UX projects, with @morphy as an additional independent contractor in this subdomain. The other contractors working on the other two subdomains are @kyle and @lustosa. 
+The proposal notes that the requested budgets are set higher than the burn rate for the last 6 months, if there is surplus in the budget this may be used to fund new design contributors. The proposal includes an overview of the contributors. EETER.CO has worked on most of Decred's design efforts since the project launched and is involved in all three subdomains. Corporate contractor b42 also works on many of the UI/UX projects, with @morphy as an additional independent contractor in this subdomain. The other contractors working on the other two subdomains are @kyle and @lustosa.
 
 Comments on the proposal are positive, about the past work of the design contractors and the contents of the present proposal. @bee provided 6 comments worth of thoughtful questions, ranging from design vision and strategy to decentralized archiving of the assets produced in the design domain.
 
@@ -42,7 +42,7 @@ Final voting figures: 1,428 Yes votes, 8,320 No votes (15% Yes) - voter particip
 
 Two proposals were abandoned:
 
-* The [proposal](https://proposals.decred.org/proposals/3372cfc) for marketing activities by @fst_nml was abandoned after administrators refused to allow voting to take place. The proposal was first edited to clarify that the $10,000 budget specified in the proposal was to be paid in advance to the proposal owner. This was deemed at odds with Decred's contractor model of billing for work as it is completed.
+* The [proposal](https://proposals.decred.org/proposals/3372cfc) for marketing activities by @fst\_nml was abandoned after administrators refused to allow voting to take place. The proposal was first edited to clarify that the $10,000 budget specified in the proposal was to be paid in advance to the proposal owner. This was deemed at odds with Decred's contractor model of billing for work as it is completed.
 * The [proposal](https://proposals.decred.org/proposals/4f81031) to produce social media memes for 10 DCR/meme was abandoned in response to community feedback.
 
 ## About this issue
