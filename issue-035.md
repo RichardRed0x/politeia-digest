@@ -1,16 +1,16 @@
 # Politeia Digest #35 - Aug 9 - Aug 22 2020
 
-![Image credit: @sænder](img/{path})
+![Image credit: @sænder](img/issue035/035-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 628,536 DCR (approx +12,500 DCR/month) - $12.9 million (+$256k/month) based on $20.53 DCR price**
 
 ## Proposals open for voting
 
 **[Design domain budgets: 08.20 - 02.21](https://proposals.decred.org/proposals/1dc1571)**
 
-Published Aug 11 by linnutee | {n} comments (+{})
+Published Aug 11 by linnutee | 20 comments
 
-Voting figures as of writing: {} Yes votes, {} No votes ({}% Yes) - voter participation of {}%, support from {}% of tickets.
+Voting figures as of writing: 6,174 Yes votes, 491 No votes (92.6% Yes) - voter participation of 16%.
 
 This proposal requests budgets for three design subdomains covering the next six months, in a formalization of the current arrangements between the Decred Treasury and contractors working in the design domain.
 
@@ -26,7 +26,7 @@ Comments on the proposal are positive, about the past work of the design contrac
 
 **[Moderation of Decred Communications](https://proposals.decred.org/proposals/32cba00)**
 
-Published 25 Jul by bee | edited 28 Jul | 28 comments ()
+Published 25 Jul by bee | edited 28 Jul | 31 comments (+3)
 
 Final voting figures: 8,727 Yes votes, 3,283 No votes (73% Yes) - voter participation of 29%.
 
@@ -45,10 +45,14 @@ Two proposals were abandoned:
 * The [proposal](https://proposals.decred.org/proposals/3372cfc) for marketing activities by @fst\_nml was abandoned after administrators refused to allow voting to take place. The proposal was first edited to clarify that the $10,000 budget specified in the proposal was to be paid in advance to the proposal owner. This was deemed at odds with Decred's contractor model of billing for work as it is completed.
 * The [proposal](https://proposals.decred.org/proposals/4f81031) to produce social media memes for 10 DCR/meme was abandoned in response to community feedback.
 
+There are two further proposals which are still under discussion and received one comment each in the last two weeks: [Augmented Reality posters](https://proposals.decred.org/proposals/dedf452) and [Decred Poker Series](https://proposals.decred.org/proposals/7a67ed5).
+
+A "rules reminder" has been [suggested](https://github.com/decred/politeiagui/issues/2116) for the proposal submission page which would point out common problems (budget denominated in DCR, request for payment in advance of delivery, no actionable plan) as well as linking to the proposal guidelines. 
+
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/d1895d90ccb1223d30814a73c34801d944e4ca19).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/8a89b38afea145fb55e932a7911c6f64186310c7).
 
-Content for this edition was authored by {name} with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
