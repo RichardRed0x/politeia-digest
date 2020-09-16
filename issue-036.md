@@ -12,7 +12,7 @@ Published Sep 2 by exitus | 13 comments
 
 Voting figures as of writing: {} Yes votes, {} No votes ({}% Yes) - voter participation of {}%, support from {}% of tickets.
 
-This proposal seeks a further 6 months of funding for @Exitus' video production, with a maximum monthly spend of $2,700 ($16,200 total). For the first phase, monthly billing ranged from $900 to $2,400, for a total of $14,250 billed over phase 1. For phase 2, @checkmate is joining the team to assist with script writing and feedback. The proposal reports a range of metrics for the videos, which saw a total of 21,402 views on Youtube and 1,531 views on Bitchute.
+This proposal seeks a further 6 months of funding for @Exitus' video production, with a maximum monthly spend of $2,700 ($16,200 total). For the first phase, monthly billing ranged from $900 to $2,400, for a total of $14,250 billed over phase 1. For phase 2, @Checkmate is joining the team to assist with script writing and feedback. The proposal reports a range of metrics for the videos, which saw a total of 21,402 views on YouTube and 1,531 views on Bitchute.
 
 Comments are mostly supportive of the proposal and appreciative of the quality of videos produced during phase 1. The main subject for discussion is how to increase the reach of the videos, with suggestions ranging from social media promotion campaigns, to interviews with people from other projects, to hiring a female presenter to appeal to the 99.9% male audience.
 
