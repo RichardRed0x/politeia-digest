@@ -10,7 +10,7 @@
 
 Published Sep 16 by m_ax | edited Sep 29 | {n} comments (+{})
 
-This proposal from Pavel Svitek requests a budget of $6,485, which is broken down into $5,000 for DCR giveaway promotions and $297 per month for 5 months of maintenance and development of [withDecred.org](https://withDecred.org). Development of the site was led by @pavel and the content was written by @pablito, with contributions from @El Capitan, review and editing by @richard-red and @ammarooni plus some other contributors. The proposal estimates the bring-up cost of the site as $7,000-$8,000, but is not asking for back-pay and instead requests money to use in promoting the site. Much of the proposal describes the method of conducting the giveaways, which has already been trialled and further developed since the proposal was submitted. The final version of this has participants tweeting images obtained from withDecred.org that have a message about Decred and a QR code with the latest block hash, to limit fraudulent entries.
+This proposal from Pavel Svitek requests a budget of $6,485, which is broken down into $5,000 for DCR giveaway promotions and $297 per month for 5 months of maintenance and development of [withDecred.org](https://withDecred.org). Development of the site was led by @pavel and the content was written by @pablito, with contributions from @El Capitan, review and editing by @richardred and @ammarooni plus some other contributors. The proposal estimates the bring-up cost of the site as $7,000-$8,000, but is not asking for back-pay and instead requests money to use in promoting the site. Much of the proposal describes the method of conducting the giveaways, which has already been trialled and further developed since the proposal was submitted. The final version of this has participants tweeting images obtained from withDecred.org that have a message about Decred and a QR code with the latest block hash, to limit fraudulent entries.
 
 The website differs from decred.org in that it is designed around a funnel, and the server has 1st-party analytics software installed (no IP address or personal info gathered) to understand what people are reading and where they drop off.
 
@@ -24,7 +24,7 @@ This proposal requests $12,000 for historical work completed by @alexsolo in 201
 
 Many comments on the proposal describe negative interactions with @alexsolo as they posted negative comments about Decred across a range of platforms in 2018/19, after their relationship with the project soured. @jy-p provided an [account](https://proposals.decred.org/proposals/f279ed5695c9aff93e935a4665b67cff2f1032a2baffc6f3474cd0c97f9dde53/comments/48) of how this occurred. This began when a contractor invited @alexsolo to the contractors chat and he was invited to submit itemized invoices for any work he wished to be paid for, but no invoices were submitted and after some months of @alexsolo failing to make meaningful contributions he was removed from that channel. Other comments criticize the substance of the claimed contributions and whether their value outweighs the negative value of subsequent activities.
 
-## Approved proposals 
+## Approved proposals
 
 **[Video Content Production for Decred Phase 2](https://proposals.decred.org/proposals/1e55a41)**
 
@@ -50,7 +50,7 @@ Original title: Stakeholder-Governed Sound Money for a Fairer Financial System
 
 Published Sep 23 by richard-red | edited Sep 29 | comments
 
-This proposal was drafted in collaboration with @checkmate and @jy-p, it aims to 1) change the tagline, and 2) add a "Fair" box and page to the site, alongside the established boxes and pages. The proposal originally involved changing to a tagline of "Stakeholder-governed Sound Money", but @jz's suggestion of "Money Evolved" is considered to be a better tagline and has been adopted by this proposal. The proposal contains the full text of proposed changes to copy on decred.org. Some aspects are still being reviewed, including the choice and order of the three key words (with twitter [poll](https://twitter.com/RichardRed0x/status/1311253948318265345)). This proposal has an estimated budget of $2,800 (max $3,800), to cover graphics, implementation, copy-writing and translation.
+This proposal was drafted in collaboration with @Checkmate and @jy-p, it aims to 1) change the tagline, and 2) add a "Fair" box and page to the site, alongside the established boxes and pages. The proposal originally involved changing to a tagline of "Stakeholder-governed Sound Money", but @jz's suggestion of "Money Evolved" is considered to be a better tagline and has been adopted by this proposal. The proposal contains the full text of proposed changes to copy on decred.org. Some aspects are still being reviewed, including the choice and order of the three key words (with twitter [poll](https://twitter.com/RichardRed0x/status/1311253948318265345)). This proposal has an estimated budget of $2,800 (max $3,800), to cover graphics, implementation, copy-writing and translation.
 
 Comments are divided on the "fair" messaging, with some being opposed to it, others in favor and some which suggest tweaks to wording and order.
 
