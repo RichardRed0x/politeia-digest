@@ -18,6 +18,9 @@ The proposal was edited to include a link to an episode of the Staked [podcast](
 
 **[Invoice PR/HR/Marketing for Decred 2016/2017/2018](https://proposals.decred.org/proposals/f279ed5)**
 
+This proposal requests $12,000 for historical work completed by @alexsolo in 2016/17/18, to cover 380 hours of work. The activities covered by this include running a Facebook page and growing community on Slack and twitter, organizing translations, and some PR wins, including someone who got a Decred tattoo while @alexsolo was posting on Facebook. The proposal explains the long delay before making a proposal for this work as being due to a misunderstanding, where they had provided their details and expected to be paid but did not receive payment.
+
+Many comments on the proposal describe negative interactions with @alexsolo as they posted negative comments about Decred across a range of platforms in 2018/19, after their relationship with the project soured. @jy-p provided an [account](https://proposals.decred.org/proposals/f279ed5695c9aff93e935a4665b67cff2f1032a2baffc6f3474cd0c97f9dde53/comments/48) of how this occurred. This began when a contractor invited @alexsolo to the contractors chat and he was invited to submit itemized invoices for any work he wished to be paid for, but no invoices were submitted and after some months of @alexsolo failing to make meaningful contributions he was removed from that channel. Other comments criticize the substance of the claimed contributions and whether their value outweighs the negative value of subsequent activities.
 
 
 **[{title}]({link})**
