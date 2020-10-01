@@ -74,13 +74,13 @@ This proposal follows on from the narrative discussion in the previous post to o
 
 Published Sep 27 by jz_bz |11 comments
 
-Decred Rules Everything Around Me, is a "half serious" proposal which offers some food for thought and inspiration for alternative messaging. The tagline in the proposal, "Sound Money Evolved", seems to be a popular suggestion, and has already inspired one other proposal to change its tagline. The proposal also introduces the dev litmus test for marketing punch: "If devs are giving you high fives for the accuracy of your marketing content you've screwed up beyond belief." Suggesting instead that "If you've seen successful marketers they're indistinguishable from morons or religious leaders." Another noteworthy contribution is the Chad/Virgin word dichotomy (with meme), which argues against the use of words like "fair" and "sustainable". In conclusion the proposal calls for a proliferation of competing Decred sites which experiment with alternative taglines and weed out bad words.
+Decred Rules Everything Around Me, is a "half serious" proposal which offers some food for thought and inspiration for alternative messaging. The tagline in the proposal, "Sound Money Evolved", seems to be a popular suggestion, and has already inspired one other proposal to change its tagline. The proposal also introduces the dev litmus test for marketing punch: "If devs are giving you high fives for the accuracy of your marketing content you've screwed up beyond belief." Suggesting instead that "If you've seen successful marketers they're indistinguishable from morons or religious leaders." Another noteworthy contribution is the Chad/Virgin word dichotomy (with [meme](https://twitter.com/jz_bz/status/1310639727477915648)), which argues against the use of words like "fair" and "sustainable". In conclusion the proposal calls for a proliferation of competing Decred sites which experiment with alternative taglines and weed out bad words.
 
 Comments on the proposal express appreciation for the articulation of the ideas and enthusiasm for the tagline in particular.
 
 ## Other News
 
-The community-produced (led by @bee) Politeia proposal guidelines are complete, this document gives a comprehensive overview of the proposal process, packed with tips for a more successful proposal.
+The community-produced (led by @bee) Politeia proposal [guidelines](https://github.com/decredcommunity/guidelines/blob/master/proposals.md) are complete, this document gives a comprehensive overview of the proposal process, packed with tips for a more successful proposal.
 
 ## About this issue
 
