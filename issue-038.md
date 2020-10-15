@@ -1,8 +1,8 @@
 # Politeia Digest #38 - October 2 - 14 2020
 
-![Image credit: {name}](img/{path})
+![Image credit: @sænder](img/issue038/issue038-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 644,710 DCR (approx +12,100 DCR/month) - $7.5 million (+$141k/month) based on $11.65 DCR price**
 
 ## Proposals open for voting
 
@@ -66,7 +66,7 @@ Early comments are hitting the familiar translation discussion points of whether
 
 **[Grassroots Marketing - growing the Decred community (withDecred.org)](https://proposals.decred.org/proposals/2bf72e6)**
 
-Published Sep 16 by m_ax | edited Sep 29 | 18 comments
+Published Sep 16 by m_ax | edited Sep 29 | 18 comments (+0)
 
 Final voting figures: 9,255 Yes votes, 5,704 No votes (62% Yes) - voter participation of 37%.
 
@@ -74,14 +74,14 @@ Final voting figures: 9,255 Yes votes, 5,704 No votes (62% Yes) - voter particip
 
 **[Invoice PR/HR/Marketing for Decred 2016/2017/2018](https://proposals.decred.org/proposals/f279ed5)**
 
-Published Sep 23 by alexsolo | 65 comments
+Published Sep 23 by alexsolo | 79 comments (+14)
 
 Final voting figures: 872 Yes votes, 10,350 No votes (8% Yes) - voter participation of 28%.
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/bb28f3b35dd4affbe679b1e1b1eacf80f76d1194).
 
-Content for this edition was authored by {name} with fixes from @bee.
+Content for this edition was authored by @richard-red with fixes from @bee.
 
-Image credit: {name}
+Image credit: @sænder
