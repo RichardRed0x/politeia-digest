@@ -50,6 +50,8 @@ This proposal has the "Money Evolved" tagline, and a sentence following this bef
 
 The proposal also adds "Fair" messaging to the site, in a box on the home page and its own page - putting it on the same footing as [Secure](https://decred.org/security/), [Adaptable](https://decred.org/adaptability/) and [Sustainable](https://decred.org/sustainability/). The proposal also incorporates associating each of these terms with a specific sub-project which epitomises that quality. Secure with dcrd, Adaptable with consensus voting, Sustainable with Politeia and Treasury, Fair with dcrdex. The three word summary would change to Secure. Adaptable. Fair., but all of the pages and videos for the current terms would be retained. The Fair box would be shown at the top of the page. The maximum budget for this proposal is $3,800.
 
+Following the conclusion of the RFP submission period, another [proposal](https://www.reddit.com/r/decred/comments/j8svqz/messaging_rfp_git_revert_decredorg/) was posted on reddit, to revert the site back to its 2017 state. A version of this proposal was also submitted to Politeia, but this is being censored as it does not meet the standard for a valid proposal outside the RFP process.
+
 ## New proposals
 
 **[Decred Content and Asset Translation Proposal](https://proposals.decred.org/proposals/c093b8a)**
