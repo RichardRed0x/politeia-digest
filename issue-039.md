@@ -12,7 +12,7 @@ Published Nov 3 by raedah | edited Nov 5 | {n} comments (+{})
 
 This proposal requests a budget of $60,000 for 6 months of development funding for this new GoLang desktop wallet written using the Gio library for the interface. GoDCR first appeared in a [video](https://twitter.com/planetdecred/status/1290753362829352960?s=20) trailer on twitter, and when current work on vspd staking is complete an initial release is planned. The GoDCR team has four members who would be funded to continue working on it (plus Sep/Oct in arrears), @oshorefueled, @sirmorrison, @song50119, and @codemaestro64. The proposal also includes $1,000/month sponsorship for Gio, reflecting the collaboration and benefits being derived from Gio by GoDCR, with the intention that GoDCR becomes a hero application for Gio. There is strong overlap between this and the mobile wallet proposal, as both rely on dcrlibwallet.
 
-Comments are supportive of developing another desktop gui wallet and appreciate the aim to be lightweight and not powered by electron. There are some responses from Elias Naur, Gio lead, including a [description](https://proposals.decred.org/proposals/e5c8051d7426a754b3642aa2895839666a360abbdee3c1c1edd56ba152702875/comments/7) of a priority support relationship for GoDCR as a sponsor of Gio. 
+Comments are supportive of developing another desktop gui wallet and appreciate the aim to be lightweight and not powered by electron. There are some responses from Elias Naur, Gio lead, including a [description](https://proposals.decred.org/proposals/e5c8051d7426a754b3642aa2895839666a360abbdee3c1c1edd56ba152702875/comments/7) of a priority support relationship for GoDCR as a sponsor of Gio.
 
 **[Mobile Wallets 2020-2021](https://proposals.decred.org/proposals/bc499c9)**
 
@@ -34,7 +34,7 @@ Early comments concern adding extended public keys so that the app can watch all
 
 Published Nov 9 by paris_smithson | edited Nov 10 | {n} comments (+{})
 
-This proposal requests a budget of $16,800 to produce 18 paintings and a [website](https://www.whydecred.com/why-decred) which showcases them along with information about Decred and a shop to sell merchandise with prints of the paintings. The original artworks would cost $900 each and be sold  for $3,000+, profit from the sale of merchandise would be reinvested in a "profit sharing" initiative where the community can have input into how it is used to further promote the whydecred website.  The proposal includes two lists of problems with money and Decred's advantages, with each artwork intended to support one of these points. If the proposal is funded, the 16 artworks will be produced (billing monthly as they are completed), and when they are in place a one month marketing budget of $2,400 will be used to promote the site. A second proposal would follow, with a report about the success of the marketing effort and request for more funds to do more marketing and produce more artworks. This proposal was previously discussed on [reddit](https://www.reddit.com/r/decred/comments/jkmhbv/whydecredcom_proposal_open_talk/), and also involved a twitter [poll](https://twitter.com/ParisSmithson/status/1323071532692897792) about the choice between cheaper and more expensive artwork.  
+This proposal requests a budget of $16,800 to produce 18 paintings and a [website](https://www.whydecred.com/why-decred) which showcases them along with information about Decred and a shop to sell merchandise with prints of the paintings. The original artworks would cost $900 each and be sold for $3,000+, profit from the sale of merchandise would be reinvested in a "profit sharing" initiative where the community can have input into how it is used to further promote the whydecred website. The proposal includes two lists of problems with money and Decred's advantages, with each artwork intended to support one of these points. If the proposal is funded, the 16 artworks will be produced (billing monthly as they are completed), and when they are in place a one month marketing budget of $2,400 will be used to promote the site. A second proposal would follow, with a report about the success of the marketing effort and request for more funds to do more marketing and produce more artworks. This proposal was previously discussed on [reddit](https://www.reddit.com/r/decred/comments/jkmhbv/whydecredcom_proposal_open_talk/), and also involved a twitter [poll](https://twitter.com/ParisSmithson/status/1323071532692897792) about the choice between cheaper and more expensive artwork.
 
 Comments on the proposal appreciate the initiative that has been shown to put up the site and start producing art, but some take issue with the high number of pieces to be produced under the scope of a first proposal.
 
@@ -57,7 +57,7 @@ All of the proposals for the decred.org messaging RFP were rejected:
 
 ## Other news
 
-Politeia reached two years in operation on Oct 16, check out this [post](https://blockcommons.red/publication/politeia-at-2/) with stats for the second year. 
+Politeia reached two years in operation on Oct 16, check out this [post](https://blockcommons.red/publication/politeia-at-2/) with stats for the second year.
 
 ## About this issue
 
