@@ -1,8 +1,8 @@
-# Politeia Digest #41 - January 29 - March 19 2021
+# Politeia Digest #41 - January 29 - March 20 2021
 
-![Image credit: {name}](img/{path})
+![Image credit: @sænder](img/issue041/041-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 659,371 DCR (approx +11,288 DCR/month) - $110 million (+$1.8M/month) based on $166.53 DCR price**
 
 ## Proposals open for voting
 
@@ -10,7 +10,7 @@
 
 Published Mar 11 by bee | edited Mar 15 | 3 comments
 
-Voting figures as of writing: {} Yes votes, {} No votes ({}% Yes) - voter participation of {}%
+Voting figures as of writing: 10,108 Yes votes, 491 No votes (95.4% Yes) - voter participation of 25%
 
 This proposal requests a maximum budget of $16,500 to cover 11 months of work, with an estimate of $8,800 for the amount that will be billed in the period. This is a renewal of a previous [proposal](https://proposals.decred.org/proposals/32cba00), which passed with 73% approval. The proposal lists moderators on various platforms and the expected and maximum budget for moderation activities on each platform, while noting that some moderators do not ask for payment and on some platforms (Reddit) they aren't allowed to be compensated. With voting already more than halfway through, this is the proposal with the least comments, just 3 - they're all positive but 2 are from the same commenter and the other is a reply from @bee.
 
@@ -58,10 +58,14 @@ This proposal set a new record for voter participation!
 
 *Recap: This proposal requested a budget of $17,500 to write a book over 8-10 months, publishing excerpts as articles along the way. The subject matter would follow on from @ammarooni's previous research, funded through a [phase 1](https://proposals.decred.org/proposals/65bde41) research proposal. Over the course of 8-10 research papers @ammarooni would explore DCR as a monetary asset and Decred as a DAO, with the material pitched at a general financial audience. The budget is composed of hourly billing ($16K) and a $1.5K payment upon publication of the book to cover associated costs. Almost all of the comments on the proposal are supportive, except for some from @atweiden, and @ammarooni even managed to turn that [around](https://proposals.decred.org/proposals/9e1d644/comments/17)!*
 
+## Other News
+
+@pavel has provided an [update](https://github.com/decredcommunity/proposals/blob/master/proposals/2bf72e/updates/20210313.md) on the withDecred.org marketing [proposal](https://proposals.decred.org/proposals/2bf72e6).
+
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Snapshot of Politeia data for this issue is based on this [commit](https://github.com/decred-proposals/mainnet/commit/b29da9a76522af692cadd6124dee80ab680beb57).
 
-Content for this edition was authored by {name} with fixes from @bee.
+Content for this edition was authored by @richardred with fixes from @bee.
 
-Image credit: {name}
+Image credit: @sænder
