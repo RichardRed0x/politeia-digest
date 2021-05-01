@@ -1,6 +1,6 @@
 # Politeia Digest #30 - Mar 23 - Apr 15 2020
 
-![Image credit: @sænder](img/issue030/030-title.png)
+![Image credit: @30000fps](img/issue030/030-title.png)
 
 **Treasury balance: 645,409 (approx +13,326 DCR/month) - $7.7 million (+$158k/month) based on $11.86 DCR price**
 
@@ -74,4 +74,4 @@ Snapshot for this issue based on this [commit](https://github.com/decred-proposa
 
 Content for this edition was authored by @richardred with fixes from @bee and @degeri.
 
-Image credit: @sænder
+Image credit: @30000fps

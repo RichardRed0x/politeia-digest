@@ -1,6 +1,6 @@
 # Politeia Digest #34 - July 20 - Aug 8 2020
 
-![Image credit: @sænder](img/issue034/034-title.jpg)
+![Image credit: @30000fps](img/issue034/034-title.jpg)
 
 **Treasury balance: 633,562 DCR (approx +12,470 DCR/month) - $10.3 million (+$203k/month) based on $16.26 DCR price**
 
@@ -72,4 +72,4 @@ Snapshot of Politeia data for this issue is based on this [commit](https://githu
 
 Content for this edition was authored by @richardred with fixes from @bee.
 
-Image credit: @sænder
+Image credit: @30000fps
