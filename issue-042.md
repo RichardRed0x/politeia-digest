@@ -40,6 +40,8 @@ All of the comments on the proposal are supportive.
 
 Politeia was on a brief [hiatus](https://twitter.com/decredproject/status/1382793946993209344) in the run-up to the migration to v1.0.0 - this could not be deployed when proposals were making their way through the submission -> discussion -> voting flow.
 
+A [list](https://decredcommunity.github.io/proposals/approved) of active and recently ended proposals has been added to the Decred Community GitHub pages site, along with details of budgets, start and end dates.
+
 ## About this issue
 
 Content for this edition was authored by @richardred with fixes from @bee.
