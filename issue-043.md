@@ -36,6 +36,12 @@ Published Apr 28 by lukebp | edited May 6 | 13 comments (+11)
 
 Final voting figures: 17,787 Yes votes, 288 No votes (98.4% Yes) - voter participation of 44%.
 
+## Updates on approved proposals
+
+@JoeGruff posted a quick [update](https://github.com/decredcommunity/proposals/blob/master/proposals/3943bff/updates/20210508.md) on Decred Address Scanner [proposal](https://proposals.decred.org/proposals/3943bff), listing completed tasks and remaining budget.
+
+@chappjc shared an [update](https://www.reddit.com/r/decred/comments/n9i8z2/dcrdex_updates_v02_release_decrediton_integration/) on DCRDEX [Phase 2](https://proposals.decred.org/proposals/d462ac3) development, covering latest v0.2 release, the scope of initial Decrediton integration and what's coming next.
+
 ## About this issue
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
