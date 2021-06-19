@@ -1,6 +1,6 @@
 # Politeia Digest #43 - May 2 - June 18 2021
 
-![Image credit: {name}](img/{path})
+![Image credit: @30000fps](img/issue043/043-title.png)
 
 **Treasury balance: 688,891 DCR (approx +10,848 DCR/month) - $82.1 million (+$1.3 million/month) based on $119.22 DCR price**
 
@@ -44,8 +44,7 @@ Final voting figures: 17,787 Yes votes, 288 No votes (98.4% Yes) - voter partici
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Content for this edition was authored by @richardred with fixes from @bee.
 
-Content for this edition was authored by {name} with fixes from {name}.
+Image credit: @30000fps
 
-Image credit: {name}
