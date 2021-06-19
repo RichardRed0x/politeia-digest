@@ -16,7 +16,7 @@ The comments on the proposal are supportive and value the service provided by th
 
 **[Explicit Version Upgrades Consensus Change](https://proposals.decred.org/record/3a98861)**
 
-Published Jun 8 by davecgh | 19 comments 
+Published Jun 8 by davecgh | 19 comments
 
 This proposal outlines a new consensus rules change, it projects costs of $6,000 to produce the code and DCP, to be drawn from the core network development budget. The proposal is structured around two parts, one which gives a general overview of what the aim is, and another which gives a detailed technical account of how the changes will work. The aim of the change is to streamline the consensus change deployment process, so that future changes can be developed and rolled out more efficiently. While the proposed change streamlines the existing method of deploying stakeholder-approved hard forks, it will make it much more difficult to deploy any changes to consensus rules via a soft fork.
 
@@ -26,7 +26,7 @@ Comments on the proposal are very supportive, and include a number from other De
 
 Published Jun 15 by kozel | 1 comments
 
-This proposal requests a budget of $33,000 for translation efforts over the remainder of 2021, eight months including work completed in May. The previous phase reported an underspend , using only $14,690 of the $33,000 budget. Decred Journal translations were the largest item, accounting for half of the budget, and a new release of Decrediton meant that  software translations accounted for a larger than anticipated share of the spending on phase 1. @bee has stepped in to assist with management of the proposal, including by maintaining a translations [index](https://github.com/decredcommunity/translations/blob/master/index.md) (which also includes some translations not funded by the proposal).
+This proposal requests a budget of $33,000 for translation efforts over the remainder of 2021, eight months including work completed in May. The previous phase reported an underspend, using only $14,690 of the $33,000 budget. Decred Journal translations were the largest item, accounting for half of the budget, and a new release of Decrediton meant that software translations accounted for a larger than anticipated share of the spending on phase 1. @bee has stepped in to assist with management of the proposal, including by maintaining a translations [index](https://github.com/decredcommunity/translations/blob/master/index.md) (which also includes some translations not funded by the proposal).
 
 ## Approved proposals
 
