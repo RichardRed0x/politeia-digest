@@ -1,8 +1,8 @@
 # Politeia Digest #44 - June 19 - July 18 2021
 
-![Image credit: {name}](img/{path})
+![Image credit: @30000fps](img/issue044/044-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 698,260 DCR (approx + 10,634 DCR/month) - $79.1 million (+$1.2M/month) based on $113.33 DCR price**
 
 ## Proposals open for voting
 
@@ -10,7 +10,7 @@
 
 Published Jul 6 by rstaudt | edited Jul 6 | 14 comments
 
-Voting figures as of writing: {} Yes votes, {} No votes ({}% Yes) - voter participation of {}%, support from {}% of tickets.
+Voting figures as of writing: 11,920 Yes votes, 330 No votes (97.3% Yes) - voter participation of 30%.
 
 This proposal outlines a new consensus rules change, it projects costs of $10,000 to produce the code and DCP, to be drawn from the core network development budget. The purpose of this consensus change is to automate the ticket revocation process - this would simplify the user experience by obviating the need to revoke tickets manually. Additionally, this would be of significant benefit to the small number of tickets which are stuck in an unrevoked state - with the original Voting Service Provider (VSP) there was a redeem script which users needed to keep to redeem their tickets in a case where the VSP disappeared while tickets were unvoted, and the user had never voted any previous tickets with that VSP. According to a quick [report](https://github.com/rstaudt2/dcrd/blob/7aa2a239cf3748bef1402f615033b2c5c25ce779/unrevoked_ticket_stats.csv) produced by @rstaudt there are just under 2,000 tickets in this kind of unrevoked state. If implemented, this consensus change would make all future revocations automatic (miners would have to include these transactions for their blocks to be valid). A secondary step would see a script produced which performs a one-time revocation of all the legacy unrevoked tickets.
 
@@ -18,9 +18,9 @@ The comments on the proposal are supportive of this change, and include a detail
 
 **[Twitter Bot Phase 1 @StakeShuffle_](https://proposals.decred.org/record/2895755)**
 
-Published Jun 29 by coinshuffle_bot | edited Jul 5| {n} comments (+{})
+Published Jun 29 by coinshuffle_bot | edited Jul 5| 15 comments
 
-Voting figures as of writing: {} Yes votes, {} No votes ({}% Yes) - voter participation of {}%, support from {}% of tickets.
+Voting figures as of writing: 8,831 Yes votes, 1,103 No votes (88.9% Yes) - voter participation of 24%.
 
 This proposal seeks retroactive funding for development of the [StakeShuffle Twitter Bot](https://twitter.com/StakeShuffle_) - a total of $2,240 for work completed so far (estimated to be around 280 hours). The proposal owner developed the bot after seeing requests from @thebochinchero and @checkmate for this kind of bot, it turned into a bigger job than they were expecting, and although they received some DCR tips initially these were deemed insufficient to support its continued development. If this proposal is approved, work will commence on Phase 2, incorporating a number of new metrics [suggested](https://proposals.decred.org/record/2895755/comments/4) by @checkmate, and a further proposal will then be submitted which requests reimbursement for this work.
 
@@ -30,7 +30,7 @@ Comments raised a number of issues which @coinshuffle_bot has responded to by ed
 
 **[Daylight Robbery - Dominic Frisby Documentary Proposal](https://proposals.decred.org/record/ae609f1)**
 
-Published Jul 16 by frizzers | edited Jul 18 | {n} comments (+{})
+Published Jul 16 by frizzers | edited Jul 18 | 60 comments
 
 This proposal requests $300,000 (down from initial $495,000) to produce a 90-100 minute documentary film based on @frizzers' book "[Daylight Robbery](https://www.penguin.co.uk/books/309/309526/daylight-robbery/9780241360842.html)". Decred would be the "sponsor-advertiser and publisher-broadcaster" of the film, and the film would be released into the public domain with no copyright restrictions. The film would not feature Decred heavily but would reference it in a section on " future governance systems, private money and digital nomads". The proposal also introduces @frizzers' background as a comedian, voice actor and financial writer, and references a recently recorded [interview](https://youtu.be/ZCfIM8IHurU) with @jy-p. The proposal also introduces Alex Webster, who would be the editor and main collaborator on the project. Payments for the proposal are structured around 4 milestones - $150,000 covering pre-production and production, $150,000 for post-production and marketing (at this point whoever is reviewing the invoice can inspect the final product). The benefits to Decred are envisioned to result from major recognition of the film as "the first open-source DAO-funded documentary".
 
@@ -66,6 +66,6 @@ This proposal requests a budget of $33,000 for translation efforts over the rema
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by {name} with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from {name}.
 
-Image credit: {name}
+Image credit: @30000fps
