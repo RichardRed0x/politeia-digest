@@ -66,6 +66,6 @@ This proposal requests a budget of $33,000 for translation efforts over the rema
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by @richardred with fixes from {name}.
+Content for this edition was authored by @richardred.
 
 Image credit: @30000fps
