@@ -48,7 +48,7 @@ In a Twitter [thread](https://twitter.com/lukebp_/status/1418216538193203200) @l
 
 **[Twitter Bot Phase 1 @StakeShuffle_](https://proposals.decred.org/record/2895755)**
 
-Published Jun 29 by coinshuffle\_bot | edited Jul 5| 20 comments (+5)
+Published Jun 29 by coinshuffle\_bot | edited Jul 5 | 20 comments (+5)
 
 Final voting figures: 15,912 Yes votes, 2,742 No votes (85.3% Yes) - voter participation of 46%.
 
