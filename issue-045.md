@@ -44,6 +44,8 @@ Final voting figures: 19,809 Yes votes, 1,078 No votes (94.8% Yes) - voter parti
 
 Recap: *This proposal outlines a new consensus rules change, it projects costs of $10,000 to produce the code and DCP, to be drawn from the core network development budget. The purpose of this consensus change is to automate the ticket revocation process - this would simplify the user experience by obviating the need to revoke tickets manually. Additionally, this would be of significant benefit to the small number of tickets which are stuck in an unrevoked state - with the original Voting Service Provider (VSP) there was a redeem script which users needed to keep to redeem their tickets in a case where the VSP disappeared while tickets were unvoted, and the user had never voted any previous tickets with that VSP. According to a [report](https://gist.github.com/davecgh/01fd24849a9e9a6d822d6d04eba7075d) produced by @davecgh there are just under 1,867 tickets in this kind of unrevoked state, locking a combined total of 196,750 DCR. If implemented, this consensus change would make all future revocations automatic (miners would have to include these transactions for their blocks to be valid). A secondary step would see a script produced which performs a one-time revocation of all the legacy unrevoked tickets.*
 
+In a Twitter [thread](https://twitter.com/lukebp_/status/1418216538193203200) @lukebp pointed out that this consensus change is notable for not coming from the original developers, and for demonstrating Decred's fundamental ability to improve base layer UX.
+
 **[Twitter Bot Phase 1 @StakeShuffle_](https://proposals.decred.org/record/2895755)**
 
 Published Jun 29 by coinshuffle\_bot | edited Jul 5| 20 comments (+5)
@@ -52,10 +54,12 @@ Final voting figures: 15,912 Yes votes, 2,742 No votes (85.3% Yes) - voter parti
 
 Recap: *This proposal seeks retroactive funding for development of the [StakeShuffle Twitter Bot](https://twitter.com/StakeShuffle_) - a total of $2,240 for work completed so far (estimated to be around 280 hours). The proposal owner developed the bot after seeing requests from @thebochinchero and @checkmate for this kind of bot, it turned into a bigger job than they were expecting, and although they received some DCR tips initially these were deemed insufficient to support its continued development. If this proposal is approved, work will commence on Phase 2, incorporating a number of new metrics [suggested](https://proposals.decred.org/record/2895755/comments/4) by @checkmate, and a further proposal will then be submitted which requests reimbursement for this work.*
 
+Following the approval the author has requested [feedback](https://twitter.com/StakeShuffle_/status/1418895005050155011) on how new metrics and alerts should work.
+
 ## About this issue
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by {name} with fixes from {name}.
+Content for this edition was authored by {name} with fixes from @bee.
 
 Image credit: {name}
