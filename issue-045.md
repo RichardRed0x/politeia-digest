@@ -28,7 +28,7 @@ Comments on the proposal range from thinking it's a joke making fun of the other
 
 **[Daylight Robbery - Dominic Frisby Documentary Proposal](https://proposals.decred.org/record/ae609f1)**
 
-Published Jul 16 by frizzers | edited Jul 26 | 103 comments (+43)
+Published Jul 15 by frizzers | edited Jul 26 | 103 comments (+43)
 
 *Recap: This proposal requests $300,000 (down from initial $495,000) to produce a 90-100 minute documentary film based on @frizzers’ book “[Daylight Robbery](https://www.penguin.co.uk/books/309/309526/daylight-robbery/9780241360842.html)”. Decred would be the “sponsor-advertiser and publisher-broadcaster” of the film, and the film would be released into the public domain with no copyright restrictions. The film would not feature Decred heavily but would reference it in a section on “future governance systems, private money and digital nomads”. The proposal also introduces @frizzers’ background as a comedian, voice actor and financial writer, and references a recently recorded [interview](https://youtu.be/ZCfIM8IHurU) with @jy-p. The proposal also introduces Alex Webster, who would be the editor and main collaborator on the project. Payments for the proposal are structured around 4 milestones - $150,000 covering pre-production and production, $150,000 for post-production and marketing (at this point whoever is reviewing the invoice can inspect the final product). The benefits to Decred are envisioned to result from major recognition of the film as “the first open-source DAO-funded documentary”.*
 
@@ -38,7 +38,7 @@ The proposal has now accumulated 25 different versions, as @frizzers refines the
 
 **[Automatic Ticket Revocations Consensus Change](https://proposals.decred.org/record/e2d7b7d)**
 
-Published Jul 6 by rstaudt | edited Jul 6 | 18 comments (+4)
+Published Jul 6 by rstaudt2 | edited Jul 6 | 18 comments (+4)
 
 Final voting figures: 19,809 Yes votes, 1,078 No votes (94.8% Yes) - voter participation of 51%.
 
@@ -46,7 +46,7 @@ Recap: *This proposal outlines a new consensus rules change, it projects costs o
 
 **[Twitter Bot Phase 1 @StakeShuffle_](https://proposals.decred.org/record/2895755)**
 
-Published Jun 29 by coinshuffle_bot | edited Jul 5| 20 comments (+5)
+Published Jun 29 by coinshuffle\_bot | edited Jul 5| 20 comments (+5)
 
 Final voting figures: 15,912 Yes votes, 2,742 No votes (85.3% Yes) - voter participation of 46%.
 
