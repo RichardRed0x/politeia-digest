@@ -1,14 +1,14 @@
 # Politeia Digest #45 - July 19 - July 28 2021
 
-![Image credit: {name}](img/{path})
+![Image credit: @30000fps](img/issue045/045-title.png)
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 702,029 DCR (approx +10,634 DCR/month) - $98.6 million (+$1.5M/month) based on $140.45 DCR price**
 
 ## New proposals
 
 **[Dubai Crypto Conference Participation](https://proposals.decred.org/record/51c4128)**
 
-Published Jul 25 by sz1 | edited Jul 26 | {n} comments (+{})
+Published Jul 25 by sz1 | edited Jul 26 | 15 comments
 
 This proposal requests funding for Decred representation at Crypto Expo Dubai in October 2021. The proposal originally offered two options (one with a presentation and booth, another costing $1,000 less with no booth), but the booth option became [unavailable](https://proposals.decred.org/record/51c4128/comments/6) and the proposal was edited to offer a new choice to the stakeholder community: An optional presentation costing $5,000, plus a budget of $21,240 for travel and accommodation for Decred representatives attending the conference plus merchandise to give away. The proposal will be edited to only offer option A (with presentation, $26,240) or B (no presentation, $21,240) based on community feedback, before it is authorized for voting. The budgets are based on 4 Decred representatives attending in person and having to be flown in for the event - it could be reduced through the use of local representatives, and @sz1 is looking for people who are interested in representing Decred at the event.
 
@@ -16,7 +16,7 @@ The comments are split between those who oppose this kind of conference spending
 
 **[Decred Becomes Storyteller Proposal](https://proposals.decred.org/record/a3fa55f)**
 
-Published Jul 26 by anis.shlewet | {n} comments (+{})
+Published Jul 26 by anis.shlewet | 15 comments 
 
 This proposal requests a budget of $398,346 for the production of five 3-minute episodes of a science fiction miniseries. The proposal owner is an independent film [producer](https://www.imdb.com/name/nm3222266/) with a record of making sci-fi films and shorts, another producer and effects company are on board but writer and director remain to be hired. The proposal contains an extensive section about how the miniseries would be made, but on the subject of what it would be like and why it is relevant to Decred much less is said.
 
@@ -58,8 +58,6 @@ Following the approval the author has requested [feedback](https://twitter.com/S
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this [commit]({link}).
+Content for this edition was authored by @richardred with fixes from @bee.
 
-Content for this edition was authored by {name} with fixes from @bee.
-
-Image credit: {name}
+Image credit: @30000fps
