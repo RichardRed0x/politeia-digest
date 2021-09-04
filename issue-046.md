@@ -2,7 +2,7 @@
 
 ![Image credit: @30000fps](img/issue046/046-title.png)
 
-**Treasury balance: 714,096 DCR (approx +10,424 DCR/month) - $129 million (+$189k/month) based on $181.30 DCR price**
+**Treasury balance: 714,096 DCR (approx +10,424 DCR/month) - $129 million (+$189K/month) based on $181.30 DCR price**
 
 ## New proposals
 
