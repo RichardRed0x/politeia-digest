@@ -44,7 +44,7 @@ Another 9 comments meant this was the most discussed Politeia proposal so far by
 
 ## About this issue
 
-Content for this edition was authored by @richardred with review by @bee and @degeri.
+Content for this edition was authored by @richardred with review and minor fixes from @bee and @degeri.
 
 Image credit: @30000fps
 
