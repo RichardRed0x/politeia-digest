@@ -16,7 +16,7 @@ Comments are positive about the proposal, including one from @lukebp supporting 
 
 **[Educational Video series for Decred in the Indian Market](https://proposals.decred.org/record/150cf81)**
 
-Published Aug 26 by finstreet21 | 8 comments
+Published Aug 28 by finstreet21 | 8 comments
 
 This proposal requests a budget of $9,800 to make videos about Decred for the Indian market in the Hindi language. The proposal comes from Finstreet, an Indian Crypto Education Platform. The proposal is broken into three tranches with their own milestones and budgets. Each milestone includes a tutorial video, 3-4 webinars, some short videos and a banner. The proposal also lists a number of projects, and the WazirX exchange, which Finstreet has worked with. It is not clear how some of the descriptions for content of these videos relate to Decred, like "the integration of Adaptable DeFi" and "showing all the merits of Decred over other Derivative Trading Platforms".
 
