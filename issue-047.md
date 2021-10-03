@@ -2,7 +2,7 @@
 
 ![Image credit: {name}](img/{path})
 
-**Treasury balance: {} DCR (approx +{} DCR/month) - ${} million (+${}k/month) based on ${} DCR price**
+**Treasury balance: 723,671 DCR (approx +10,321 DCR/month) - $84.5 million (+$1.2M/month) based on $116.75 DCR price**
 
 ## New proposals
 
@@ -20,7 +20,7 @@ Published Sep 22 by raedah | 5 comments
 
 This proposal requests $72,000 for continued work on developing mobile wallets for iOS and Android, covering May 2021 to April 2022. Major achievements since the last [proposal](https://proposals-archive.decred.org/proposals/bc499c9) was approved are reflected in the v1.6 release, which includes StakeShuffle privacy, Politeia proposal viewing and notifications, and a Dark Mode for the UI. Links and changelogs and contribution graphs on GitHub are provided by way of progress report.
 
- Most of the comments are ech
+ Most of the comments are echoing the author's sentiments on the GoDCR proposal.
 
 ## Approved proposals
 
@@ -45,8 +45,6 @@ Final voting figures: 14,138 Yes votes, 17,202 No votes (45% Yes) - voter partic
 New record for voter participation!
 
 *Recap: This proposal requests a budget of $9,800 to make videos about Decred for the Indian market in the Hindi language. The proposal comes from Finstreet, an Indian Crypto Education Platform. The proposal is broken into three tranches with their own milestones and budgets. Each milestone includes a tutorial video, 3-4 webinars, some short videos and a banner. The proposal also lists a number of projects, and the WazirX exchange, which Finstreet has worked with. It is not clear how some of the descriptions for content of these videos relate to Decred, like "the integration of Adaptable DeFi" and "showing all the merits of Decred over other Derivative Trading Platforms".*
-
-
 
 ## About this issue
 
