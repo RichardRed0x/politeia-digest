@@ -1,6 +1,6 @@
 # Politeia Digest #47 - Sep 4 - Oct 3 2021
 
-![Image credit: {name}](img/{path})
+![Image credit: @30000fps](img/issue047/047-title.png)
 
 **Treasury balance: 723,671 DCR (approx +10,321 DCR/month) - $84.5 million (+$1.2M/month) based on $116.75 DCR price**
 
@@ -50,6 +50,6 @@ New record for voter participation!
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by {name} with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from {name}.
 
-Image credit: {name}
+Image credit: @30000fps
