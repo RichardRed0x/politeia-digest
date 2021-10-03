@@ -20,7 +20,7 @@ Published Sep 22 by raedah | 5 comments
 
 This proposal requests $72,000 for continued work on developing mobile wallets for iOS and Android, covering May 2021 to April 2022. Major achievements since the last [proposal](https://proposals-archive.decred.org/proposals/bc499c9) was approved are reflected in the v1.6 release, which includes StakeShuffle privacy, Politeia proposal viewing and notifications, and a Dark Mode for the UI. Links and changelogs and contribution graphs on GitHub are provided by way of progress report.
 
- Most of the comments are echoing the author's sentiments on the GoDCR proposal.
+Most of the comments are echoing the author's sentiments on the GoDCR proposal.
 
 ## Approved proposals
 
@@ -30,7 +30,7 @@ Published Aug 26 by lindseymmc | 12 comments
 
 Final voting figures: 29,960 Yes votes, 778 No votes (97% Yes) - voter participation of 75%.
 
-New record for Yes votes! 
+New record for Yes votes!
 
 *Recap: This proposal seeks to extend the [current](https://proposals-archive.decred.org/proposals/c81926b) arrangement with Monde PR by another year, at a cost of $3,500 per month ($42,000 for the year). A summary of the last year's activity is provided, 65 pieces of coverage were secured with syndications to 343 publications. The proposal also [links](https://github.com/decredcommunity/outreach/blob/data/data/monde-pr-media-coverage.csv) to a full list of articles that covered Decred as a result of Monde's efforts. Highlights for the year included DCRDEX launch coverage in publications like Fortune's The Ledger, MarketWatch, Geek Insider, Bitcoin Insider, Crowdfund Insider, Crypto Potato and Benzinga. Most of the placements in higher tier publications were in the form of expert commentary from project contributors however.*
 
