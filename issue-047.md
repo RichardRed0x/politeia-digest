@@ -50,6 +50,6 @@ New record for voter participation!
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by @richardred with fixes from {name}.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @30000fps
