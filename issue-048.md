@@ -10,7 +10,7 @@
 
 Published Oct 25 by ammarooni | edited Nov 1 | 17 comments
 
-This proposal requests $12,000 for around 6 months of work producing research papers, social media posts, memes and meetups. It is a revised version of a previous [proposal](https://proposals.decred.org/proposals/9e1d644) which had the same kind of content but as part of a book - this proposal was narrowly rejected with 57% Yes votes. The proposed outreach would focus on DCR as a sound money asset and Decred as a leading DAO. Primary deliverables would be 5-6 articles, secondary deliverables would be memes and social media outreach to support the primary deliverables, plus through @DecredCanada to promote a couple of meetups in the Toronto area. The proposed spending breakdown is $10,000 on research papers and $2,000 on memes and meetups.
+This proposal requests $12,000 for around 6 months of work producing research papers, social media posts, memes, and meetups. It is a revised version of a previous [proposal](https://proposals.decred.org/proposals/9e1d644) which had the same kind of content but as part of a book - this proposal was narrowly rejected with 57% Yes votes. The proposed outreach would focus on DCR as a sound money asset and Decred as a leading DAO. Primary deliverables would be 5-6 articles, secondary deliverables would be memes and social media outreach to support the primary deliverables, plus through @DecredCanada to promote a couple of meetups in the Toronto area. The proposed spending breakdown is $10,000 on research papers and $2,000 on memes and meetups.
 
 Almost all of the comments are very positive and supportive of the proposal. The only negative comments come from @decredinator, but this one harks back to previous failed proposals about "Bitcoin Evolution" and [tax documentaries](https://proposals.decred.org/record/ae609f1) - and even this one is considering a yes vote, "better than nothing I suppose".
 
@@ -22,7 +22,7 @@ Published Sep 22 by raedah | edited Oct 7 | 6 comments (+1)
 
 Final voting figures: 26,212 Yes votes, 745 No votes (97.2% Yes) - voter participation of 66%.
 
-*Recap: This proposal requests $72,000 for continued work on developing mobile wallets for iOS and Android, covering May 2021 to April 2022. Major achievements since the last [proposal](https://proposals.decred.org/proposals/bc499c9) was approved are reflected in the v1.6 release, which includes StakeShuffle privacy, Politeia proposal viewing and notifications, and a Dark Mode for the UI. Links and changelogs and contribution graphs on GitHub are provided by way of progress report.*
+*Recap: This proposal requests $72,000 for continued work on developing mobile wallets for iOS and Android, covering May 2021 to April 2022. Major achievements since the last [proposal](https://proposals.decred.org/proposals/bc499c9) was approved are reflected in the v1.6 release, which includes StakeShuffle privacy, Politeia proposal viewing and notifications, and a Dark Mode for the UI. Links and changelogs and contribution graphs on GitHub are provided by way of a progress report.*
 
 The proposal was edited to add more description of the work done, such as major pull requests, before voting was authorized.
 
@@ -40,7 +40,7 @@ The proposal was edited to add more description of the work done, such as major 
 
 ## Other News
 
-Politeia passed the third anniversary of its launch on October 16th, and this [post](https://blockcommons.red/publication/politeia-at-3/) from @richardred has some stats and graphs about the last year, and the first three years in general.
+Politeia passed the third anniversary of its launch on October 16th, and this [post](https://blockcommons.red/publication/politeia-at-3/) from @richardred has some stats and graphs about the last year and the first three years in general.
 
 ![](img/issue048/proposal-participation-and-approval-in-order.png)
 
