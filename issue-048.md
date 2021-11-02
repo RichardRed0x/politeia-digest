@@ -48,6 +48,6 @@ Politeia passed the third anniversary of its launch on October 16th, and this [p
 
 Snapshot of Politeia data for this issue is based on this [commit]({link}).
 
-Content for this edition was authored by @richardred with fixes from @bee.
+Content for this edition was authored by @richardred with fixes from @bee and @degeri.
 
 Image credit: @30000fps
