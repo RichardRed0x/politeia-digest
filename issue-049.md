@@ -32,13 +32,13 @@ Most of the comments are supportive of the proposal, including a warm [exchange]
 
 **[Decred Economic Education and Outreach](https://proposals.decred.org/record/c1f5b5c)**
 
-Published Oct 25 by ammarooni | edited Nov 1 | 17 comments
+Published Oct 25 by ammarooni | edited Nov 1 | 24 comments
 
-Final voting figures: 26,212 Yes votes, 745 No votes (97.2% Yes) - voter participation of 66%.
+Final voting figures: 9,493 Yes votes, 18,765 No votes (33.6% Yes) - voter participation of 70%.
 
 *Recap: This proposal requested $12,000 for around 6 months of work producing research papers, social media posts, memes, and meetups. It is a revised version of a previous [proposal](https://proposals.decred.org/proposals/9e1d644) which had the same kind of content but as part of a book - this proposal was narrowly rejected with 57% Yes votes. The proposed outreach would focus on DCR as a sound money asset and Decred as a leading DAO. Primary deliverables would be 5-6 articles, secondary deliverables would be memes and social media outreach to support the primary deliverables, plus through @DecredCanada to promote a couple of meetups in the Toronto area. The proposed spending breakdown is $10,000 on research papers and $2,000 on memes and meetups.*
 
-Although the proposal was rejected, @ammarooni was encouraged to put up a donation address by some community members and then hit the [funding](https://twitter.com/Ammarooni/status/1458541211673931778) target of $12k in under 12 hours, thanks to 30 different transactions donating DCR. 
+Although the proposal was rejected, @ammarooni was encouraged to put up a donation address by some community members and then hit the [funding](https://twitter.com/Ammarooni/status/1458541211673931778) target of $12K in under 12 hours, thanks to 30 different transactions donating DCR.
 
 ## About this issue
 
