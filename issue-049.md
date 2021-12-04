@@ -42,8 +42,6 @@ Although the proposal was rejected, @ammarooni was encouraged to put up a donati
 
 ## About this issue
 
-Snapshot of Politeia data for this issue is based on this commit.
-
 Content for this edition was authored by @richardred with fixes from @degeri and @davecgh.
 
 Image credit: @30000fps
