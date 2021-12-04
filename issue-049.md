@@ -1,6 +1,6 @@
 # Politeia Digest #49 - Nov 2 - Dec 3 2021
 
-![Image credit: @30000fps](img/issue048/048-title.png)
+![Image credit: @30000fps](img/)
 
 **Treasury balance: 742,662 DCR (approx +10,018 DCR/month) - $80 million (+$1.08M/month) based on $108 DCR price**
 
