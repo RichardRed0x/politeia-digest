@@ -1,6 +1,6 @@
 # Politeia Digest #49 - Nov 2 - Dec 3 2021
 
-![Image credit: @30000fps](img/)
+![Image credit: @30000fps](img/issue049/049-title.png)
 
 **Treasury balance: 742,662 DCR (approx +10,018 DCR/month) - $80 million (+$1.08M/month) based on $108 DCR price**
 
@@ -40,18 +40,10 @@ Final voting figures: 26,212 Yes votes, 745 No votes (97.2% Yes) - voter partici
 
 Although the proposal was rejected, @ammarooni was encouraged to put up a donation address by some community members and then hit the [funding](https://twitter.com/Ammarooni/status/1458541211673931778) target of $12k in under 12 hours, thanks to 30 different transactions donating DCR. 
 
-## Other News
-
-
-
-
-
-
-
 ## About this issue
 
 Snapshot of Politeia data for this issue is based on this commit.
 
-Content for this edition was authored by @richardred with fixes from {@bee and @degeri}.
+Content for this edition was authored by @richardred with fixes from @degeri and @davecgh.
 
 Image credit: @30000fps
