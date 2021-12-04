@@ -42,6 +42,6 @@ Although the proposal was rejected, @ammarooni was encouraged to put up a donati
 
 ## About this issue
 
-Content for this edition was authored by @richardred with fixes from @degeri and @davecgh.
+Content for this edition was authored by @richardred with fixes from @bee, @degeri and @davecgh.
 
 Image credit: @30000fps
