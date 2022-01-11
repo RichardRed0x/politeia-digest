@@ -1,6 +1,6 @@
 # Politeia Digest #50 - Dec 4 2021 - Jan 10 2022
 
-![Image credit: @30000fps](img/issue050/050-title.png)
+![Image credit: @sænder](img/issue050/050-title.png)
 
 **Treasury balance: 755,221 DCR (approx +9,820 DCR/month) - $40.7 million (+$530K/month) based on $53.95 DCR price**
 
@@ -28,7 +28,7 @@ Comments on the proposal are very supportive.
 
 Published Nov 26 by jy-p | 166 comments (+31)
 
-Final voting figures: 30,285 Yes votes, 2,743 No votes (91.7% Yes) - voter participation of 79% - a new all-time high! { right? }.
+Final voting figures: 30,285 Yes votes, 2,743 No votes (91.7% Yes) - voter participation of 79% - a new all-time high!
 
 The highest ever voter participation on this proposal exposed bug that prevented some votes from being cast. Around Dec 9 18:36 UTC the vote count surpassed 32,767 votes and hit an unintended internal limit. In the remaining ~25 hours of voting, clients were unable to cast their votes or start new vote trickling processes with politeiavoter (trickling that had started prior to the last ~25 hours could still continue). Importantly, the bug could not have changed the vote outcome, e.g. even if 8,752 remaining eligible tickets all voted No it would still pass with 79% Yes. The fix deployed with the [v1.3.1 release](https://github.com/decred/politeia/releases/tag/v1.3.1). See [#1605](https://github.com/decred/politeia/pull/1605) for technical details.
 
@@ -46,4 +46,4 @@ Final voting figures: 25,079 Yes votes, 441 No votes (98.3% Yes) - voter partici
 
 Content for this edition was authored by @richardred with fixes from @bee, @degeri and @davecgh.
 
-Image credit: @30000fps
+Image credit: @sænder
