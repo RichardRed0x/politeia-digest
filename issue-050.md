@@ -28,11 +28,15 @@ Comments on the proposal are very supportive.
 
 Published Nov 26 by jy-p | 166 comments (+31)
 
+Final voting figures: 30,285 Yes votes, 2,743 No votes (91.7% Yes) - voter participation of 79% - a new all-time high! { right? }.
+
 *Recap: This proposal would change the issuance of new DCR from the current proportion (60% PoW, 30% PoS, 10% Treasury) to lower the share of rewards going to PoW miners to 10%, and re-allocate those rewards to PoS voters who would then receive 80% of newly issued DCR. The rationale for the change is based on the [work of @tacorevenge](https://medium.com/@tacorevenge/the-suppressor-part-2-on-chain-analysis-6561c5a478c4) which suggests malicious dumping of mined DCR on the part of a small number of actors who control the majority of Decred's PoW hashrate. The proposal reconsiders the observed reality of Decred's PoW in relation to the theory which had informed the original distribution schedule, finding that the marketplace for Decred ASICs and hashrate is dysfunctional and such a heavy weighting towards PoW is not in the project's interests. The proposal also mentions some little known history, in that @tacotime (Decred co-founder) had originally argued for a split of 30/60/10 to PoW/PoS/Treasury. The change to consensus rules which would bring about this change is described as not technically challenging to implement and a timeframe of 2-6 weeks is given.*
 
 **[Decred Arabia Communications and Content 2022](https://proposals.decred.org/record/0ff082d)**
 
 Published Nov 24 by arij | 11 comments
+
+Final voting figures: 25,079 Yes votes, 441 No votes (98.3% Yes) - voter participation of 61%.
 
 *Recap: This proposal requests $10,600 to extend the work of the current proposal for another 10-12 months. The previous proposal had a budget of $6,200 for 6 months but only $2,120 was used. An overview of the last period's activities is provided, these included a limited number of events due to COVID-19 restrictions. For the coming year, the proposal projects most of the budget being spent on events, with $2,100 for producing videos.*
 
