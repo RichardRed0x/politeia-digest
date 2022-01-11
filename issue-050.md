@@ -2,7 +2,7 @@
 
 ![Image credit: @30000fps](img/issue050/050-title.png)
 
-**Treasury balance: 755,221 DCR (approx +9,820 DCR/month) - $40.7 million (+$530k/month) based on $53.95 DCR price**
+**Treasury balance: 755,221 DCR (approx +9,820 DCR/month) - $40.7 million (+$530K/month) based on $53.95 DCR price**
 
 ## New proposals
 
@@ -10,7 +10,7 @@
 
 Published Dec 30 by coinshuffle_bot | 6 comments
 
-This proposal requests $1,684 for work done on phase 2 of the [@StakeShuffle_](https://twitter.com/StakeShuffle_) twitter bot, which regularly tweets usage stats for Decred's Stake Shuffle mixing. The proposal requests payment for work done to improve the bot for phase 2 and to cover hosting costs for 2022. This follows the same funding model as the [first](https://explorer.dcrdata.org/proposal/289575525a368103) phase, where the work was already done before payment was requested. The new features for phase 2 are based on comments from the first proposal, they are mostly new metrics to broadcast.
+This proposal requests $1,684 for work done on phase 2 of the [@StakeShuffle_](https://twitter.com/StakeShuffle_) Twitter bot, which regularly tweets usage stats for Decred's StakeShuffle mixing. The proposal requests payment for work done to improve the bot for phase 2 and to cover hosting costs for 2022. This follows the same funding model as the [first](https://explorer.dcrdata.org/proposal/289575525a368103) phase, where the work was already done before payment was requested. The new features for phase 2 are based on comments from the first proposal, they are mostly new metrics to broadcast.
 
 Comments on the proposal are supportive.
 
@@ -32,9 +32,9 @@ Published Nov 26 by jy-p | 166 comments (+31)
 
 **[Decred Arabia Communications and Content 2022](https://proposals.decred.org/record/0ff082d)**
 
-Published Nov 24 by arij | 11 comments 
+Published Nov 24 by arij | 11 comments
 
-*Recap: This proposal requests $10,600 to extend the work of the current proposal for another 10-12 months. The previous proposal had a budget of $6,200 for six months but only $2,120 was used. An overview of the last period's activities is provided, these included a limited number of events due to Covid-19 restrictions. For the coming year, the proposal projects most of the budget being spent on events, with $2,100 for producing videos.*
+*Recap: This proposal requests $10,600 to extend the work of the current proposal for another 10-12 months. The previous proposal had a budget of $6,200 for 6 months but only $2,120 was used. An overview of the last period's activities is provided, these included a limited number of events due to COVID-19 restrictions. For the coming year, the proposal projects most of the budget being spent on events, with $2,100 for producing videos.*
 
 ## About this issue
 
