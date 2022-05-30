@@ -26,7 +26,7 @@ This proposal requests a maximum budget of $105,000 to fund 18 more months of th
 
 Published 25 May by juliana | edited 28 May | 2 comments
 
-This proposal requests a budget of $3,575 to run three events at Universities in Uganda in summer of 2022, with an expectation that 30 people would attend each event.
+This proposal requests a budget of $3,575 to run three events at Universities in Uganda in summer of 2022, with an expectation that 30 people would attend each event. After being questioned about whether they have organised this kind of event before in #[proposals](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$5pWAEpsAGPN8BcY-Md1HIOwih8FJpXtaZKaigtabn4I?via=decred.org&via=matrix.org&via=planetdecred.org), an [event](https://github.com/decredcommunity/events/blob/master/reports/20191130-decred-meetup-kampala-uganda.md) in 2019 organised by one of the proposal team was referenced. 
 
 **[Decred Content and Asset Translation Proposal (Phase 3)](https://proposals.decred.org/record/7057e0b)**
 
