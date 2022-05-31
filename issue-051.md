@@ -1,6 +1,6 @@
 # Politeia Digest #51 - Jan 11 - May 30 2022
 
-![Image credit: @sænder](img/issue050/050-title.png)
+![Image credit: @sænder](img/issue051/051-title.png)
 
 **Treasury balance: 791,623 DCR (approx +9,160 DCR/month) - $28.8 million (+$333K/month) based on $36.40 DCR price**
 
@@ -73,3 +73,4 @@ This proposal requested $1,684 for work done on the bot since the last phase, an
 Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
+
