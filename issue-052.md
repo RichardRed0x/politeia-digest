@@ -1,8 +1,8 @@
 # Politeia Digest #52 - May 31 - June 27 2022
 
-![Image credit: @sænder](img/issue051/051-title.png)
+![Image credit: @sænder](img/issue052/052-title.png)
 
-**Treasury balance: XXX DCR (approx +9,160 DCR/month) - $28.8 million (+$333K/month) based on $36.40 DCR price**
+**Treasury balance: 800,324 DCR (approx +9,069 DCR/month) - $20 million (+$200K/month) based on $24.97 DCR price**
 
 ## New proposals
 
@@ -34,37 +34,41 @@ All of the comments from community members so far are positive about this propos
 
 **[Decred Journal and Politeia Digest 2022](https://proposals.decred.org/record/4fdef29)**
 
-Published 21 May by exitus | 6 comments
+Published 21 May by exitus | 8 comments (+2)
+
+Final voting figures: 99.6% Yes votes, 56% turnout of eligible tickets.
 
 *Recap: The Decred Journal team are back with a new proposal. After the old proposal ended at the end of 2021 the Decred Journal and Politeia Digest have been unfunded for five months, and inactive for most of that time. @exitus has bee instrumental in the return of the Decred Journal for an (unfunded) April issue, and now this proposal. The proposal requests funding of $33,000, which would cover 9 months of the Journal at max $3,000/month, and also 9 months of Politeia Digest at max $550/month - there is an additional $1,000 set aside to pay the contributors to the April 2022 Journal issue.*
 
-
-
 **[Decred Bug Bounty Program: Phase 5](https://proposals.decred.org/record/da2f32d)**
 
-Published 22 May by jholdstock | 5 comments
+Published 22 May by jholdstock | 11 comments (+6)
 
-*Recap: This proposal requests a maximum budget of $105,000 to fund 18 more months of the Bug Bounty program (formerly administered by @degeri). The budget is split into operating costs ($5,000) and reward payments ($100,000). Since the program started in Jany 2019 over 200 bug reports have been processed and 21 security vulnerabilities have been fixed as a result. A total of $10,154 has been paid to reporters since the program started, and operating costs for the previous year were $2,087.50.* *@degeri left a comment to say they need to focus on IRL matters after the current proposal ends and therefore wish to pass responsibility on to @jholdstock.*
+Final voting figures: 99.2% Yes votes, 56% turnout of eligible tickets.
+
+*Recap: This proposal requested a maximum budget of $105,000 to fund 18 more months of the Bug Bounty program (formerly administered by @degeri). The budget is split into operating costs ($5,000) and reward payments ($100,000). Since the program started in Jany 2019 over 200 bug reports have been processed and 21 security vulnerabilities have been fixed as a result. A total of $10,154 has been paid to reporters since the program started, and operating costs for the previous year were $2,087.50.* *@degeri left a comment to say they need to focus on IRL matters after the current proposal ends and therefore wish to pass responsibility on to @jholdstock.*
 
 **[Decred Content and Asset Translation Proposal (Phase 3)](https://proposals.decred.org/record/7057e0b)**
 
-Published 27 May by kozel | 1 comments
+Published 27 May by kozel | 7 comments (+6)
 
-This proposal requests funding of $20,000 to continue covering the same translation tasks as previous phases, with the same team, for the rest of 2022. The remit covers Decred Journal, the decred.org site, articles/video content and software text. The proposal reports that the previous phase was completed under budget (costs were $8,180 against a budget of $33,000).
+Final voting figures: 98.8% Yes votes, 56% turnout of eligible tickets.
+
+*Recap: This proposal requested funding of $20,000 to continue covering the same translation tasks as previous phases, with the same team, for the rest of 2022. The remit covers Decred Journal, the decred.org site, articles/video content and software text. The proposal reports that the previous phase was completed under budget (costs were $8,180 against a budget of $33,000).*
 
 ## Rejected Proposals
 
 **[Decred Uni Events](https://proposals.decred.org/record/6bdffcb)**
 
-Published 25 May by juliana | edited 28 May | 2 comments
+Published 25 May by juliana | edited 28 May | 27 comments (+25)
 
-This proposal requests a budget of $3,575 to run three events at Universities in Uganda in summer of 2022, with an expectation that 30 people would attend each event. After being questioned about whether they have organised this kind of event before in #[proposals](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$5pWAEpsAGPN8BcY-Md1HIOwih8FJpXtaZKaigtabn4I?via=decred.org&via=matrix.org&via=planetdecred.org), an [event](https://github.com/decredcommunity/events/blob/master/reports/20191130-decred-meetup-kampala-uganda.md) in 2019 organised by one of the proposal team was referenced. 
+Final voting figures: 47% Yes votes, 6% turnout of eligible tickets.
 
-
+*Recap: This proposal requested a budget of $3,575 to run three events at Universities in Uganda in summer of 2022, with an expectation that 30 people would attend each event. After being questioned about whether they have organised this kind of event before in #[proposals](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$5pWAEpsAGPN8BcY-Md1HIOwih8FJpXtaZKaigtabn4I?via=decred.org&via=matrix.org&via=planetdecred.org), an [event](https://github.com/decredcommunity/events/blob/master/reports/20191130-decred-meetup-kampala-uganda.md) in 2019 organised by one of the proposal team was referenced.* 
 
 ## About this issue
 
-Content for this edition was authored by @richardred with fixes from @bee.
+Content for this edition was authored by @richardred.
 
 Image credit: @sænder
 
