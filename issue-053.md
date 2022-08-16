@@ -8,15 +8,15 @@
 
 **[D.R.E.A.M. 2: Dream Harder](https://proposals.decred.org/record/5ef57f7)**
 
-Published 4 August by jy-p | edited 11 Aug | 28 comments
+Published 4 August by jy-p | edited 11 August | 28 comments
 
-This proposal presents a new look and messaging for decred.org, [showcased](https://dream.jholdstock.uk/) on a staging server by @jholdstock. 
+This proposal presents a new look and messaging for decred.org, [showcased](https://dream.jholdstock.uk/) on a staging server by @jholdstock.
 
-Some background: In September 2020 an [RFP proposal](https://proposals-archive.decred.org/proposals/91becea) was submitted by @richard-red and approved with 85% Yes votes - but none of the four candidate proposals which were submitted managed to reach the 60% approval threshold. The closest proposal to the threshold was [D.R.E.A.M.](https://proposals-archive.decred.org/proposals/4532397) by @jz with 48% approval and turnout of 11,686 votes (comfortably over the 20% quorum threshold). 
+Some background: In September 2020 an [RFP proposal](https://proposals.decred.org/proposals/91becea) was submitted by @richard-red and approved with 85% Yes votes - but none of the four candidate proposals which were submitted managed to reach the 60% approval threshold. The closest proposal to the threshold was [D.R.E.A.M.](https://proposals.decred.org/proposals/4532397) by @jz with 48% approval and turnout of 11,686 votes (comfortably over the 20% quorum threshold).
 
-Following the [failure of any of the messaging RFP candidates to pass](https://proposals-archive.decred.org/proposals/91becea) in September 2020, @jy-p was not satisfied with how the RFP process went and, rather than repeat a similar process to revise the messaging now, has worked with @jz, @jholdstock and @saender to prepare a refreshed and simplified website for decred.org.
+Following the [failure of any of the messaging RFP candidates to pass](https://proposals.decred.org/proposals/91becea) in September 2020, @jy-p was not satisfied with how the RFP process went and, rather than repeat a similar process to revise the messaging now, has worked with @jz, @jholdstock and @saender to prepare a refreshed and simplified website for decred.org.
 
-> Design work from saender cost 2,010 USD, site work from jholdstock cost  2,650 USD, messaging work from jz was done free of charge, and  management from jy-p was also done free of charge.
+> Design work from saender cost 2,010 USD, site work from jholdstock cost 2,650 USD, messaging work from jz was done free of charge, and management from jy-p was also done free of charge.
 
 Following discussion in the comments a translation budget of $3,000 was added, and some tweaks were made to the prototype site in response to comments (like adding more links to dcrdata). Comments are all supportive of the proposal and make suggestions for changing the site in various ways.
 
@@ -24,7 +24,7 @@ Following discussion in the comments a translation budget of $3,000 was added, a
 
 **[Decred Magazine](https://proposals.decred.org/record/3bb2c7e)**
 
-Published 25 June by phoenixgreen | 9 comments
+Published 25 June by phoenixgreen | 12 comments
 
 Final voting figures: 87% Yes votes, 28% turnout of eligible tickets.
 
@@ -38,7 +38,7 @@ Published 2 June by raedah | edited 15 June | 59 comments
 
 Final voting figures: 20% Yes votes, 57% turnout of eligible tickets.
 
-*Recap: This proposal requested $250,000 to fund continued development of GoDCR for 12 months, and it would also cover maintenance of existing mobile wallet apps until GoDCR is ready to take their place. GoDCR is a wallet written in Golang which aims to deliver a more lightweight user experience than Decrediton, it uses Gio for the user interface has been supporting Gio with $1,000/month sponsorship. The amount requested by this proposal was originally $300,000 but this was edited down, and the proposal notes that May and June 2022 work is being paid out of pocket by @raedah - a continuation of the self-funding arrangement for this work since the [previous proposal](https://proposals.decred.org/record/f7d9fc8) was rejected with 49% support in Oct 2021. The major development features for this year are mobile GoDCR (20 weeks), DCRDEX integration (10 weeks), UI improvements (9 weeks) and coin control UTXO selection (6 weeks).*
+*Recap: This proposal requested $250,000 to fund continued development of GoDCR for 12 months, and it would also cover maintenance of existing mobile wallet apps until GoDCR is ready to take their place. GoDCR is a wallet written in Golang which aims to deliver a more lightweight user experience than Decrediton, it uses Gio for the user interface and has been supporting Gio with $1,000/month sponsorship. The amount requested by this proposal was originally $300,000 but this was edited down, and the proposal notes that May and June 2022 work is being paid out of pocket by @raedah - a continuation of the self-funding arrangement for this work since the [previous proposal](https://proposals.decred.org/record/f7d9fc8) was rejected with 49% support in Oct 2021. The major development features for this year are mobile GoDCR (20 weeks), DCRDEX integration (10 weeks), UI improvements (9 weeks) and coin control UTXO selection (6 weeks).*
 
 Following the rejection of this proposal @raedah announced in the #planetdecred Matrix room that the room is closing and "Work on godcr is ending and we will be focusing on other non-decred work that is fundable and can get the team to break even on costs."
 
@@ -55,4 +55,3 @@ Final voting figures: 19% Yes votes, 57% turnout of eligible tickets.
 Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
-
