@@ -44,7 +44,7 @@ Final voting figures: 97% Yes votes, 59% turnout of eligible tickets.
 
 @lukebp posted an [update](https://proposals.decred.org/record/4475472/comments/7) on the Politeia 2022 Q1 proposal announcing that [the site](https://proposals.decred.org/) was updated to v1.4.0, with most of the work going into the importing of legacy Git backend proposals into Trillian, along with some new features like allowing edits to comments within 5 minutes of their posting.
 
-As a consequence of the import, legacy Git proposals have different tokens in the new database, but redirects have been setup to keep old links work. Additionally, each legacy proposal has a notice directing to the old [Git repository](https://github.com/decred-proposals/mainnet) hosting all original data, including signatures and timestamps (which we not imported).
+As a consequence of the import, legacy Git proposals have different tokens in the new database, but redirects have been set up to keep old links working. Additionally, each legacy proposal has a notice directing to the old [Git repository](https://github.com/decred-proposals/mainnet) hosting all original data, including signatures and timestamps (which were not imported).
 
 
 ## About this issue
