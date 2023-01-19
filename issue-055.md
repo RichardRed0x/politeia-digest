@@ -8,7 +8,7 @@
 
 **[DCRDEX integration on Umbrel](https://proposals.decred.org/record/8d83046)**
 
-Published Jan 9 by peter\_zen, last edited Jan 18 | 13 comments
+Published Jan 9 by peter\_zen, last edited Jan 18 | 14 comments
 
 This proposal requests $1,960 to integrate DCRDEX into the Umbrel app store. Umbrel is a Linux-based operating system for running a personal server in one's home using x86 or Raspberry Pi computers, it has some popularity with crypto users because of the fit between self-custody and self-hosting. peter\_zen is an established DCRDEX contributor who is proposing to complete the work to configure DCRDEX for Umbrel and submit it to the app store, where it would be easily installable by any Umbrel user. The proposal originally requested $1,000 but was edited to add additional work to investigate some of the issues raised and monitoring/support, bringing the budget to $1,960.
 
