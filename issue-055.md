@@ -40,7 +40,7 @@ The initial comments are asking for evidence that this is a real offer by a legi
 
 Published Jan 18 by richard-red | 4 comments
 
-This proposal requests a budget of $32,500 for one year of work covering a variety of domains and tasks. It includes a research component which follows on from the "Open Source Research" proposal series, and a number of other components, along with approximate and maximum spending limits per component. The research component has an estimated spend of $10,000 and would include Politeia data collection and analysis as well as research on other communities' governance. Politeia moderation and running the @pi_crumbs Twitter account has an estimate of $1,800. $5,000 is earmarked for quality assurance type testing of Decred software and writing issues, tutorials and reviews. There are also some more novel categories with budgets, with an estimated $4,000 to be spent on producing more [Clay Stakey](https://www.youtube.com/@claystakey5157) stop-motion animations, $1,000 for novelty graphics in the [@BisonContent](https://twitter.com/BisonContent) style, as well as a $2,000 miscellaneous heading to cover general helping out not covered elsewhere. Of the total budget, $2,500 is requested as payment in arrears for Politeia moderation ($1,000) and the already produced Clay Stakey content ($1,500).
+This proposal requests a budget of $32,500 for one year of work covering a variety of domains and tasks. It includes a research component which follows on from the "Open Source Research" proposal series, and a number of other components, along with approximate and maximum spending limits per component. The research component has an estimated spend of $10,000 and would include Politeia data collection and analysis as well as research on other communities' governance. Politeia moderation and running the @pi\_crumbs Twitter account has an estimate of $1,800. $5,000 is earmarked for quality assurance type testing of Decred software and writing issues, tutorials and reviews. There are also some more novel categories with budgets, with an estimated $4,000 to be spent on producing more [Clay Stakey](https://www.youtube.com/@claystakey5157) stop-motion animations, $1,000 for novelty graphics in the [@BisonContent](https://twitter.com/BisonContent) style, as well as a $2,000 miscellaneous heading to cover general helping out not covered elsewhere. Of the total budget, $2,500 is requested as payment in arrears for Politeia moderation ($1,000) and the already produced Clay Stakey content ($1,500).
 
 The initial two comments raise questions about the unusual mix of activities falling under a single proposal, although one is supportive of the proposal anyway.
 
@@ -48,7 +48,7 @@ The initial two comments raise questions about the unusual mix of activities fal
 
 **[DCR-Timestamp_bot](https://proposals.decred.org/record/0848cc9)**
 
-Published Oct 19 by coinshuffle_bot | 13 comments
+Published Oct 19 by coinshuffle\_bot | 13 comments
 
 Final voting figures: 91% Yes votes, 33% turnout of eligible tickets.
 
