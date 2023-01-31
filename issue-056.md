@@ -10,7 +10,7 @@
 
 Published Jan 23 by tiagoad | 14 comments
 
-This proposal requests $17,300 for a front end redesign of Timestamply, a web application which provides a timestamping service using dcrtime on the backend. The work was completed by @saender (design, $2,800) and @tiagoalvesdulce (development, $14,500). The scope of work included a new logo and design, light and dark modes, multiple languages and many other improvements, and references a number of GitHub pull requests. The development work is broken down by number of hours per pull request, totalling 290 hours or approx 5.5 FTE, billed at $50/hr.
+This proposal requests $17,300 for a front end redesign of Timestamply, a web application which provides a timestamping service using dcrtime on the backend. The work was completed by @sænder (design, $2,800) and @tiagoalvesdulce (development, $14,500). The scope of work included a new logo and design, light and dark modes, multiple languages and many other improvements, and references a number of GitHub pull requests. The development work is broken down by number of hours per pull request, totalling 290 hours or approx 5.5 FTE, billed at $50/hr.
 
 Preview of the new design is available [here](https://dcrtimegui-redesign.netlify.app/), it will replace the current version at [timestamp.decred.org](https://timestamp.decred.org/). Those testing the preview website should note that it is running with a [test database](https://github.com/decred/dcrtimegui/pull/151#issuecomment-1405915034) and does not have the hashes timestamped on the main instance.
 
