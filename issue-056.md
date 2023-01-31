@@ -10,7 +10,7 @@
 
 Published Jan 23 by tiagoad | 14 comments
 
-This proposal requests $17,300 for a front end redesign of Timestamply, a web application which provides a timestamping service using dcrtime on the backend. The work was completed by @saender (design, $2,800) and @tgagoalvesduce (development, $14,500). The scope of work included a new logo and design, light and dark modes, multiple languages and many other improvements, and references a number of GitHub pull requests. The development work is broken down by number of hours per pull request, totalling 290 hours or approx 5.5 FTE, billed at $50/hr.
+This proposal requests $17,300 for a front end redesign of Timestamply, a web application which provides a timestamping service using dcrtime on the backend. The work was completed by @saender (design, $2,800) and @tiagoalvesdulce (development, $14,500). The scope of work included a new logo and design, light and dark modes, multiple languages and many other improvements, and references a number of GitHub pull requests. The development work is broken down by number of hours per pull request, totalling 290 hours or approx 5.5 FTE, billed at $50/hr.
 
 All of the comments on the proposal are positive, including some from developers and users.
 
@@ -20,15 +20,15 @@ Published Jan 23 by alphaday | 5 comments
 
 This proposal requests $2,200 to produce a Decred version of the Alphaday "dashboard", where information from various widgets can be arranged on one screen as a "tab killer" dealing death to the cluttered browser bars of crypto fans everywhere. The budget is broken down into "upfront costs" of $1,000 for development such as including Decred resources as optional widgets for dashboards, and $100 per month for an analyst to check the dashboard daily and ensure it is working correctly.
 
-Comments pointed out that the proposal was initially requesting USDC and an up front payment, both of which would have been problematic. The proposal was edited to change to requesting DCR amounts, which is also not appropriate.
+Comments pointed out that the proposal was initially requesting USDC and an up-front payment, both of which would have been problematic. The proposal was edited to change to requesting DCR amounts, which is also not appropriate.
 
 **[Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f)**
 
 Published Jan 27 by kozel | 4 comments
 
-This proposal requests a budget of $33,000 for a year's funding of translation work, and opens with a summary of the recently concluded third phase of the translation program where a budget of $20,000 was requested and $11,355.33 was spent. @bee keeps track of translations in an [index](https://github.com/decredcommunity/translations/blob/master/index.md) covering text and video work, as well as [tracking](https://github.com/decredcommunity/translations/blob/master/status.md) software translation status. Most of the effort goes into translating Decred Journal and updates to the decred.org website, during the previous phase new languages were added, such as Greek and German. For this proposal, the list of previously approved contractors has been left out, due to issues with perceived "ownership" of certain languages' translation work or complacency . Also greater use will be made of the CMS temporary contractor functionality, so there is less of a need for prospective contributors to have an established record of translating to join the proposal.
+This proposal requests a budget of $33,000 for a year's funding of translation work, and opens with a summary of the recently concluded third phase of the translation program where a budget of $20,000 was requested and $11,355.33 was spent. @bee keeps track of translations in an [index](https://github.com/decredcommunity/translations/blob/master/index.md) covering text and video work, as well as [tracking](https://github.com/decredcommunity/translations/blob/master/status.md) software translation status. Most of the effort goes into translating Decred Journal and updates to the decred.org website, during the previous phase new languages were added, such as Greek and German. For this proposal, the list of previously approved contractors has been left out, due to issues with perceived "ownership" of certain languages' translation work or complacency. Also greater use will be made of the CMS temporary contractor functionality, so there is less of a need for prospective contributors to have an established record of translating to join the proposal.
 
-Early comments on the proposal concern whether translation work should have its own proposal or  be incorporated in the proposals of whatever needs to be translated, and whether to start translating video subtitles.
+Early comments on the proposal concern whether translation work should have its own proposal or be incorporated in the proposals of whatever needs to be translated, and whether to start translating video subtitles.
 
 ## Proposals under discussion
 
@@ -52,7 +52,7 @@ Many comments on the proposal question or discuss its varied makeup, whether tas
 
 **[DCRDEX integration on Umbrel](https://proposals.decred.org/record/8d83046)**
 
-Published Jan 9 by peter\_zen, last edited Jan 18 | 15 comments (+1) 
+Published Jan 9 by peter\_zen, last edited Jan 18 | 15 comments (+1)
 
 Final voting figures: 84% Yes votes, 47% turnout of eligible tickets.
 
@@ -60,7 +60,7 @@ Final voting figures: 84% Yes votes, 47% turnout of eligible tickets.
 
 **[Decred Video Content 2023](https://proposals.decred.org/record/56a439a)**
 
-Published Jan 9 by exitus | 10 comments (+2) 
+Published Jan 9 by exitus | 10 comments (+2)
 
 Final voting figures: 83% Yes votes, 55% turnout of eligible tickets.
 
@@ -68,7 +68,7 @@ Final voting figures: 83% Yes votes, 55% turnout of eligible tickets.
 
 **[Decred Arabia Communications and Content 2023](https://proposals.decred.org/record/5b975ba)**
 
-Published Jan 12 by arij, last edited Jan 17 | 4  comments (+3)
+Published Jan 12 by arij, last edited Jan 17 | 4 comments (+3)
 
 Final voting figures: 75% Yes votes, 49% turnout of eligible tickets.
 
