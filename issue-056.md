@@ -16,7 +16,7 @@ All of the comments on the proposal are positive, including some from developers
 
 **[Alphaday Grant Application](https://proposals.decred.org/record/49793bf)**
 
-Published Jan 23 by alphaday | 5 comments
+Published Jan 23 by alphaday, last edited Jan 30 | 5 comments
 
 This proposal requests $2,200 to produce a Decred version of the Alphaday "dashboard", where information from various widgets can be arranged on one screen as a "tab killer" dealing death to the cluttered browser bars of crypto fans everywhere. The budget is broken down into "upfront costs" of $1,000 for development such as including Decred resources as optional widgets for dashboards, and $100 per month for an analyst to check the dashboard daily and ensure it is working correctly.
 
@@ -24,7 +24,7 @@ Comments pointed out that the proposal was initially requesting USDC and an up-f
 
 **[Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f)**
 
-Published Jan 27 by kozel | 4 comments
+Published Jan 27 by kozel, last edited Jan 29 | 4 comments
 
 This proposal requests a budget of $33,000 for a year's funding of translation work, and opens with a summary of the recently concluded third phase of the translation program where a budget of $20,000 was requested and $11,355.33 was spent. @bee keeps track of translations in an [index](https://github.com/decredcommunity/translations/blob/master/index.md) covering text and video work, as well as [tracking](https://github.com/decredcommunity/translations/blob/master/status.md) software translation status. Most of the effort goes into translating Decred Journal and updates to the decred.org website, during the previous phase new languages were added, such as Greek and German. For this proposal, the list of previously approved contractors has been left out, due to issues with perceived "ownership" of certain languages' translation work or complacency. Also greater use will be made of the CMS temporary contractor functionality, so there is less of a need for prospective contributors to have an established record of translating to join the proposal.
 
@@ -42,7 +42,7 @@ The comments on this proposal are mostly questioning the legitimacy or value of 
 
 **[Rick Red Revival: Research and assorted other tasks](https://proposals.decred.org/record/f12258b)**
 
-Published Jan 18 by richard-red | 28 comments (+24)
+Published Jan 18 by richard-red, last edited Jan 28 | 28 comments (+24)
 
 *Recap: This proposal requests a budget of $32,500 for one year of work covering a variety of domains and tasks. It includes a research component which follows on from the "Open Source Research" proposal series, and a number of other components, along with approximate and maximum spending limits per component. The research component has an estimated spend of $10,000 and would include Politeia data collection and analysis as well as research on other communities' governance. Politeia moderation and running the @pi\_crumbs Twitter account has an estimate of $1,800. $5,000 is earmarked for quality assurance type testing of Decred software and writing issues, tutorials and reviews. There are also some more novel categories with budgets, with an estimated $2,000 to be spent on producing more [Clay Stakey](https://www.youtube.com/@claystakey5157) stop-motion animations, $1,000 for novelty graphics in the [@BisonContent](https://twitter.com/BisonContent) style, as well as a $2,000 miscellaneous heading to cover general helping out not covered elsewhere. Of the total budget, $2,500 is requested as payment in arrears for Politeia moderation ($1,000) and the already produced Clay Stakey ($1,000) and Bison Content ($500).*
 
@@ -77,6 +77,6 @@ Final voting figures: 75% Yes votes, 49% turnout of eligible tickets.
 
 ## About this issue
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with fixes by @bee.
 
 Image credit: @sænder
