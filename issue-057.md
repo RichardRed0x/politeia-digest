@@ -8,15 +8,15 @@
 
 **[Decred Journal and Politeia Digest 2023](https://proposals.decred.org/record/9e68dca)**
 
-Published March 4 by bee, last edited March 6 | 11 comments
+Published Mar 4 by bee, last edited Mar 6 | 11 comments
 
-This proposal requests a budget of $40,000 for 12 months of producing Decred Journal and Politeia Digest, with a 90/10 split in budget between these. Spending figures for the previous period were reported; the total spent was $25,570, which was 77% of the proposal's limit, and it was spent mostly on the Journal ($24,050) with only 4% spent on Politeia Digest (6%). It was a relatively quiet year for Politeia, with only 6 issues of PD being published in the 9 month period covered by the previous proposal. Some figures were reported for an average 2022 issue, ~4,400 words and 220 links to sources.
+This proposal requests a budget of $40,000 for 12 months of producing Decred Journal and Politeia Digest, with a 90/10 split in budget between these. Spending figures for the previous period were reported; the total spent was $25,570, which was 77% of the proposal's limit, and it was spent mostly on the Journal ($24,050) with only $1,520 spent on Politeia Digest (6%). It was a relatively quiet year for Politeia, with only 6 issues of PD being published in the 9 month period covered by the previous proposal. Some figures were reported for an average 2022 issue, ~4,400 words and 220 links to sources.
 
 **[Cointelegraph Content Proposal](https://proposals.decred.org/record/ff64137)**
 
-Published March 4 by mattyleight, last edited March 13 | 55 comments
+Published Mar 4 by mattyleight, last edited Mar 13 | 55 comments
 
-This proposal requests $50,000 for a package of content to be published on Cointelegraph's website and other channels, with $25,000 to be paid up front before work begins and another $25,000 after the first month of collaboration - @exitus and @tivra are named as the Decred representatives who would facilitate the relationship. The content would be delivered over 4-6 weeks and include: one spotlight article and one interview article, each to be pinned on the main page for 24 hours, featured in the related news section and shared on Cointelegraph's twitter and telegram - and also a twitter spaces with live tweeting, and after talking to some community members on a livestream they decided to add a free press release, usually valued at $8,000. The budget is broken down into a main part of $47K, with an additional $3K classified as "volatility protection", effectively a surcharge for accepting DCR as payment.  
+This proposal requests $50,000 for a package of content to be published on Cointelegraph's website and other channels, with $25,000 to be paid up front before work begins and another $25,000 after the first month of collaboration - @exitus and @tivra are named as the Decred representatives who would facilitate the relationship. The content would be delivered over 4-6 weeks and include: one spotlight article and one interview article, each to be pinned on the main page for 24 hours, featured in the related news section and shared on Cointelegraph's Twitter and Telegram - and also a Twitter Spaces with live tweeting, and after talking to some community members on a livestream they decided to add a free press release, usually valued at $8,000. The budget is broken down into a main part of $47K, with an additional $3K classified as "volatility protection", effectively a surcharge for accepting DCR as payment.
 
 This proposal has some interesting comments and discussions. @jy-p [explained](https://proposals.decred.org/record/ff64137/comments/19) the history between Decred and Cointelegraph, starting with a hit piece when Decred launched published by a pseudonymous author and followed by a ghosting when efforts were made to connect and find out what was behind the coverage. There is a [comment](https://proposals.decred.org/record/ff64137/comments/16) from someone claiming to be a former Cointelegraph employee who claims the most crypto savvy staff have been laid off in recent months and Cointelegraph has embraced increasingly dubious crypto projects as advertising partners. Many of the other comments probe aspects of the proposal offering, and through this interaction and similar on a livestream many details have been added to the proposal.
 
@@ -30,13 +30,13 @@ This proposal requests a budget of $29,000 to develop a more user-friendly Decre
 
 Published Mar 7 by buck54321 | 25 comments
 
-This proposal requests a budget of $182,000 to fund around 9 months of work on the Decred DEX client, with a focus on improving wallet functionality for all of the assets supported. Additional assets are being targeted for support, like Polygon and Didgybyte, and the integrated wallet functionality will be improved for Zcash (to support shielded pools) and Decred (staking and mixing). The rationale for this refocus of development is that Decred DEX is the first point of contact many users have with Decred, they may not want or need a heavy duty wallet like Decrediton but could still benefit from some of Decred's advanced features through the built in DEX wallet. 
+This proposal requests a budget of $182,000 to fund around 9 months of work on the Decred DEX client, with a focus on improving wallet functionality for all of the assets supported. Additional assets are being targeted for support, like Polygon and DigiByte, and the integrated wallet functionality will be improved for Zcash (to support shielded pools) and Decred (staking and mixing). The rationale for this refocus of development is that Decred DEX is the first point of contact many users have with Decred, they may not want or need a heavy duty wallet like Decrediton but could still benefit from some of Decred's advanced features through the built-in DEX wallet.
 
 **[Decred DEX - Market Maker and Arbitrage Bot Development](https://proposals.decred.org/record/8b1ceda)**
 
-Published Mar 7 by martonp | 8 comments
+Published Mar 7 by martonp, last edited Mar 16 | 8 comments
 
-This proposal requests a budget of $73,000 for development of market making and arbitrage trading bots to work with Decred DEX, work is expected to take 9 months (with a limit of 14) and would be led by @martonp. The rationale for providing software to run these bots is that it would open up the prospect of acting as a market maker to many more users because they would not need to create their own bot first. Decred DEX markets would benefit from added liquidity provided by users running the market maker bots, and the arbitrage trading bot could be used to generate profits by exploiting and closing gaps between the DEX price and that on a CEX.
+This proposal requests a budget of $73,000 for development of market making and arbitrage trading bots to work with Decred DEX, work is expected to take 9 months (with a limit of 14) and would be led by @martonp. The rationale for providing software to run these bots is that it would open up the prospect of acting as a market maker to many more users because they would not need to create their own bot first. Decred DEX markets would benefit from added liquidity provided by users running the market maker bots, and the arbitrage trading bot could be used to generate profits by exploiting and closing gaps between the DEX price and that on a CEX (initially Binance and Bittrex).
 
 ## Approved Proposals
 
@@ -60,7 +60,7 @@ Final voting figures: 88% Yes votes, 44% turnout of eligible tickets.
 
 **[Sponsorship in Motorsports](https://proposals.decred.org/record/2b19c56)**
 
-Published Jan 18 by laurent | 58 comments (+0)
+Published Jan 18 by laurent, last edited Feb 4 | 58 comments (+0)
 
 Final voting figures: 9% Yes votes, 22% turnout of eligible tickets.
 
@@ -72,11 +72,11 @@ Published Jan 23 by alphaday, last edited Jan 30 | 10 comments (+5)
 
 Final voting figures: 17% Yes votes, 25% turnout of eligible tickets.
 
-This proposal requests $2,200 to produce a Decred version of the Alphaday "dashboard", where information from various widgets can be arranged on one screen as a "tab killer" dealing death to the cluttered browser bars of crypto fans everywhere. The budget is broken down into "upfront costs" of $1,000 for development such as including Decred resources as optional widgets for dashboards, and $100 per month for an analyst to check the dashboard daily and ensure it is working correctly.
+*Recap: This proposal requests $2,200 to produce a Decred version of the Alphaday "dashboard", where information from various widgets can be arranged on one screen as a "tab killer" dealing death to the cluttered browser bars of crypto fans everywhere. The budget is broken down into "upfront costs" of $1,000 for development such as including Decred resources as optional widgets for dashboards, and $100 per month for an analyst to check the dashboard daily and ensure it is working correctly.*
 
 **[Rick Red Revival: Research and assorted other tasks](https://proposals.decred.org/record/f12258b)**
 
-Published Jan 18 by richard-red, last edited Jan 28 | 35 comments (+7)
+Published Jan 18 by richard-red, last edited Feb 1 | 35 comments (+7)
 
 Final voting figures: 56% Yes votes, 30% turnout of eligible tickets.
 
@@ -84,6 +84,6 @@ Final voting figures: 56% Yes votes, 30% turnout of eligible tickets.
 
 ## About this issue
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
