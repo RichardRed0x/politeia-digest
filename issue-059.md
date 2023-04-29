@@ -8,19 +8,19 @@
 
 **[Decred Vanguard: A New Outreach Effort](https://proposals.decred.org/record/0a1b782)**
 
-Published Apr 18 by exitus | 29 comments
+Published Apr 18 by exitus, last edited Apr 21 | 29 comments
 
-This proposal requests a budget of $46,784 to fund a "community-driven outreach program with the purpose of injecting Decred into discussions all across the internet". There would be 25 available positions in the Decred Vanguard team, each participant would receive $100/month in compensation for their efforts, with an additional 3 members receiving an extra $100 per month as a prize, with the additional availability of another $100 prize for a contribution from someone who is not a member of Decred Vanguard. Vanguard members would aim to energize the community, grow the community, increase awareness of Decred's features and tools and create quality art and memes. The program would be run by @exitus and @tivra, and people who want to join should contact them. Efforts would be organized through a "war room" and contributors will have access to tools like Twitter Blue and Midjourney. Most of the budget is split between the stipends ($2,500/month) and paying the two admins ($2,400/month), on top of the monthly expenses limit of $5,598 x 8 an additional $2,000 is requested for discretionary spending.
+This proposal requests a budget of $46,784 to fund a "community-driven outreach program with the purpose of injecting Decred into discussions all across the Internet". There would be 25 available positions in the Decred Vanguard team, each participant would receive $100/month in compensation for their efforts, with an additional 3 members receiving an extra $100 per month as a prize, with the additional availability of another $100 prize for a contribution from someone who is not a member of Decred Vanguard. Vanguard members would aim to energize the community, grow the community, increase awareness of Decred's features and tools and create quality art and memes. The program would be run by @exitus and @tivra, and people who want to join should contact them. Efforts would be organized through a "war room" bridged across Bison Relay, Matrix, and Discord, and contributors will have access to tools like Twitter Blue (premium Twitter features), Midjourney (AI-generated images), and ElevenLabs (AI-generated voice-overs). Most of the budget is split between the stipends ($2,500/month) and paying the two admins ($2,400/month), on top of the monthly expenses limit of $5,598 x 8 an additional $2,000 is requested for discretionary spending.
 
 Most of the comments are entirely supportive of the proposal, with one in depth [thread](https://proposals.decred.org/record/0a1b782/comments/13) questioning the size of the admin budget.
 
 **[BTC-ECHO Content Proposal](https://proposals.decred.org/record/49e373b)**
 
-Published Apr 17 by btcecho | 17 comments
+Published Apr 17 by btcecho, last edited Apr 27 | 17 comments
 
-This proposal requests $9,500 for a three month engagement during which BTC-ECHO, a German crypto site, would create and publish two sponsored articles, including "social media booster" promotion to their 115K followers across various platforms. The package also includes a podcast ad to be read by one of the podcast hosts and run for two weeks. Content for the articles and ads would be agreed with Decred community representatives. This proposal is being suggested as the start of a longer term relationship.
+This proposal requests $9,500 for a three month engagement during which [BTC-ECHO](https://www.btc-echo.de/), a German crypto site, would create and publish two sponsored articles, including "social media booster" promotion to their 115K followers across various platforms. The package also includes a podcast ad to be read by one of the podcast hosts and run for two weeks. Content for the articles and ads would be agreed with Decred community representatives. This proposal is being suggested as the start of a longer term relationship.
 
-Many comments thank BTC-ECHO for taking the time to submit the proposal, some questioning the value it offers or requesting additional elements. BTC-ECHO has engaged with the commenters to address their questions and edited the proposal to improve clarity around their scant previous mentions of Decred and push the start date back by two weeks.
+Many comments thank BTC-ECHO for taking the time to submit the proposal, some questioning the value it offers or requesting additional elements. BTC-ECHO has engaged with the commenters to address their questions and edited the proposal to improve clarity around their scant previous mentions of Decred and push the start date forward by two weeks (to May 15).
 
 ## Approved Proposals
 
@@ -42,6 +42,6 @@ Final voting figures: 87% Yes votes, 39% turnout of eligible tickets.
 
 ## About this issue
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
