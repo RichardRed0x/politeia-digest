@@ -8,11 +8,11 @@
 
 **[DCRDEX Mesh Beginnings and Bonds Evolution](https://proposals.decred.org/record/4d2324b)**
 
-Published May 9 by chappjc | 3 comments
+Published May 9 by chappjc | 4 comments
 
-This proposal requests a budget of $164,000 to develop prototype and experimental versions of a new DCRDEX v2.0 which would utilise a mesh of servers rather than relying on the central bulletin board type servers of v0.6 (and soon v1.0). The proposal describes a process of planning and then prototyping a skeletal testnet mesh with a small number of hosts using a p2p communications layer, to be used as a sandbox for simulations and testing that can refine the design for mainnet use. The proposal's objective is then to develop an experimental mesh-enabled version of DCRDEX that can run alongside v1.0 on mainnet and serve as the basis for a future mesh-enabled DCRDEX v2.0. A timeline is provided which sees DCRDEX v1.0 release in Aug 2023, mesh prototype on testnet around Oct 2023, and the experimental mainnet version by Feb 2024.
+This proposal requests a budget of $164,000 to develop prototype and experimental versions of a new DCRDEX v2.0 which would utilise a mesh of servers rather than relying on the central bulletin board type servers of v0.6 (and soon v1.0). The proposal describes a process of planning and then prototyping a skeletal testnet mesh with a small number of hosts using a P2P communications layer, to be used as a sandbox for simulations and testing that can refine the design for mainnet use. The proposal's objective is then to develop an experimental mesh-enabled version of DCRDEX that can run alongside v1.0 on mainnet and serve as the basis for a future mesh-enabled DCRDEX v2.0. A timeline is provided which sees DCRDEX v1.0 release in Aug 2023, mesh prototype on testnet around Oct 2023, and the experimental mainnet version by Feb 2024.
 
-There are two supportive comments on the proposal, one asks about a market data API for the mesh network and @chappjc responds to say that current endpoints would exist and could be queried from any server in the mesh.
+There are three supportive comments on the proposal, one asks about a market data API for the mesh network and @chappjc responds to say that current endpoints would exist and could be queried from any server in the mesh.
 
 ## Approved Proposals
 
@@ -26,7 +26,7 @@ Final voting figures: 94% Yes votes, 39% turnout of eligible tickets.
 
 **[BTC-ECHO Content Proposal](https://proposals.decred.org/record/49e373b)**
 
-Published Apr 17 by btcecho, last edited Apr 27 | 23 (+6) comments
+Published Apr 17 by btcecho, last edited May 4 | 23 (+6) comments
 
 Final voting figures: 69% Yes votes, 32% turnout of eligible tickets.
 
@@ -36,6 +36,6 @@ Following the approval of this proposal BTC-ECHO have left an [update](https://p
 
 ## About this issue
 
-Content for this edition was authored by @richardred.
+Content for this edition was authored by @richardred with fixes from @bee.
 
 Image credit: @sænder
