@@ -24,6 +24,8 @@ Final voting figures: 94% Yes votes, 39% turnout of eligible tickets.
 
 *Recap: This proposal requested a budget of $46,784 to fund a "community-driven outreach program with the purpose of injecting Decred into discussions all across the Internet". There would be 25 available positions in the Decred Vanguard team, each participant would receive $100/month in compensation for their efforts, with an additional 3 members receiving an extra $100 per month as a prize, with the additional availability of another $100 prize for a contribution from someone who is not a member of Decred Vanguard. Vanguard members would aim to energize the community, grow the community, increase awareness of Decred's features and tools and create quality art and memes. The program would be run by @exitus and @tivra, and people who want to join should contact them. Efforts would be organized through a "war room" bridged across Bison Relay, Matrix, and Discord, and contributors will have access to tools like Twitter Blue (premium Twitter features), Midjourney (AI-generated images), and ElevenLabs (AI-generated voice-overs). Most of the budget is split between the stipends ($2,500/month) and paying the two admins ($2,400/month), on top of the monthly expenses limit of $5,598 x 8 an additional $2,000 is requested for discretionary spending.*
 
+Vanguard "war room" is up and running but it will be Discord-only for now since the Discord chat bridge was [shut down](https://www.decredmagazine.com/decred-journal-april-2023/#ecosystem) recently.
+
 **[BTC-ECHO Content Proposal](https://proposals.decred.org/record/49e373b)**
 
 Published Apr 17 by btcecho, last edited May 4 | 23 (+6) comments
