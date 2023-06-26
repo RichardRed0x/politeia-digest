@@ -42,6 +42,6 @@ Published Jun 5 by cagedbird | last edited Jun 9 | 14 comments (+2)
 
 ## About this issue
 
-Content for this edition was authored by @richardred with fixes from @bee.
+Content for this edition was authored by @richardred with review from @bee.
 
 Image credit: @sænder
