@@ -8,7 +8,7 @@
 
 **[Cypherpunk Times 2023-2024](https://proposals.decred.org/record/4d3a8fc)**
 
-Published Jun 13 by phoenixgreen| last edited  |  comments
+Published Jun 13 by phoenixgreen| 38 comments
 
 This proposal follows on from the Decred Magazine [proposal](https://proposals.decred.org/record/3bb2c7e) approved in 2022, rebranding Decred Magazine to Cypherpunk Times and making it a multi-chain publication. The budget requested is $44,000, which equates to $3,600/month - an increase on the $2,800/month from the last Decred Magazine proposal, to allow room for expansion to cover additional chains. The proposal includes criteria for the kind of chain which is within scope, the main one being that it must have at least 5 years of development of  permissionless open source software. There are also rules about how much content can relate to a specific project, with an initial cap of 5 items per week. The proposed funding is for "maintenance of the publication, Decred related content, and other relevant content that enhances the Decred message", with an eventual aim to have other projects fund and coordinate content about them, but with some "crossovers" whilst that is brought up to speed. The proposal pays contributors at $30/hour and has caps for the editor role (10 hours per week) and content submissions (4 for medium, 8 for long, 15 for technical articles). When most content is published it is given a marketing campaign, shared with the Magazine's 100 subscribers and promoted to the 1,350 social media followers across Twitter, Facebook, Instagram, and TikTok.
 
@@ -16,7 +16,7 @@ Most of the higher scoring comments are supportive of the proposal, but there ar
 
 **[utxostudios](https://proposals.decred.org/record/9e265ad)**
 
-Published Jun 20 by utxostudio | last edited  |  comments
+Published Jun 20 by utxostudio | 18 comments
 
 This proposal seeks funding of $23,650 to produce twelve 90-second videos in twelve different languages. The proposal includes two links to [example](https://vimeo.com/836729063) [videos](https://vimeo.com/836769185) on Vimeo (password: dcr), these feature actors in ski-masks talking about Decred. The proposal does not include dissemination of this material, it would be produced and then made available to the Decred community to share or re-use. The budget would cover 4 shoot days, 5 editing days, 12 actors (for the different languages) and 11 translations - with the final 12 languages dependant on actor availability but definitely covering Mandarin, Hindi, Egyptian Arabic, Spanish, and Brazilian Portuguese. The script for the videos would be shared with the Decred community before recording, and where possible translators would be recruited from within the Decred community.
 
@@ -24,7 +24,7 @@ The comments on the proposal are generally supportive. The top [comment](https:/
 
 **[Promote DCRDEX through a new website](https://proposals.decred.org/record/20ba5cd)**
 
-Published Jun 21 by tallamericano | last edited Jun 23  |  comments
+Published Jun 21 by tallamericano | last edited Jun 22  | 18 comments
 
 This proposal seeks funding of $2,000 to build a new website with educational information about DCRDEX, about 10-20 pages documenting the features and benefits of DCRDEX, with tutorials. The proposal originally planned to host this website at Coinbase.ie but that was identified as a problem by several community members, and @tallamericano edited the proposal to make the domain undetermined. The main part of the budget is dedicated to web development ($1,600) for a "responsive and visually appealing website, implementation of necessary features, and integration of DCRDEX branding elements". $300 is reserved for content creation to fill the site, including text graphics and illustrations, with the remaining $100 for domain and hosting costs. The proposal anticipates completing the website within 4 weeks, with a subsequent proposal to implement features such as dynamic information feeds from DCRDEX.
 
