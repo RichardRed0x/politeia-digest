@@ -8,11 +8,11 @@
 
 **[Cryptopower: Golang Native Desktop & Mobile Wallet](https://proposals.decred.org/record/256efee)**
 
-Published Aug 10 by dreacot | 24 comments
+Published Aug 10 by dreacot | last edited Aug 21 | 24 comments
 
 This proposal requests a budget of $61,600 to resurrect the GoDCR codebase and replace its former function as a desktop and mobile DCR wallet, but in this case also add support for BTC and LTC to become a multi asset wallet. GoDCR and the mobile wallets dcrandroid and dcrios have been discontinued since they [failed](https://proposals.decred.org/record/0ef42e5) to secure development funding. Prior to the submission of the proposal a [v1.0.0 release](https://github.com/crypto-power/cryptopower/releases/tag/release-v1.0.0) was put out with desktop apps for Linux, macOS and Windows, and an experimental Android APK build which is not yet stable. If this proposal is funded, Android and iOS versions of Cryptopower will be uploaded to the app stores and a range of new features will be developed including staking, voting, DCRDEX integration and coin control. The proposal includes a big table showing how Cryptopower compares to Decrediton, DCRDEX, Cake Wallet and the old mobile apps. The projected plan is for 28 weeks of full time equivalent work charged at $55/hr, with 10 weeks each projected for mobile enhancements and DCRDEX integration. The estimated delivery timeframe is 4-5 months. The proposal also includes a list of initiatives that didn't make the cut for this initial proposal but may well appear in future iterations, depending on community feedback.
 
-The comments on the proposal are all supportive, affirming the desire to have more working mobile-friendly wallets for Decred. One [comment](https://proposals.decred.org/record/256efee/comments/1) asks about ongoing maintenance of the wallet in a case where it fails to secure funding in future and @dreacot indicated that a smaller proposal would be submitted to cover maintenance costs and keep the wallet functional. 
+The comments on the proposal are all supportive, affirming the desire to have more working mobile-friendly wallets for Decred. One [comment](https://proposals.decred.org/record/256efee/comments/1) asks about ongoing maintenance of the wallet in a case where it fails to secure funding in future and @dreacot indicated that a smaller proposal would be submitted to cover maintenance costs and keep the wallet functional.
 
 **[Odaily Content Proposal](https://proposals.decred.org/record/b80040f)**
 
@@ -36,7 +36,7 @@ Published Jun 13 by phoenixgreen | 49 comments (+6)
 
 Final voting figures: 95% Yes votes, 47% turnout of eligible tickets.
 
-*Recap: This proposal follows on from the Decred Magazine [proposal](https://proposals.decred.org/record/3bb2c7e) approved in 2022, rebranding Decred Magazine to Cypherpunk Times and making it a multi-chain publication. The budget requested is $44,000, which equates to $3,600/month - an increase on the $2,800/month from the last Decred Magazine proposal, to allow room for expansion to cover additional chains. The proposal includes criteria for the kind of chain which is within scope, the main one being that it must have at least 5 years of development of permissionless open source software. There are also rules about how much content can relate to a specific project, with an initial cap of 5 items per week. The proposed funding is for "maintenance of the publication, Decred related content, and other relevant content that enhances the Decred message", with an eventual aim to have other projects fund and coordinate content about them, but with some "crossovers" whilst that is brought up to speed. The proposal pays contributors at $30/hour and has caps for the editor role (10 hours per week) and content submissions (4 for medium, 8 for long, 15 for technical articles). When most content is published it is given a marketing campaign, shared with the Magazine's 100 newsletter subscribers and promoted to the 1,350 social media followers across Twitter, Facebook, Instagram, and TikTok.*
+*Recap: This proposal follows on from the Decred Magazine [proposal](https://proposals.decred.org/record/3bb2c7e) approved in 2022, rebranding Decred Magazine to [Cypherpunk Times](https://www.cypherpunktimes.com/) and making it a multi-chain publication. The budget requested is $44,000, which equates to $3,600/month - an increase on the $2,800/month from the last Decred Magazine proposal, to allow room for expansion to cover additional chains. The proposal includes criteria for the kind of chain which is within scope, the main one being that it must have at least 5 years of development of permissionless open source software. There are also rules about how much content can relate to a specific project, with an initial cap of 5 items per week. The proposed funding is for "maintenance of the publication, Decred related content, and other relevant content that enhances the Decred message", with an eventual aim to have other projects fund and coordinate content about them, but with some "crossovers" whilst that is brought up to speed. The proposal pays contributors at $30/hour and has caps for the editor role (10 hours per week) and content submissions (4 for medium, 8 for long, 15 for technical articles). When most content is published it is given a marketing campaign, shared with the Magazine's 100 newsletter subscribers and promoted to the 1,350 social media followers across Twitter, Facebook, Instagram, and TikTok.*
 
 **[utxostudios](https://proposals.decred.org/record/9e265ad)**
 
@@ -50,7 +50,7 @@ Final voting figures: 75% Yes votes, 42% turnout of eligible tickets.
 
 **[Promote DCRDEX through a new website](https://proposals.decred.org/record/20ba5cd)**
 
-Published Jun 21 by tallamericano | last edited Jun 22 | 27 comments (+5) 
+Published Jun 21 by tallamericano | last edited Jun 22 | 27 comments (+5)
 
 Final voting figures: 30% Yes votes, 34% turnout of eligible tickets.
 
@@ -62,7 +62,7 @@ Published Jun 5 by cagedbird | last edited Jun 9 | 24 comments (+10)
 
 Final voting figures: 28% Yes votes, 26% turnout of eligible tickets.
 
-*Recap: This proposal requested a budget of $2,400 (edited down from an initial $30,000) to establish and further develop the Decred.club website, a Chinese language resource for learning about Decred. The proposal was initially pitched as a full time endeavour, but in response to community feedback it has been scaled back to part-time and the scope reduced, it no longer aims to translate the Decred docs and will instead focus on more contemporary content like wallet tutorials and article translations. The proposal indicates one item of content would be produced or translated per week, with additional time spent maintaining the website and growing the Decred.club community.*
+*Recap: This proposal requested a budget of $2,400 (edited down from an initial $30,000) to establish and further develop the [Decred.club](https://decred.club/) website, a Chinese language resource for learning about Decred. The proposal was initially pitched as a full time endeavour, but in response to community feedback it has been scaled back to part-time and the scope reduced, it no longer aims to translate the [Decred docs](https://docs.decred.org/) and will instead focus on more contemporary content like wallet tutorials and article translations. The proposal indicates one item of content would be produced or translated per week, with additional time spent maintaining the website and growing the Decred.club community.*
 
 ## About this issue
 
