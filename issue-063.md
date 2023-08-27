@@ -1,4 +1,4 @@
-# Politeia Digest #63 - July 21 - August 25 2023
+# Politeia Digest #63 - June 26 - August 25 2023
 
 ![Image credit: @sænder](img/issue063/063-title.png)
 
