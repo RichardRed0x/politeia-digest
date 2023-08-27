@@ -1,4 +1,4 @@
-# Politeia Digest #63 - June 26 - August 25 2023
+# Politeia Digest #63 - June 26 - August 26 2023
 
 ![Image credit: @sænder](img/issue063/063-title.png)
 
@@ -8,7 +8,7 @@
 
 **[Cryptopower: Golang Native Desktop & Mobile Wallet](https://proposals.decred.org/record/256efee)**
 
-Published Aug 10 by dreacot | last edited Aug 21 | 24 comments
+Published Aug 10 by dreacot | last edited Aug 21 | 27 comments
 
 This proposal requests a budget of $61,600 to resurrect the GoDCR codebase and replace its former function as a desktop and mobile DCR wallet, but in this case also add support for BTC and LTC to become a multi asset wallet. GoDCR and the mobile wallets dcrandroid and dcrios have been discontinued since they [failed](https://proposals.decred.org/record/0ef42e5) to secure development funding. Prior to the submission of the proposal a [v1.0.0 release](https://github.com/crypto-power/cryptopower/releases/tag/release-v1.0.0) was put out with desktop apps for Linux, macOS and Windows, and an experimental Android APK build which is not yet stable. If this proposal is funded, Android and iOS versions of Cryptopower will be uploaded to the app stores and a range of new features will be developed including staking, voting, DCRDEX integration and coin control. The proposal includes a big table showing how Cryptopower compares to Decrediton, DCRDEX, Cake Wallet and the old mobile apps. The projected plan is for 28 weeks of full time equivalent work charged at $55/hr, with 10 weeks each projected for mobile enhancements and DCRDEX integration. The estimated delivery timeframe is 4-5 months. The proposal also includes a list of initiatives that didn't make the cut for this initial proposal but may well appear in future iterations, depending on community feedback.
 
