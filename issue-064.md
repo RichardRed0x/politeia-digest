@@ -30,11 +30,11 @@ This proposal requests $60,000 for another year of Public Relations provision at
 
 Published Aug 10 by conniej | 12 comments (+4)
 
-This proposal requests $15,000 for the writing and publication of two articles about Decred over the span of a six month period during which the editors will be contactable. Odaily is a Chinese language crypto news site that claims 1.5 million unique monthly users. The content of the articles would be approved by a Decred representative, @Dominic, and metrics like number of page views would be shared after 2 weeks. The budget explicitly states that all $15,000 is for Odaily "content service budget" and @Dominic's reviewing budget is $0.
+This proposal requests $15,000 for the writing and publication of two articles about Decred over the span of a six month period during which the editors will be contactable. Odaily is a Chinese language crypto news site that claims 1.5 million unique monthly users. The content of the articles would be approved by a Decred representative, @Dominic, and metrics like number of pageviews would be shared after 2 weeks. The budget explicitly states that all $15,000 is for Odaily "content service budget" and @Dominic's reviewing budget is $0.
 
 The comments ask questions about the nature of the content/relationship, and in some cases questioning the high price. [One](https://proposals.decred.org/record/b80040f/comments/3) of the comments highlighted Odaily's heavy promotion of Decred-Next, a fork which attempted to keep alive a version of the network which still paid miners 60% of rewards (i.e. without [DCP-10](https://github.com/decred/dcps/blob/master/dcp-0010/dcp-0010.mediawiki)) - and they promptly removed all of that content.
 
-It has been over a month since the proposal was submitted and since @conniej responded to any comments, as the proposal is still not authorized for voting the spectre of abandonment looms large.
+It has been over a month since the proposal was submitted and since @conniej responded to any comments, but the latest word from @dominic is that @conniej is busy at the moment and will return.
 
 ## Approved Proposals
 
