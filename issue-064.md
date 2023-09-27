@@ -1,10 +1,10 @@
-# Politeia Digest #64 - August 27 - September 23 2023
+# Politeia Digest #64 - August 27 - September 26 2023
 
 ![Image credit: @sænder](img/issue064/064-title.png)
 
-***UPDATE (Sep 27)**: Clarified status of the Odaily proposal and voting issues faced by the Cake Wallet proposal.*
+***UPDATE (Sep 27)**: Now with latest updates to the status of the Monde PR and Odaily proposals, and more detail about voting issues faced by the first Cake Wallet proposal.*
 
-**Treasury balance: 872,121 DCR (approx +7,359 DCR/month) - $11.4 million (+$96K/month) based on $13.09 DCR price**
+**Treasury balance: 827,167 DCR (approx +7,359 DCR/month) - $11.1 million (+$99K/month) based on $13.48 DCR price**
 
 ## New Proposals
 
@@ -14,9 +14,9 @@ Published Sep 12 by joegruff | last edited Sep 13 | 6 comments
 
 Meet the new Cake Wallet integration proposal, same as the old Cake Wallet integration [proposal](https://proposals.decred.org/record/2f25f2d) - which you may remember from the last issue, and can also find below in the Rejected Proposals section.
 
-In what is a very rare outcome, the initial proposal for Cake Wallet integration failed to reach the quorum requirement of 20% of eligible tickets voting, it could only manage 18% turnout. There were however some unusual circumstances which led to the effective voting period being much shorter than the usual 7 days. After the activation of the PoW algorithm [consensus change](https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki) there was a period of almost 3 days with no blocks, of which 2 days overlapped with proposal's [voting period](https://dcrdata.decred.org/proposal/2f25f2da17aa4007). During this period of no blocks being mined voting software [did not function normally](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$Q4g7SkmU07zBxyufYUdHi8jCbipCQLRPOYrBtxjTC_Y), preventing many votes from being cast (unless [setting back the clock](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$Up4fpmE77Xle4zfe1h1wKd9QlhTHhYxK1WRW_Ivvugk) and other workarounds were used). After block production has resumed several clients were not working for a couple of more days due to another [bug with syncing blocks](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$BCNsqoUfeOqYaVWIO7EUH3O14Kojns9Y5HiDvXa1VWg) which required restarting nodes. Then on September 2 no votes have been cast for 6 hours for both proposals being voted, possibly a server issue. As if that were not enough, GPU mining kicked in during the last days of voting to produce blocks much faster than the average speed of 5 minutes per block. As a result the vote ended sooner than some people expected, because vote duration is based on block numbers and not on time.
+In what is a very rare outcome, the initial proposal for Cake Wallet integration failed to reach the quorum requirement of 20% of eligible tickets voting, it could only manage 18% turnout. There were however some unusual circumstances which led to the effective voting period being much shorter than the usual 7 days. After the activation of the PoW algorithm [consensus change](https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki) there was a period of almost 3 days with no blocks, of which 2 days overlapped with the proposal's [voting period](https://dcrdata.decred.org/proposal/2f25f2da17aa4007). During this period of no blocks being mined voting software [did not function normally](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$Q4g7SkmU07zBxyufYUdHi8jCbipCQLRPOYrBtxjTC_Y), preventing many votes from being cast (unless [setting back the clock](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$Up4fpmE77Xle4zfe1h1wKd9QlhTHhYxK1WRW_Ivvugk) and other workarounds were used). After block production has resumed several clients were not working for a couple of more days due to another [bug with syncing blocks](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$BCNsqoUfeOqYaVWIO7EUH3O14Kojns9Y5HiDvXa1VWg) which required restarting nodes. Then on September 2 no votes have been cast for 6 hours for either of the proposals being voted on, possibly a server issue. As if that were not enough, GPU mining kicked in during the last days of voting to produce blocks much faster than the average speed of 5 minutes per block. As a result the vote ended sooner than some people expected, because vote duration is based on block numbers and not on time.
 
-Overall Cake Wallet's period of problem-free voting was reduced significantly, down to ~3.5 days according to [one estimate](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$3iVbKTZ_iGrQYKnNBszExCjfHP-LY5eYesu2wB6rJQY). On top of the issues caused by the hardfork, the start of Cake Wallet's voting was not grouped with another proposal which started a bit earlier (normally multiple proposals are started at the same time to maximize engagement), and also there has been almost no outreach on Twitter or Reddit to make voters aware of the proposal (again unlike the other proposals).
+Overall Cake Wallet's period of problem-free voting was reduced significantly, down to ~3.5 days according to [one estimate](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$3iVbKTZ_iGrQYKnNBszExCjfHP-LY5eYesu2wB6rJQY). On top of the issues caused by the hardfork, the start of Cake Wallet's voting was not grouped with another proposal which started a bit earlier (normally multiple proposals are started at the same time to maximize engagement) because it was not authorized at the time when the other proposal started voting, and also there has been almost no outreach on Twitter or Reddit to make voters aware of the proposal (again unlike the other proposals).
 
 The original Cake Wallet Integration proposal was riding high with [87% approval](https://dcrdata.decred.org/proposal/2f25f2da17aa4007) and would definitely have been approved if the quorum had been met, even if all of the additional votes were No votes. This was probably the first proposal to fall into that crack which has long been [identified](https://blockcommons.red/publication/quorum-change-examples/) in this kind of quorum definition, a scenario where people who wish to see the proposal rejected may benefit from tactically delaying their vote if there is a chance that the proposal may fail on grounds of failing to meet the quorum requirement.
 
@@ -26,13 +26,11 @@ All of the comments are expressing support for the proposal except [one](https:/
 
 **[Decred PR Proposal Phase Five](https://proposals.decred.org/record/0c04c6f)**
 
-Published Sep 15 by lindseymmc | 10 comments
+Published Sep 15 by lindseymmc, last edited Sep 26 | 27 comments
 
-This proposal requests $60,000 for another year of Public Relations provision at $5,000/month. @l1ndseymm has been providing these services to Decred for four years, and her last [proposal](https://proposals.decred.org/record/d5221a9) was approved with 66% support at a budget of $48,000. @l1ndseymm's team has been expanded to 5 (although not clear from what baseline) to include "two crypto media relations experts and two support-level PRs", which is expected to bolster media relations and result in larger media presence for Decred.
+This proposal requests $48,000 for another year of Public Relations provision at $5,000/month. @l1ndseymm has been providing these services to Decred for four years, and her last [proposal](https://proposals.decred.org/record/d5221a9) was approved with 66% support at a budget of $48,000. The proposal originally requested $60,000 because @l1ndseymm's team has been expanded to 5 to include "two crypto media relations experts and two support-level PRs" - the edit reduced the budget to the same as previous year and also introduced the new team members, likely in response to [comments](https://proposals.decred.org/record/0c04c6f/comments/20) on the proposal. The transition from solo outfit to structured team is expected to bring increased efficiency and result in better number and quality of media placements.
 
-4 of the comments are from @shane about specific messaging and outreach suggestions, the remaining comments ask questions about the new staff and there is [one](https://proposals.decred.org/record/0c04c6f/comments/9) very critical comment from what appears to be a self-disclosed alternate account "to protect from political blowback".
-
-@Lindsey has [indicated](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$OEmunnF2PoOqeShWG-q6E0gx7P-3ycYVfJh8vCuyQ8k) that she does not intend to progress to voting with the proposal, citing a lack of positive sentiment towards the PR work generally and recent hurtful comments.
+This proposal was almost withdrawn by @lindseymmc following some negative comments from people using alternate Politeia accounts "to protect from political blowback", and a perceived lack of recognition of the value of the PR work in the community. However, after [indicating](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$OEmunnF2PoOqeShWG-q6E0gx7P-3ycYVfJh8vCuyQ8k) her intention to abandon the proposal on Matrix @lindseymmc received more supportive comments from the community and encouragement to follow through with the vote, and she [decided](https://matrix.to/#/!qYpAAClAYrHaUIGkLs:decred.org/$DaMHq-cvQxQxH8WNq3um20U4mINhLDZfzFI4LW8QIz8?via=decred.org&via=t2bot.io&via=matrix.org) to authorize voting after editing the proposal on Sep 26. 
 
 ## Proposals under discussion
 
@@ -74,6 +72,6 @@ Voting for this proposal was shorter than usual because of irregularities in the
 
 ## About this issue
 
-Content for this edition was authored by @richardred with feedback from @dreacot and review from @bee.
+Content for this edition was authored by @richardred with feedback from @dreacot and in depth voting problem research plus review from @bee.
 
 Image credit: @sænder
