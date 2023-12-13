@@ -14,25 +14,25 @@ This proposal requests a budget of $105,000, split between $100,000 for bounty p
 
 **[Decred Video Content 2024](https://proposals.decred.org/record/49cf2e1)**
 
-Published Dec 8 by phoenixgreen | 1 comment
+Published Dec 8 by phoenixgreen | 2 comments
 
-This proposal requests a budget of $71,000 for the creation and dissemination of video content for 2024, it comes from the same team who have delivered the previous video content proposals. The requested budget is increasing to $5,920/month from $3,800/month, for 2023 the proposal billed a total of $39,847 ($3,321/month). Although the number of views and viewing time continued to grow steadily in 2023, growth in new subscribers is acknowledged as disappointing, with a net of just 27 new subscribers gained. The proposal considers a number of possibilities for improving the growth in subscribers: coordinating with Vanguard group to promote the content, Twitter livestreams, additional Twitter spaces, promoted ads for featured content on Twitter and Youtube, incentivising influencers to participate in livestreams and try Decred software. The proposal is open for new contributors, current team members are @phoenixgreen, @exitus, @karamble and @tivra. 
+This proposal requests a budget of $71,000 for the creation and dissemination of video content for 2024, it comes from the same team who have delivered the previous video content proposals. The requested budget is increasing to $5,920/month from $3,800/month, for 2023 the proposal billed a total of $39,847 ($3,321/month). Although the number of views and viewing time continued to grow steadily in 2023, growth in new subscribers is acknowledged as disappointing, with a net of just 27 new subscribers gained. The proposal considers a number of possibilities for improving the growth in subscribers: coordinating with Vanguard group to promote the content, Twitter livestreams, additional Twitter spaces, promoted ads for featured content on Twitter and Youtube, incentivising influencers to participate in livestreams and try Decred software. The proposal is open for new contributors, current team members are @phoenixgreen, @exitus, @karamble and @tivra.
 
 ## Approved Proposals
 
 **[Cake Wallet Integration Again](https://proposals.decred.org/record/b3bdacb)**
 
-Published Sep 12 by joegruff | last edited Sep 13 | 6 commentsa
+Published Sep 12 by joegruff | last edited Sep 13 | 6 comments
 
 Final voting figures: 88% Yes votes, 59% turnout of eligible tickets.
 
-*Recap: This proposal requested a budget of $80,000 to add Decred support to Cake Wallet, the work would be completed by approved Decred developers and there would be no charge from Cake Wallet to integrate the support in their releases. There is a relevant [video](https://www.youtube.com/watch?v=0KKsD4ZhZn0) where @tivra and @phoenixgreen discuss the prospects for the relationship with a Cake Wallet representative. Cake Wallet is a popular multi asset wallet with a built in exchange function, it was mobile only until Feb 2023 and since then has desktop versions for Linux and MacOS. The Decred integration would be using SPV mode to process blocks directly on the device so no privacy-compromising third party is required, and the team have expressed a willingness to support other advanced features in future. The [original](https://proposals.decred.org/record/2f25f2d) version of the proposal failed to reach a quorum because of problems with the voting system caused by the activation of consensus rule changes.*
+*Recap: This proposal requested a budget of $80,000 to add Decred support to Cake Wallet, the work would be completed by approved Decred developers and there would be no charge from [Cake Wallet](https://cakewallet.com/) to integrate the support in their releases. There is a relevant [video](https://www.youtube.com/watch?v=0KKsD4ZhZn0) where @tivra and @phoenixgreen discuss the prospects for the relationship with a Cake Wallet representative. Cake Wallet is a popular multi asset wallet with a built in exchange function, it was mobile only until Feb 2023 and since then has desktop versions for Linux and MacOS. The Decred integration would be using SPV mode to process blocks directly on the device so no privacy-compromising third party is required, and the team have expressed a willingness to support other advanced features in future. The [original](https://proposals.decred.org/record/2f25f2d) version of the proposal failed to reach a quorum because of problems with the voting system caused by the activation of consensus rule changes. See [previous issue](https://blockcommons.red/politeia-digest/issue064/) for more details*
 
 ## Rejected Proposals
 
 **[Decred PR Proposal Phase Five](https://proposals.decred.org/record/0c04c6f)**
 
-Published Sep 15 by lindseymmc, last edited Sep 28 | 51 comments (+24)
+Published Sep 15 by lindseymmc | last edited Sep 28 | 51 comments (+24)
 
 Final voting figures: 53% Yes votes, 55% turnout of eligible tickets.
 
@@ -40,7 +40,7 @@ Final voting figures: 53% Yes votes, 55% turnout of eligible tickets.
 
 **[Odaily Content Proposal](https://proposals.decred.org/record/b80040f)**
 
-Published Aug 10 by conniej | 12 comments 
+Published Aug 10 by conniej | last edited Oct 16 | 12 comments
 
 Final voting figures: 30% Yes votes, 28% turnout of eligible tickets.
 
@@ -48,6 +48,6 @@ Final voting figures: 30% Yes votes, 28% turnout of eligible tickets.
 
 ## About this issue
 
-Content for this edition was authored by @richardred with feedback from @dreacot and in depth voting problem research plus review from @bee.
+Content for this edition was authored by @richardred with review from @bee.
 
 Image credit: @sænder
